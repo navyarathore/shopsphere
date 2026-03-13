@@ -164,15 +164,6 @@ export default function HomePage() {
 
       <div className="max-w-[1500px] mx-auto px-3 sm:px-6 py-8 flex flex-col gap-10">
 
-        {/* Scrollable category pill strip */}
-        <section>
-          <div className="flex items-center justify-between mb-3">
-            <h2 className="text-base font-extrabold text-gray-900 tracking-tight">Shop by Category</h2>
-            <span className="text-[11px] text-gray-400 font-medium hidden sm:block">Scroll to explore →</span>
-          </div>
-          <InterestStrip />
-        </section>
-
         {/* Mid-page promo banner */}
         <MidBanner
           bg="bg-gradient-to-r from-[#131921] to-[#232f3e]"
