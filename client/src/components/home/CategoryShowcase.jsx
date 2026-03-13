@@ -85,29 +85,35 @@ export default function CategoryShowcase({ categoryMap = {}, loading = false }) 
       link: '/?category=Sports+%26+Outdoors',
     },
     {
-      title: 'Bulk discounts & Deals',
-      subtitle: 'Min. 50% off | Unique home finds',
-      category: 'Home & Kitchen',
-      link: '/?category=Home+%26+Kitchen',
+      title: 'Fresh Produce & Groceries',
+      subtitle: 'Organic picks delivered to your door',
+      category: 'Fresh',
+      link: '/?category=Fresh',
     },
     {
-      title: 'International Brands',
-      subtitle: 'Up to 50% off | Top global brands',
-      category: 'Clothing',
-      link: '/?category=Clothing',
+      title: 'Latest Mobile Phones',
+      subtitle: 'Top smartphones from leading brands',
+      category: 'Mobiles',
+      link: '/?category=Mobiles',
     },
     {
-      title: "Customers' Most-Loved",
-      subtitle: 'Top-rated across all categories',
-      category: 'Electronics',
-      link: '/',
+      title: 'Toys & Games for Everyone',
+      subtitle: 'Fun for kids and adults alike',
+      category: 'Toys & Games',
+      link: '/?category=Toys+%26+Games',
+    },
+    {
+      title: 'Laptops & Desktops',
+      subtitle: 'Power-packed computers for every need',
+      category: 'Computers',
+      link: '/?category=Computers',
     },
   ]
 
   if (loading) {
     return (
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-        {Array.from({ length: 8 }).map((_, i) => (
+      <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+        {Array.from({ length: 9 }).map((_, i) => (
           <div key={i} className="bg-white rounded-md shadow-sm p-4 animate-pulse">
             <div className="h-4 bg-gray-200 rounded mb-3 w-3/4" />
             <div className="grid grid-cols-2 gap-2">
@@ -123,7 +129,7 @@ export default function CategoryShowcase({ categoryMap = {}, loading = false }) 
   }
 
   return (
-    <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
       {cards.map((card) => (
         <PromoCard
           key={card.title}

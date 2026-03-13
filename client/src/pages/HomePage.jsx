@@ -29,16 +29,27 @@ function MidBanner({ bg, headline, sub, cta, ctaLink }) {
 function InterestStrip() {
   return (
     <div className="flex flex-wrap justify-center gap-3 py-1">
-      {CATEGORY_NAV_ITEMS.map((c) => (
-        <Link
-          key={c.query}
-          to={`/?category=${encodeURIComponent(c.query)}`}
-          className="flex-shrink-0 flex flex-col items-center gap-1 bg-white rounded-xl shadow-sm px-5 py-3 hover:shadow-md hover:ring-2 hover:ring-amazon-yellow transition-all text-center"
-        >
-          <span className="text-2xl">{c.icon}</span>
-          <span className="text-xs font-semibold text-gray-700 whitespace-nowrap">{c.label}</span>
-        </Link>
-      ))}
+      {CATEGORY_NAV_ITEMS.map((c) =>
+        c.hasProducts ? (
+          <Link
+            key={c.query}
+            to={`/?category=${encodeURIComponent(c.query)}`}
+            className="flex-shrink-0 flex flex-col items-center gap-1 bg-white rounded-xl shadow-sm px-5 py-3 hover:shadow-md hover:ring-2 hover:ring-amazon-yellow transition-all text-center"
+          >
+            <span className="text-2xl">{c.icon}</span>
+            <span className="text-xs font-semibold text-gray-700 whitespace-nowrap">{c.label}</span>
+          </Link>
+        ) : (
+          <div
+            key={c.query}
+            className="flex-shrink-0 flex flex-col items-center gap-1 bg-white rounded-xl shadow-sm px-5 py-3 text-center opacity-50 cursor-not-allowed"
+            title="Coming soon"
+          >
+            <span className="text-2xl">{c.icon}</span>
+            <span className="text-xs font-semibold text-gray-500 whitespace-nowrap">{c.label}</span>
+          </div>
+        )
+      )}
     </div>
   )
 }
