@@ -1,0 +1,43 @@
+{
+  "name": "Catan Board Game (5th Edition)",
+  "description": "The world's best-selling strategy board game. In Catan, players settle an island, gather resources, and build roads, settlements, and cities in a race to 10 victory points. No two games are ever alike thanks to the modular hex board. Perfect for 3–4 players aged 10+ and endlessly replayable for families and friends.",
+  "price": 44.99,
+  "stock": 120,
+  "category": "Toys & Games",
+  "mainImageUrl": "https://picsum.photos/seed/catan/600/600",
+  "images": [
+    "https://picsum.photos/seed/catan-2/600/600",
+    "https://picsum.photos/seed/catan-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Edition", "value": "5th Edition (2015 refresh)" },
+    { "key": "Players", "value": "3–4 (expandable to 5–6 with expansion)" },
+    { "key": "Recommended Age", "value": "10+" },
+    { "key": "Play Time", "value": "60–120 minutes" },
+    { "key": "Game Type", "value": "Strategy / Resource Management / Trading" },
+    { "key": "Components", "value": "19 hex terrain tiles, 6 sea frame pieces, 9 harbour pieces, 18 number tokens, 95 resource cards, 25 development cards, 4 building cost cards, 2 special cards, 16 cities, 20 settlements, 60 roads, 2 dice, robber piece" },
+    { "key": "Theme", "value": "Medieval island settlement" },
+    { "key": "Publisher", "value": "Catan Studio / Asmodee" },
+    { "key": "Language", "value": "English" },
+    { "key": "Box Dimensions", "value": "29.2 × 29.2 × 7.6 cm" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B00U26V4VQ" },
+    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (28,341 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#2 in Strategy Board Games" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "Catan Studio" },
+    { "key": "Item Weight", "value": "1.19 kg" },
+    { "key": "Batteries Required", "value": "No" },
+    { "key": "Compatible Expansions", "value": "Catan: 5-6 Player Extension, Seafarers, Cities & Knights, Traders & Barbarians" },
+    { "key": "Warranty", "value": "Manufacturer defect replacement available" },
+    { "key": "In the Box", "value": "All components as listed in specifications, full colour rulebook" }
+  ],
+  "reviews": [
+    { "reviewerName": "Michael P.", "rating": 5, "title": "The gateway drug to board gaming", "reviewText": "Catan introduced me to modern board games 10 years ago and it still hits the table regularly. Every game tells a different story. The trading and negotiation elements create tension and hilarity in equal measure. Essential.", "verifiedPurchase": true, "reviewDate": "2026-02-08", "helpfulCount": 2341 },
+    { "reviewerName": "Jessica L.", "rating": 5, "title": "Perfect family game night staple", "reviewText": "We play this every Friday night. Our kids aged 11 and 13 are obsessed. It teaches resource management and negotiation without feeling educational. The modular board keeps every game fresh.", "verifiedPurchase": true, "reviewDate": "2026-01-22", "helpfulCount": 1876 },
+    { "reviewerName": "Tom W.", "rating": 4, "title": "Classic for good reason", "reviewText": "Genuinely one of the greatest games ever designed. Only issue is it can cause friendly arguments when someone blocks your road or steals your resources! Not a flaw — that IS the game. Brilliant.", "verifiedPurchase": true, "reviewDate": "2026-02-17", "helpfulCount": 1102 },
+    { "reviewerName": "Aisha N.", "rating": 5, "title": "Converted all my friends into board gamers", "reviewText": "Brought this to a house party where nobody had played it before. Within 30 minutes everyone was fully engrossed and we played three games in a row. Now six of my friends own copies of their own.", "verifiedPurchase": true, "reviewDate": "2026-03-05", "helpfulCount": 987 },
+    { "reviewerName": "Carlos R.", "rating": 5, "title": "30 years old and still unmatched", "reviewText": "Klaus Teuber created something timeless. The elegance of the design — simple rules, deep strategy, endless replayability — has never been bettered. A must-own for any household.", "verifiedPurchase": true, "reviewDate": "2026-02-12", "helpfulCount": 1543 }
+  ]
+}

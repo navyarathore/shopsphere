@@ -1,0 +1,43 @@
+{
+  "name": "Jenga Giant JS7 Hardwood Game",
+  "description": "Take the classic Jenga tower to epic proportions. The Jenga Giant JS7 starts at 61 cm tall and can grow to over 122 cm during play. Made from premium hardwood blocks, it's built to withstand thousands of games indoors and outdoors. Pull one block at a time, stack it on top, and try not to topple the tower. For 2+ players aged 8+.",
+  "price": 89.99,
+  "stock": 65,
+  "category": "Toys & Games",
+  "mainImageUrl": "https://picsum.photos/seed/jengagiant/600/600",
+  "images": [
+    "https://picsum.photos/seed/jengagiant-2/600/600",
+    "https://picsum.photos/seed/jengagiant-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Model", "value": "JS7" },
+    { "key": "Starting Height", "value": "61 cm (24 inches)" },
+    { "key": "Maximum Height", "value": "Over 122 cm (48 inches)" },
+    { "key": "Block Dimensions", "value": "19.1 × 6.4 × 3.8 cm per block" },
+    { "key": "Number of Blocks", "value": "54 precision-crafted hardwood blocks" },
+    { "key": "Material", "value": "Premium hardwood" },
+    { "key": "Players", "value": "2+" },
+    { "key": "Recommended Age", "value": "8+" },
+    { "key": "Indoor / Outdoor", "value": "Both" },
+    { "key": "Storage", "value": "Includes carry bag" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B00BV9LDES" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (9,452 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#1 in Giant Outdoor Games" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "Jenga / Hasbro" },
+    { "key": "Item Weight", "value": "5.4 kg" },
+    { "key": "Product Dimensions", "value": "64 × 21 × 21 cm (box)" },
+    { "key": "Batteries Required", "value": "No" },
+    { "key": "Warranty", "value": "1-year manufacturer warranty" },
+    { "key": "In the Box", "value": "54 hardwood blocks, carrying/storage bag, instructions" }
+  ],
+  "reviews": [
+    { "reviewerName": "Greg H.", "rating": 5, "title": "The star of every party", "reviewText": "We set this up at a garden barbecue and it was the centrepiece of the entire afternoon. Adults and kids alike were glued to it. The giant size adds so much tension compared to standard Jenga — you feel every wobble. Perfect party game.", "verifiedPurchase": true, "reviewDate": "2026-02-15", "helpfulCount": 1842 },
+    { "reviewerName": "Sandra T.", "rating": 5, "title": "Solid build, spectacular fun", "reviewText": "The hardwood blocks feel incredibly premium. No warping or splitting after a summer of outdoor use. It stacks beautifully and the carry bag makes storage and transport easy. My family fights over whose turn it is.", "verifiedPurchase": true, "reviewDate": "2026-01-27", "helpfulCount": 1123 },
+    { "reviewerName": "Kevin W.", "rating": 4, "title": "Great game, heavy to carry", "reviewText": "The weight tells you the quality is there. 5.4 kg is a lot to lug around, so this lives at the house rather than going to every event. But as a garden/patio game it genuinely never gets old — I've played it hundreds of times.", "verifiedPurchase": true, "reviewDate": "2026-02-09", "helpfulCount": 677 },
+    { "reviewerName": "Lucy P.", "rating": 5, "title": "Best outdoor game for all ages", "reviewText": "From 6-year-olds to grandparents, everyone can play and enjoy Jenga Giant. The drama when the tower finally falls is unmatched. The carrying bag means you can pack it up quickly. Couldn't be happier with this purchase.", "verifiedPurchase": true, "reviewDate": "2026-03-06", "helpfulCount": 934 },
+    { "reviewerName": "Bryan M.", "rating": 5, "title": "Replaced my old one and it's even better", "reviewText": "Had a standard Jenga Giant for 5 years and finally upgraded. The JS7 hardwood blocks are noticeably smoother and better finished. The game is more satisfying to play and the blocks balance perfectly. Exceptional product.", "verifiedPurchase": true, "reviewDate": "2026-02-28", "helpfulCount": 512 }
+  ]
+}

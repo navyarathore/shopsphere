@@ -1,0 +1,43 @@
+{
+  "name": "NERF Ultra One Motorised Blaster",
+  "description": "The NERF Ultra One is the most advanced NERF blaster ever made. Its motorised flywheel fires NERF Ultra darts — the farthest-flying NERF darts ever — up to 36 m (120 ft). The 25-dart drum, built-in acceleration button, and slam-fire action let you unleash rapid-fire volleys. Compatible only with NERF Ultra darts for maximum distance and accuracy.",
+  "price": 49.99,
+  "stock": 95,
+  "category": "Toys & Games",
+  "mainImageUrl": "https://picsum.photos/seed/nerfultra/600/600",
+  "images": [
+    "https://picsum.photos/seed/nerfultra-2/600/600",
+    "https://picsum.photos/seed/nerfultra-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Series", "value": "NERF Ultra" },
+    { "key": "Firing Mechanism", "value": "Motorised flywheel with slam-fire" },
+    { "key": "Firing Range", "value": "Up to 36 m (120 ft)" },
+    { "key": "Drum Capacity", "value": "25 NERF Ultra darts" },
+    { "key": "Darts Included", "value": "25 NERF Ultra darts" },
+    { "key": "Compatible Darts", "value": "NERF Ultra darts only" },
+    { "key": "Batteries Required", "value": "6 × AA (1.5V) alkaline (not included)" },
+    { "key": "Recommended Age", "value": "8+" },
+    { "key": "Colour", "value": "Orange & Grey" },
+    { "key": "Dimensions", "value": "65 × 32 × 10 cm" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B07XBVF4GJ" },
+    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (4,217 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#3 in Toy Blasters & Foam Play" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "Hasbro, Inc., 1027 Newport Ave, Pawtucket, RI 02861" },
+    { "key": "Item Weight", "value": "1.3 kg" },
+    { "key": "Safety Note", "value": "Do not aim at eyes or face. Use only official NERF Ultra darts." },
+    { "key": "Batteries", "value": "6 × AA required (not included)" },
+    { "key": "Warranty", "value": "1-year manufacturer warranty" },
+    { "key": "In the Box", "value": "NERF Ultra One blaster, 25-dart drum, 25 NERF Ultra darts" }
+  ],
+  "reviews": [
+    { "reviewerName": "Tyler B.", "rating": 5, "title": "Absolutely destroys the competition", "reviewText": "The range on this thing is unreal. We set up an outdoor battle in the garden and the Ultra One outranged every other blaster my kids owned. The 25-dart drum means you're firing for a long time before reload. Kids love it.", "verifiedPurchase": true, "reviewDate": "2026-02-23", "helpfulCount": 892 },
+    { "reviewerName": "Dana K.", "rating": 5, "title": "Best NERF blaster on the market", "reviewText": "My 10-year-old has three NERF blasters and this is the undisputed champion of the collection. Slam-fire empties all 25 darts in seconds. The motorised acceleration means consistent range every shot.", "verifiedPurchase": true, "reviewDate": "2026-01-28", "helpfulCount": 654 },
+    { "reviewerName": "Marcus J.", "rating": 4, "title": "Brilliant but eats batteries", "reviewText": "The performance is outstanding — best range of any stock blaster. My one criticism is it goes through AA batteries fairly quickly on heavy use days. Keep a pack of rechargeables handy and you're golden.", "verifiedPurchase": true, "reviewDate": "2026-02-10", "helpfulCount": 423 },
+    { "reviewerName": "Olivia S.", "rating": 5, "title": "Epic birthday gift", "reviewText": "My son turned 9 and his face when he opened this was priceless. He and his friends spent four hours battling in the garden. The range advantage is significant — he was picking off targets from across the lawn.", "verifiedPurchase": true, "reviewDate": "2026-03-04", "helpfulCount": 731 },
+    { "reviewerName": "Nathan P.", "rating": 4, "title": "Ultra darts are proprietary — buy extras!", "reviewText": "Quick tip: the Ultra darts are only compatible with Ultra-series blasters, so stock up when you order. The blaster itself is exceptional — motorised, fast, accurate. Just budget for extra darts.", "verifiedPurchase": true, "reviewDate": "2026-02-19", "helpfulCount": 388 }
+  ]
+}
