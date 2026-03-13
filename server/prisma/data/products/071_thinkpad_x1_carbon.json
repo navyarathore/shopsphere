@@ -1,0 +1,48 @@
+{
+  "name": "Lenovo ThinkPad X1 Carbon Gen 12",
+  "description": "The gold standard of business laptops. The ThinkPad X1 Carbon Gen 12 combines Intel Core Ultra 7 165U performance with unmatched durability — MIL-SPEC tested across 12 categories — in a carbon-fibre chassis weighing just 1.12 kg. Legendary ThinkPad keyboard, 14-inch 2.8K OLED display, and enterprise-grade security features make this the definitive laptop for business professionals.",
+  "price": 1549.00,
+  "stock": 45,
+  "category": "Computers",
+  "mainImageUrl": "https://picsum.photos/seed/thinkpadx1/600/600",
+  "images": [
+    "https://picsum.photos/seed/thinkpadx1-2/600/600",
+    "https://picsum.photos/seed/thinkpadx1-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Processor", "value": "Intel Core Ultra 7 165U (12-core, up to 4.9 GHz, Intel Arc GPU)" },
+    { "key": "RAM", "value": "32 GB LPDDR5x 6400 MHz" },
+    { "key": "Storage", "value": "1 TB PCIe Gen 4 NVMe SSD" },
+    { "key": "Display", "value": "14-inch 2.8K OLED, 2880 × 1800 px, 90 Hz, 0.2 ms, 400 nits, 100% DCI-P3, Dolby Vision" },
+    { "key": "Battery", "value": "57 Wh, up to 15 hours; Rapid Charge (80% in ~1 hour)" },
+    { "key": "Ports", "value": "2× Thunderbolt 4, 2× USB-A 3.2 Gen 1, HDMI 2.1, 3.5 mm audio, nano-SIM slot" },
+    { "key": "Wireless", "value": "Wi-Fi 6E (802.11ax), Bluetooth 5.3, optional 5G WWAN" },
+    { "key": "Security", "value": "Fingerprint reader, IR camera (Windows Hello), ThinkShutter webcam cover, dTPM 2.0, Kensington lock slot" },
+    { "key": "Keyboard", "value": "ThinkPad backlit keyboard with TrackPoint pointing stick" },
+    { "key": "Camera", "value": "1080p FHD with ThinkShutter privacy cover" },
+    { "key": "OS", "value": "Windows 11 Pro" },
+    { "key": "Dimensions", "value": "315.6 × 222.5 × 14.9 mm" },
+    { "key": "Weight", "value": "1.12 kg" },
+    { "key": "Chassis", "value": "Carbon-fibre reinforced top, aluminium base" },
+    { "key": "MIL-SPEC Testing", "value": "MIL-STD-810H (12 categories: dust, temperature, humidity, shock, vibration, altitude, etc.)" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B0CX1TPADG12" },
+    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (2,543 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#1 in Business Ultrabooks" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "Lenovo Group Ltd., No. 8 Tuo Zhong Road, Daxing District, Beijing 100176, China" },
+    { "key": "Item Weight", "value": "1.12 kg" },
+    { "key": "Product Dimensions", "value": "315.6 × 222.5 × 14.9 mm" },
+    { "key": "Warranty", "value": "3-year on-site warranty with Premier Support" },
+    { "key": "In the Box", "value": "ThinkPad X1 Carbon Gen 12, 65W USB-C power adapter, documentation" },
+    { "key": "vPro", "value": "Intel vPro Essentials supported" }
+  ],
+  "reviews": [
+    { "reviewerName": "Diana F.", "rating": 5, "title": "The best business laptop ever made", "reviewText": "Fifteen years of ThinkPad ownership and this is the best one. The OLED display is a dramatic upgrade, the keyboard is still the finest on any laptop, and at 1.12 kg I barely notice it in my bag. The 3-year on-site warranty gives me complete confidence.", "verifiedPurchase": true, "reviewDate": "2026-02-19", "helpfulCount": 934 },
+    { "reviewerName": "Kevin M.", "rating": 5, "title": "Built like a tank, light as a feather", "reviewText": "The carbon-fibre chassis flexes precisely zero. I fly 3–4 times a month and this laptop has survived overhead bins, turbulence, and a coffee spill that would have killed any other machine. Performance and battery life are equally impressive.", "verifiedPurchase": true, "reviewDate": "2026-02-27", "helpfulCount": 712 },
+    { "reviewerName": "Sarah O.", "rating": 4, "title": "Exceptional build and keyboard, middling iGPU", "reviewText": "The Core Ultra 7's Arc iGPU is adequate for everyday tasks and light creative work, but if you need heavy GPU workloads you'll want a discrete GPU model. For business productivity it's faultless — the keyboard, display, and durability are simply unmatched.", "verifiedPurchase": true, "reviewDate": "2026-02-03", "helpfulCount": 483 },
+    { "reviewerName": "Ben H.", "rating": 5, "title": "The keyboard alone justifies the price", "reviewText": "The ThinkPad keyboard is a religious experience. I type faster, more accurately, and with less fatigue than on any other laptop or even most desktop keyboards. Combined with a gorgeous OLED screen and sub-1.2 kg weight, this is my perfect laptop.", "verifiedPurchase": true, "reviewDate": "2026-03-07", "helpfulCount": 621 },
+    { "reviewerName": "Yuna K.", "rating": 5, "title": "Survived everything I've thrown at it", "reviewText": "Dropped it once from a desk, carry it through rain regularly, and it runs in freezing cold server rooms. Not a scratch, not a hiccup. The MIL-SPEC testing is not marketing — this laptop genuinely shrugs off conditions that destroy other laptops.", "verifiedPurchase": true, "reviewDate": "2026-01-28", "helpfulCount": 548 }
+  ]
+}

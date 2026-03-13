@@ -1,0 +1,48 @@
+{
+  "name": "Apple MacBook Air 15-inch (M3, 2024)",
+  "description": "The world's best thin-and-light laptop, now with the Apple M3 chip and a stunning 15.3-inch Liquid Retina display. Whisper-quiet with no fan, up to 18 hours of battery life, and a sleek 11.5 mm aluminium chassis weighing just 1.51 kg. Perfect for students, creatives, and professionals who want maximum portability without sacrifice.",
+  "price": 1299.00,
+  "stock": 50,
+  "category": "Computers",
+  "mainImageUrl": "https://picsum.photos/seed/macbookairm3/600/600",
+  "images": [
+    "https://picsum.photos/seed/macbookairm3-2/600/600",
+    "https://picsum.photos/seed/macbookairm3-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Chip", "value": "Apple M3 (8-core CPU, 10-core GPU, 16-core Neural Engine)" },
+    { "key": "RAM", "value": "8 GB unified memory (configurable to 16 GB / 24 GB)" },
+    { "key": "Storage", "value": "256 GB SSD (configurable up to 2 TB)" },
+    { "key": "Display", "value": "15.3-inch Liquid Retina, 2880 × 1864 px, 224 ppi, P3 wide colour, 500 nits" },
+    { "key": "Battery Life", "value": "Up to 18 hours (Apple TV app video playback)" },
+    { "key": "Ports", "value": "2× Thunderbolt / USB 4, MagSafe 3, 3.5 mm headphone jack" },
+    { "key": "Wireless", "value": "Wi-Fi 6E (802.11ax), Bluetooth 5.3" },
+    { "key": "Camera", "value": "1080p FaceTime HD" },
+    { "key": "Audio", "value": "Six-speaker sound system with Spatial Audio and force-cancelling woofers" },
+    { "key": "OS", "value": "macOS Sequoia" },
+    { "key": "Dimensions", "value": "340.4 × 237.6 × 11.5 mm" },
+    { "key": "Weight", "value": "1.51 kg" },
+    { "key": "Colour", "value": "Midnight, Starlight, Space Grey, Silver" },
+    { "key": "Keyboard", "value": "Backlit Magic Keyboard with Touch ID" },
+    { "key": "Cooling", "value": "Fanless (passive cooling)" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B0CWDHWLMQ" },
+    { "key": "Customer Reviews", "value": "4.9 out of 5 stars (4,821 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#1 in Thin & Light Laptops" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "Apple Inc., One Apple Park Way, Cupertino, CA 95014" },
+    { "key": "Item Weight", "value": "1.51 kg" },
+    { "key": "Product Dimensions", "value": "340.4 × 237.6 × 11.5 mm" },
+    { "key": "Warranty", "value": "1-year limited warranty (AppleCare+ available)" },
+    { "key": "In the Box", "value": "MacBook Air, 35W Dual USB-C Power Adapter, USB-C to MagSafe 3 Cable" },
+    { "key": "Configurable", "value": "Yes — RAM and storage upgradeable at time of purchase" }
+  ],
+  "reviews": [
+    { "reviewerName": "Emily R.", "rating": 5, "title": "The perfect laptop — no compromises", "reviewText": "I was nervous switching from Windows but the M3 Air converted me instantly. Absolutely silent, cool to the touch, lightning fast, and the 15-inch screen is gorgeous. Battery genuinely lasts all day through meetings and coding. Best laptop I've ever owned.", "verifiedPurchase": true, "reviewDate": "2026-02-18", "helpfulCount": 1243 },
+    { "reviewerName": "James T.", "rating": 5, "title": "Unbelievable performance for a fanless machine", "reviewText": "I run Xcode, Docker, and Figma simultaneously with no slowdown and zero fan noise because there is no fan. The M3 chip is magic. 18 hours of battery life is not an exaggeration. This laptop redefined what I expect from a computer.", "verifiedPurchase": true, "reviewDate": "2026-02-25", "helpfulCount": 987 },
+    { "reviewerName": "Sofia M.", "rating": 5, "title": "Best travel laptop in existence", "reviewText": "I travel for work every week and this machine has been a revelation. Light, thin, incredible battery, responsive keyboard. The six-speaker audio system sounds better than my home desktop setup. Truly exceptional.", "verifiedPurchase": true, "reviewDate": "2026-03-02", "helpfulCount": 754 },
+    { "reviewerName": "David K.", "rating": 4, "title": "Near-perfect with one caveat", "reviewText": "The laptop is extraordinary. My only frustration is only two Thunderbolt ports — I constantly need a hub. That aside the performance, display, and battery life are class-leading. Would still recommend to anyone without hesitation.", "verifiedPurchase": true, "reviewDate": "2026-01-30", "helpfulCount": 612 },
+    { "reviewerName": "Natalie W.", "rating": 5, "title": "Convinced my whole family to switch", "reviewText": "My husband, daughter, and I all bought MacBook Airs this year after I got mine. The build quality, the feel of typing on it, the responsiveness — everything feels premium. The 15-inch screen is the perfect size for everyday work.", "verifiedPurchase": true, "reviewDate": "2026-02-10", "helpfulCount": 541 }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "ASUS ROG Zephyrus G14 (2024) Gaming Laptop",
+  "description": "Compact yet ferocious — the ROG Zephyrus G14 packs an AMD Ryzen 9 8945HS processor and NVIDIA GeForce RTX 4070 into a 14-inch, 1.65 kg chassis. A stunning 2560 × 1600 OLED 120 Hz display, ROG Nebula HDR panel, and up to 10 hours of battery life make it the ultimate portable gaming and creative powerhouse.",
+  "price": 1649.99,
+  "stock": 40,
+  "category": "Computers",
+  "mainImageUrl": "https://picsum.photos/seed/rogg14/600/600",
+  "images": [
+    "https://picsum.photos/seed/rogg14-2/600/600",
+    "https://picsum.photos/seed/rogg14-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Processor", "value": "AMD Ryzen 9 8945HS (8-core, up to 5.2 GHz, 4 nm)" },
+    { "key": "GPU", "value": "NVIDIA GeForce RTX 4070 8 GB GDDR6 (140 W TGP)" },
+    { "key": "RAM", "value": "32 GB LPDDR5X 7500 MHz (soldered)" },
+    { "key": "Storage", "value": "1 TB PCIe 4.0 NVMe SSD" },
+    { "key": "Display", "value": "14-inch ROG Nebula OLED, 2560 × 1600 px, 120 Hz, 0.2 ms, 500 nits SDR / 1100 nits HDR, 100% DCI-P3" },
+    { "key": "Battery", "value": "73 Wh, up to 10 hours (video playback)" },
+    { "key": "Ports", "value": "1× USB-C Thunderbolt 4, 1× USB-C 3.2 Gen 2 (DisplayPort / PD), 2× USB-A 3.2 Gen 2, HDMI 2.1 FRL, 3.5 mm combo audio" },
+    { "key": "Wireless", "value": "Wi-Fi 6E (802.11ax), Bluetooth 5.3" },
+    { "key": "Keyboard", "value": "ROG per-key RGB backlit, numpad-free" },
+    { "key": "Audio", "value": "Quad speakers with Dolby Atmos" },
+    { "key": "OS", "value": "Windows 11 Home" },
+    { "key": "Dimensions", "value": "311.8 × 220.0 × 19.9 mm" },
+    { "key": "Weight", "value": "1.65 kg" },
+    { "key": "Colour", "value": "Eclipse Gray" },
+    { "key": "Cooling", "value": "ROG Arc Flow dual fans + Conductonaut Extreme liquid metal" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B0CROG14G4" },
+    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (3,217 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#2 in Gaming Laptops" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "ASUSTeK Computer Inc., 15 Li-Te Rd, Peitou, Taipei 112, Taiwan" },
+    { "key": "Item Weight", "value": "1.65 kg" },
+    { "key": "Product Dimensions", "value": "311.8 × 220.0 × 19.9 mm" },
+    { "key": "Warranty", "value": "2-year global warranty with 1-year accidental damage protection" },
+    { "key": "In the Box", "value": "ROG Zephyrus G14, 240W power adapter, ROG sleeve, documentation" },
+    { "key": "MUX Switch", "value": "Yes (bypasses iGPU for higher gaming performance)" }
+  ],
+  "reviews": [
+    { "reviewerName": "Ryan S.", "rating": 5, "title": "Best gaming laptop under 2 kg ever made", "reviewText": "I hauled this to LAN events and my friends couldn't believe the performance coming from something so compact. RTX 4070 at full 140 W TGP in this chassis is remarkable engineering. OLED at 120 Hz makes every game look cinematic.", "verifiedPurchase": true, "reviewDate": "2026-02-23", "helpfulCount": 1087 },
+    { "reviewerName": "Priya N.", "rating": 5, "title": "Gaming AND work AND travel in one machine", "reviewText": "I needed one laptop for 3D rendering at work and gaming at home. The G14 handles both perfectly. Ryzen 9 8945HS renders scenes faster than my old desktop and the RTX 4070 runs every game I play at max settings.", "verifiedPurchase": true, "reviewDate": "2026-03-04", "helpfulCount": 892 },
+    { "reviewerName": "Toby W.", "rating": 4, "title": "Phenomenal but RAM is soldered", "reviewText": "Outstanding machine in every measurable way. The only thing I'd flag is the RAM is soldered — you can't upgrade it later. Buy the 32 GB config to future-proof. With that caveat addressed, this is the best gaming laptop I've tested.", "verifiedPurchase": true, "reviewDate": "2026-02-11", "helpfulCount": 674 },
+    { "reviewerName": "Mei C.", "rating": 5, "title": "OLED gaming display is incredible", "reviewText": "Playing games on the ROG Nebula OLED is an entirely different experience. The true blacks and HDR colours make atmospheric games like Cyberpunk and Baldur's Gate genuinely breathtaking. Zero compromise on performance in this form factor.", "verifiedPurchase": true, "reviewDate": "2026-03-08", "helpfulCount": 743 },
+    { "reviewerName": "Ahmed K.", "rating": 5, "title": "Liquid metal cooling is the difference maker", "reviewText": "The Conductonaut Extreme liquid metal TIM keeps CPU temps in check under load — far better than the competition. Even during hour-long gaming sessions, the chassis stays manageable. Truly impressive thermal engineering.", "verifiedPurchase": true, "reviewDate": "2026-02-17", "helpfulCount": 561 }
+  ]
+}

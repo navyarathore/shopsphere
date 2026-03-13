@@ -7,6 +7,7 @@ export const AVAILABLE_CATEGORY_NAMES = [
   'Fresh',
   'Mobiles',
   'Toys & Games',
+  'Computers',
 ]
 
 export const CATEGORY_NAV_ITEMS = [
@@ -20,7 +21,7 @@ export const CATEGORY_NAV_ITEMS = [
   { label: 'Home & Kitchen', query: 'Home & Kitchen', icon: '🏠', hasProducts: true },
   { label: 'Sports & Outdoors', query: 'Sports & Outdoors', icon: '🏃', hasProducts: true },
   { label: 'Toys & Games', query: 'Toys & Games', icon: '🧸', hasProducts: true },
-  { label: 'Computers', query: 'Computers', icon: '🖥️', hasProducts: false },
+  { label: 'Computers', query: 'Computers', icon: '🖥️', hasProducts: true },
   { label: 'Books', query: 'Books', icon: '📚', hasProducts: true },
   { label: 'Gift Cards', query: 'Gift Cards', icon: '🎁', hasProducts: false },
 ]

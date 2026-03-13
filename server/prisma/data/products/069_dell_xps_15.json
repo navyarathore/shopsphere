@@ -1,0 +1,48 @@
+{
+  "name": "Dell XPS 15 (9530) Laptop",
+  "description": "Dell's flagship 15-inch creator laptop pairs a Core i9-13900H processor with an NVIDIA GeForce RTX 4070 GPU and a breathtaking 15.6-inch 3.5K OLED touch display. Premium aluminium-and-carbon-fibre construction, a near-borderless InfinityEdge display, and studio-quality audio make this the definitive Windows laptop for creative professionals.",
+  "price": 1799.99,
+  "stock": 35,
+  "category": "Computers",
+  "mainImageUrl": "https://picsum.photos/seed/dellxps15/600/600",
+  "images": [
+    "https://picsum.photos/seed/dellxps15-2/600/600",
+    "https://picsum.photos/seed/dellxps15-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Processor", "value": "Intel Core i9-13900H (14-core, up to 5.4 GHz)" },
+    { "key": "GPU", "value": "NVIDIA GeForce RTX 4070 8 GB GDDR6" },
+    { "key": "RAM", "value": "32 GB DDR5 4800 MHz" },
+    { "key": "Storage", "value": "1 TB PCIe NVMe SSD" },
+    { "key": "Display", "value": "15.6-inch 3.5K OLED touch, 3456 × 2160 px, 60 Hz, 400 nits, 100% DCI-P3" },
+    { "key": "Battery", "value": "86 Wh, up to 13 hours (FHD video)" },
+    { "key": "Ports", "value": "2× Thunderbolt 4, 1× USB-A 3.2, SD card reader, 3.5 mm audio, HDMI 2.1" },
+    { "key": "Wireless", "value": "Intel Killer Wi-Fi 6E, Bluetooth 5.3" },
+    { "key": "Camera", "value": "720p HD, IR camera (Windows Hello)" },
+    { "key": "Audio", "value": "Quad-speaker Waves MaxxAudio Pro, 2× 2.5 W woofers + 2× 1.5 W tweeters" },
+    { "key": "OS", "value": "Windows 11 Home" },
+    { "key": "Dimensions", "value": "344.4 × 230.1 × 18.0 mm" },
+    { "key": "Weight", "value": "1.86 kg" },
+    { "key": "Colour", "value": "Platinum Silver / Black carbon fibre palm rest" },
+    { "key": "Keyboard", "value": "Backlit, fingerprint reader" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B0CDXPS159" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (2,984 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#3 in Creator Laptops" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "Dell Technologies, One Dell Way, Round Rock, TX 78682" },
+    { "key": "Item Weight", "value": "1.86 kg" },
+    { "key": "Product Dimensions", "value": "344.4 × 230.1 × 18.0 mm" },
+    { "key": "Warranty", "value": "1-year Premium Support (on-site next business day)" },
+    { "key": "In the Box", "value": "XPS 15, 130W USB-C power adapter, documentation" },
+    { "key": "RAM Upgradeable", "value": "Yes (up to 64 GB)" }
+  ],
+  "reviews": [
+    { "reviewerName": "Chris B.", "rating": 5, "title": "Best Windows laptop I've ever used", "reviewText": "The OLED screen is jaw-dropping — colours are vivid and blacks are true black. RTX 4070 handles 4K video editing smoothly and gaming at high settings is excellent. Build quality is exceptional for a laptop this thin. Highly recommended for creatives.", "verifiedPurchase": true, "reviewDate": "2026-02-22", "helpfulCount": 876 },
+    { "reviewerName": "Laura T.", "rating": 4, "title": "Stunning machine with a warm chassis", "reviewText": "Under sustained load the bottom gets noticeably warm. Not a dealbreaker, but worth knowing. The performance, screen, and build otherwise are exceptional — it's a beautiful laptop that produces beautiful work.", "verifiedPurchase": true, "reviewDate": "2026-02-14", "helpfulCount": 632 },
+    { "reviewerName": "Marcus P.", "rating": 5, "title": "OLED display changes everything", "reviewText": "I edit photography professionally and the 100% DCI-P3 OLED display is the best colour-accurate screen I've used on a laptop. My edits look exactly the same when published. The i9 + RTX 4070 combo exports Lightroom catalogues faster than my desktop from two years ago.", "verifiedPurchase": true, "reviewDate": "2026-03-05", "helpfulCount": 741 },
+    { "reviewerName": "Amy W.", "rating": 5, "title": "Premium in every sense", "reviewText": "The carbon fibre palm rest, machined aluminium lid, and glass trackpad all feel luxurious. This is the best-built Windows laptop money can buy. The performance is everything I needed for my design work.", "verifiedPurchase": true, "reviewDate": "2026-01-26", "helpfulCount": 509 },
+    { "reviewerName": "Daniel H.", "rating": 4, "title": "Great laptop, battery could be better", "reviewText": "The OLED screen is power-hungry and I get around 7–8 hours under mixed workloads rather than the stated 13. Still excellent by Windows standards. Performance is flawless and the build quality is impeccable.", "verifiedPurchase": true, "reviewDate": "2026-02-08", "helpfulCount": 398 }
+  ]
+}
