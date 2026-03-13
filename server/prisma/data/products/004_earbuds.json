@@ -1,0 +1,48 @@
+{
+  "name": "True Wireless Earbuds",
+  "description": "Compact earbuds with 6-hour playtime, 24-hour charging case, IPX4 sweat resistance, and touch controls.",
+  "price": 39.99,
+  "stock": 100,
+  "category": "Electronics",
+  "mainImageUrl": "https://picsum.photos/seed/earbuds/600/600",
+  "images": [
+    "https://picsum.photos/seed/earbuds-2/600/600",
+    "https://picsum.photos/seed/earbuds-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "SoundFlow" },
+    { "key": "Model", "value": "SF-TWS100" },
+    { "key": "Driver Size", "value": "6mm Dynamic Drivers" },
+    { "key": "Bluetooth Version", "value": "5.0" },
+    { "key": "Bluetooth Range", "value": "Up to 10 meters" },
+    { "key": "Battery Life (Earbuds)", "value": "6 Hours" },
+    { "key": "Battery Life (With Case)", "value": "24 Hours" },
+    { "key": "Charging Port", "value": "USB-C" },
+    { "key": "Charging Time", "value": "1.5 Hours" },
+    { "key": "Water Resistance", "value": "IPX4" },
+    { "key": "Controls", "value": "Touch Controls" },
+    { "key": "Microphone", "value": "Built-in MEMS Mic" },
+    { "key": "Codec Support", "value": "AAC, SBC" },
+    { "key": "Weight (Single Earbud)", "value": "4.5 grams" },
+    { "key": "Colour", "value": "Black" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B08TWS4561" },
+    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (4,289 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#23 in Electronics > Earbuds" },
+    { "key": "Date First Available", "value": "April 5, 2024" },
+    { "key": "Manufacturer", "value": "SoundFlow Audio LLC, 321 Sound Street, Portland, Oregon 97204" },
+    { "key": "Item Weight", "value": "45 grams (with case)" },
+    { "key": "Product Dimensions", "value": "6 x 4 x 3 cm (case)" },
+    { "key": "Batteries", "value": "2 Lithium Polymer batteries (included)" },
+    { "key": "Item Model Number", "value": "SF-TWS100" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Emma Roberts", "rating": 5, "title": "Best budget earbuds", "reviewText": "For the price, these earbuds are unbeatable! Sound quality is impressive with good bass and clear vocals. They fit comfortably and stay in during workouts. Battery life is as advertised - 6 hours on the buds plus extra charges from the case. IPX4 rating is perfect for gym use.", "verifiedPurchase": true, "reviewDate": "2024-11-18", "helpfulCount": 743 },
+    { "reviewerName": "Ryan Mitchell", "rating": 4, "title": "Great value with minor limitations", "reviewText": "These earbuds punch above their weight class. Sound is solid for the price, touch controls work well, and they're comfortable for extended wear. ANC would have been nice but at this price point I can't complain. Connection is stable and battery life is good. Recommended!", "verifiedPurchase": true, "reviewDate": "2024-10-05", "helpfulCount": 521 },
+    { "reviewerName": "Olivia Brown", "rating": 5, "title": "Perfect for daily commute", "reviewText": "Use these every day for my commute and they're fantastic. Good passive noise isolation, comfortable fit, and the case is compact enough to fit in my pocket. Sound quality is better than I expected. The 24-hour total battery life means I only need to charge weekly.", "verifiedPurchase": true, "reviewDate": "2024-09-12", "helpfulCount": 456 },
+    { "reviewerName": "Kevin Lee", "rating": 4, "title": "Solid earbuds for the price", "reviewText": "Happy with this purchase. Sound is balanced, not too bass-heavy. Touch controls take some getting used to but work reliably once you learn them. Case charges quickly via USB-C. Only negative is they don't have multipoint Bluetooth connection. Otherwise great value.", "verifiedPurchase": true, "reviewDate": "2024-11-25", "helpfulCount": 334 },
+    { "reviewerName": "Sarah Williams", "rating": 5, "title": "Exceeded my expectations", "reviewText": "Bought these as a backup pair and they've become my main earbuds. Comfortable fit, good sound quality, and excellent battery life. The IPX4 rating gives me confidence using them in the rain. Touch controls are intuitive. These compete with earbuds twice the price!", "verifiedPurchase": true, "reviewDate": "2024-08-30", "helpfulCount": 289 }
+  ]
+}

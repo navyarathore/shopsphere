@@ -1,0 +1,41 @@
+{
+  "name": "Adjustable Dumbbell Set 5-25 kg",
+  "description": "Space-saving dial-select dumbbell pair. Replaces 15 sets of weights. Anti-roll cradles included.",
+  "price": 179.99,
+  "stock": 20,
+  "category": "Sports & Outdoors",
+  "mainImageUrl": "https://picsum.photos/seed/dumbbells/600/600",
+  "images": [
+    "https://picsum.photos/seed/dumbbells-2/600/600",
+    "https://picsum.photos/seed/dumbbells-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "IronFlex" },
+    { "key": "Weight Range", "value": "5-25 kg" },
+    { "key": "Adjustment Mechanism", "value": "Dial Select" },
+    { "key": "Material", "value": "Steel + Hardened Plastic" },
+    { "key": "Handle Grip", "value": "Textured Non-slip Grip" },
+    { "key": "Pairs Included", "value": "2 Dumbbells" },
+    { "key": "Space Saving", "value": "Replaces 15 sets of weights" },
+    { "key": "Cradle Included", "value": "Yes" },
+    { "key": "Weight Increment", "value": "2.5 kg" },
+    { "key": "Total Set Weight", "value": "50 kg" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09DB2550K" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (3,842 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#3 in Sports & Outdoors > Dumbbells" },
+    { "key": "Date First Available", "value": "March 4, 2024" },
+    { "key": "Manufacturer", "value": "IronFlex Fitness, Columbus, Ohio 43215" },
+    { "key": "Item Weight", "value": "50 kg total set" },
+    { "key": "Product Dimensions", "value": "42 x 22 x 24 cm" },
+    { "key": "Assembly Required", "value": "No" },
+    { "key": "Item Model Number", "value": "IF-DB25" },
+    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Arjun Patel", "rating": 5, "title": "Excellent home gym upgrade", "reviewText": "These dumbbells save a huge amount of space and feel solid during workouts. The dial mechanism is smooth and switching weights is fast. Great option for strength training at home.", "verifiedPurchase": true, "reviewDate": "2024-11-26", "helpfulCount": 604 },
+    { "reviewerName": "Michael Torres", "rating": 5, "title": "Convenient and well built", "reviewText": "The build quality is impressive and the adjustment system feels reliable. I replaced several fixed dumbbells with this set and have zero regrets. Very practical for small workout spaces.", "verifiedPurchase": true, "reviewDate": "2024-10-09", "helpfulCount": 418 },
+    { "reviewerName": "Sana Khan", "rating": 4, "title": "Great set with slight bulk", "reviewText": "Very useful and sturdy, though the dumbbells feel a bit bulky at lighter weights. That said, the convenience and space savings more than make up for it. Strong recommendation overall.", "verifiedPurchase": true, "reviewDate": "2024-08-31", "helpfulCount": 277 }
+  ]
+}

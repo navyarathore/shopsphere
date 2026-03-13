@@ -1,13 +1,9 @@
-const { Pool } = require('pg');
-require('dotenv').config();
+'use strict';
 
-const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-});
+const { PrismaClient } = require('@prisma/client');
 
-pool.on('error', (err) => {
-  console.error('Unexpected error on idle pg client', err);
-  process.exit(-1);
-});
+// Re-use a single PrismaClient instance across hot-reloads in development
+const prisma = global.__prisma || new PrismaClient();
+if (process.env.NODE_ENV !== 'production') global.__prisma = prisma;
 
-module.exports = pool;
+module.exports = prisma;

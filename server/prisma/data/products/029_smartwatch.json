@@ -1,0 +1,41 @@
+{
+  "name": "Smart Watch Series 5",
+  "description": "Feature-rich smartwatch with health monitoring, GPS, 50m water resistance, and 7-day battery life.",
+  "price": 99.99,
+  "stock": 55,
+  "category": "Electronics",
+  "mainImageUrl": "https://picsum.photos/seed/smartwatch/600/600",
+  "images": [
+    "https://picsum.photos/seed/smartwatch-2/600/600",
+    "https://picsum.photos/seed/smartwatch-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "ChronoFit" },
+    { "key": "Display", "value": "1.4-inch AMOLED Touchscreen" },
+    { "key": "Battery Life", "value": "Up to 7 Days" },
+    { "key": "Water Resistance", "value": "5 ATM (50m)" },
+    { "key": "GPS", "value": "Built-in GPS" },
+    { "key": "Health Tracking", "value": "Heart Rate, SpO2, Sleep, Stress" },
+    { "key": "Compatibility", "value": "Android 6.0+ / iOS 12.0+" },
+    { "key": "Connectivity", "value": "Bluetooth 5.0" },
+    { "key": "Strap Material", "value": "Silicone" },
+    { "key": "Weight", "value": "42 grams" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09SWT5000" },
+    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (3,385 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#11 in Electronics > Smartwatches" },
+    { "key": "Date First Available", "value": "February 14, 2024" },
+    { "key": "Manufacturer", "value": "ChronoFit Wearables, San Jose, California 95128" },
+    { "key": "Item Weight", "value": "42 grams" },
+    { "key": "Product Dimensions", "value": "4.5 x 3.8 x 1.1 cm" },
+    { "key": "Notification Support", "value": "Calls, Messages, Apps" },
+    { "key": "Item Model Number", "value": "CF-SW5" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Isabella Clark", "rating": 5, "title": "Best budget smartwatch I have owned", "reviewText": "The health tracking is accurate, the battery genuinely lasts 6-7 days, and the AMOLED screen looks great even outdoors. Counts steps, monitors sleep, and handles notifications beautifully.", "verifiedPurchase": true, "reviewDate": "2024-10-30", "helpfulCount": 598 },
+    { "reviewerName": "Daniel Wong", "rating": 4, "title": "Packed with features for the price", "reviewText": "Really good value. The GPS tracking is spot on for outdoor runs and the heart rate monitor is accurate. App interface could be smoother but the watch itself is excellent.", "verifiedPurchase": true, "reviewDate": "2024-09-22", "helpfulCount": 389 },
+    { "reviewerName": "Nina Patel", "rating": 5, "title": "Looks and works great", "reviewText": "Comfortable to wear and the screen is vibrant. I appreciate the stress and SpO2 monitoring features. Highly recommend for anyone who wants a capable smartwatch without breaking the bank.", "verifiedPurchase": true, "reviewDate": "2024-07-17", "helpfulCount": 274 }
+  ]
+}

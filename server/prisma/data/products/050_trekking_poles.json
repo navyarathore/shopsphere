@@ -1,0 +1,41 @@
+{
+  "name": "Lightweight Carbon Trekking Poles (Pair)",
+  "description": "Pair of 3-section folding carbon fibre trekking poles with cork handles, anti-shock system, and tungsten carbide tips.",
+  "price": 74.99,
+  "stock": 35,
+  "category": "Sports & Outdoors",
+  "mainImageUrl": "https://picsum.photos/seed/trekkingpoles/600/600",
+  "images": [
+    "https://picsum.photos/seed/trekkingpoles-2/600/600",
+    "https://picsum.photos/seed/trekkingpoles-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "AlpineStride" },
+    { "key": "Material", "value": "100% Carbon Fibre" },
+    { "key": "Handle Material", "value": "Natural Cork" },
+    { "key": "Sections", "value": "3-Section Folding" },
+    { "key": "Adjustable Length", "value": "100 cm to 135 cm" },
+    { "key": "Packed Length", "value": "38 cm" },
+    { "key": "Anti-Shock", "value": "Tungsten Spring Anti-Shock" },
+    { "key": "Tips", "value": "Tungsten Carbide" },
+    { "key": "Included Baskets", "value": "Trekking and Snow Baskets" },
+    { "key": "Weight per Pole", "value": "260 grams" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09TREK750" },
+    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (1,412 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#6 in Sports & Outdoors > Trekking Poles" },
+    { "key": "Date First Available", "value": "August 12, 2024" },
+    { "key": "Manufacturer", "value": "AlpineStride Outdoor, Innsbruck, Austria 6020" },
+    { "key": "Item Weight", "value": "520 grams (pair)" },
+    { "key": "Product Dimensions", "value": "38 x 12 x 9 cm (packed)" },
+    { "key": "Wrist Straps", "value": "Padded Adjustable" },
+    { "key": "Item Model Number", "value": "AS-CTP" },
+    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Bernard Morel", "rating": 5, "title": "Excellent lightweight trekking poles", "reviewText": "Carbon fibre construction makes these noticeably lighter than aluminium poles. They fold down small enough to attach to a backpack and the cork handles are comfortable over long days. Anti-shock works well on steep descents.", "verifiedPurchase": true, "reviewDate": "2024-11-07", "helpfulCount": 378 },
+    { "reviewerName": "Claire Whitman", "rating": 5, "title": "Perfect poles for multi-day treks", "reviewText": "Light, stiff, and genuinely comfortable. The cork absorbs sweat well on warm days and the packed length is brilliant for backpacking. I used these on a 5-day mountain route without issue.", "verifiedPurchase": true, "reviewDate": "2024-10-03", "helpfulCount": 267 },
+    { "reviewerName": "Tobias Gruber", "rating": 4, "title": "Great carbon poles but check sizing", "reviewText": "Very well made and noticeably lighter than my old aluminium poles. The three sections clip together securely. Just be sure to check the length range against your height before buying.", "verifiedPurchase": true, "reviewDate": "2024-09-09", "helpfulCount": 179 }
+  ]
+}

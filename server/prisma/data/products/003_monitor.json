@@ -1,0 +1,48 @@
+{
+  "name": "4K USB-C Monitor 27\"",
+  "description": "27-inch IPS display with 4K UHD resolution, 99% sRGB coverage, USB-C 65W power delivery, and built-in speakers.",
+  "price": 349.99,
+  "stock": 20,
+  "category": "Electronics",
+  "mainImageUrl": "https://picsum.photos/seed/monitor/600/600",
+  "images": [
+    "https://picsum.photos/seed/monitor-2/600/600",
+    "https://picsum.photos/seed/monitor-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "ViewMaster" },
+    { "key": "Model", "value": "VM-27-4K" },
+    { "key": "Screen Size", "value": "27 inches" },
+    { "key": "Resolution", "value": "3840 x 2160 (4K UHD)" },
+    { "key": "Panel Type", "value": "IPS" },
+    { "key": "Refresh Rate", "value": "60 Hz" },
+    { "key": "Response Time", "value": "5 ms" },
+    { "key": "Brightness", "value": "350 cd/m²" },
+    { "key": "Contrast Ratio", "value": "1000:1" },
+    { "key": "Color Gamut", "value": "99% sRGB" },
+    { "key": "Connectivity", "value": "USB-C (DP Alt Mode), HDMI 2.0, DisplayPort" },
+    { "key": "USB-C Power Delivery", "value": "65W" },
+    { "key": "Built-in Speakers", "value": "Yes (2x 3W)" },
+    { "key": "VESA Mount", "value": "100x100mm" },
+    { "key": "Weight", "value": "5.2 kg" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B07VMP3619" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (3,456 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#15 in Electronics > Monitors" },
+    { "key": "Date First Available", "value": "February 10, 2024" },
+    { "key": "Manufacturer", "value": "ViewMaster Display Technologies, 789 Tech Boulevard, San Jose, California 95131" },
+    { "key": "Item Weight", "value": "5.2 kg" },
+    { "key": "Product Dimensions", "value": "61 x 45 x 18 cm (with stand)" },
+    { "key": "Batteries", "value": "Not required" },
+    { "key": "Item Model Number", "value": "VM-27-4K" },
+    { "key": "Warranty", "value": "3 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Marcus Anderson", "rating": 5, "title": "Stunning display quality", "reviewText": "This monitor is absolutely gorgeous. The 4K resolution is incredibly sharp and the IPS panel has excellent color accuracy right out of the box. The 65W power delivery means I can charge my laptop with just one cable. Perfect for photography and video editing work.", "verifiedPurchase": true, "reviewDate": "2024-10-30", "helpfulCount": 892 },
+    { "reviewerName": "Sophie Chen", "rating": 5, "title": "Perfect for Mac users", "reviewText": "Bought this for my MacBook Pro and it's perfect. USB-C connectivity with power delivery is so convenient - just one cable for everything. Colors are vibrant and match my MacBook display well. 99% sRGB coverage is great for design work. Built-in speakers are surprisingly decent too.", "verifiedPurchase": true, "reviewDate": "2024-09-15", "helpfulCount": 567 },
+    { "reviewerName": "Daniel Wright", "rating": 4, "title": "Excellent monitor, minor drawbacks", "reviewText": "The display quality is fantastic - crisp, vibrant, and color accurate. USB-C with PD is super convenient. However, the stand could be sturdier and doesn't have height adjustment. Also, there's no USB hub which would have been nice. Still a great monitor for the price.", "verifiedPurchase": true, "reviewDate": "2024-11-12", "helpfulCount": 423 },
+    { "reviewerName": "Amanda Lopez", "rating": 5, "title": "Best monitor purchase I've made", "reviewText": "Upgraded from a 1080p monitor and wow, what a difference! Everything is so much sharper and I have so much more screen real estate for multitasking. The USB-C connection is a game changer - no more cable mess. Highly recommend for anyone working from home.", "verifiedPurchase": true, "reviewDate": "2024-08-22", "helpfulCount": 389 },
+    { "reviewerName": "Chris Thompson", "rating": 5, "title": "Worth every penny", "reviewText": "This monitor checks all the boxes. 4K resolution, great color accuracy, USB-C with power delivery, and a sleek design. Perfect for productivity and content consumption. The thin bezels look modern and professional. Setup was easy and it works flawlessly with my Dell laptop.", "verifiedPurchase": true, "reviewDate": "2024-12-08", "helpfulCount": 312 }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Wireless Noise-Cancelling Headphones",
+  "description": "Premium over-ear headphones with active noise cancellation, 30-hour battery life, and foldable design for travel.",
+  "price": 79.99,
+  "stock": 45,
+  "category": "Electronics",
+  "mainImageUrl": "https://picsum.photos/seed/headphones/600/600",
+  "images": [
+    "https://picsum.photos/seed/headphones-2/600/600",
+    "https://picsum.photos/seed/headphones-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "AudioPro" },
+    { "key": "Model", "value": "NC-500X" },
+    { "key": "Battery Life", "value": "30 Hours" },
+    { "key": "Noise Cancellation", "value": "Active Noise Cancellation (ANC)" },
+    { "key": "Connectivity", "value": "Bluetooth 5.2, 3.5mm Audio Jack" },
+    { "key": "Driver Size", "value": "40mm Dynamic Drivers" },
+    { "key": "Frequency Response", "value": "20Hz - 20kHz" },
+    { "key": "Impedance", "value": "32 Ohms" },
+    { "key": "Weight", "value": "250 grams" },
+    { "key": "Charging Port", "value": "USB-C" },
+    { "key": "Charging Time", "value": "2.5 Hours" },
+    { "key": "Colour", "value": "Matte Black" },
+    { "key": "Microphone", "value": "Built-in MEMS Microphone" },
+    { "key": "Controls", "value": "Touch Controls + Physical Buttons" },
+    { "key": "Foldable", "value": "Yes" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B08XYZ1234" },
+    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (2,847 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#12 in Electronics > Headphones" },
+    { "key": "Date First Available", "value": "January 15, 2024" },
+    { "key": "Manufacturer", "value": "AudioPro Technologies Inc., Building 5, Tech Park, California 94025" },
+    { "key": "Item Weight", "value": "250 grams" },
+    { "key": "Product Dimensions", "value": "19 x 16 x 8 cm" },
+    { "key": "Batteries", "value": "1 Lithium Polymer battery (included)" },
+    { "key": "Item Model Number", "value": "NC-500X" },
+    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Sarah M.", "rating": 5, "title": "Best headphones I've ever owned!", "reviewText": "These headphones are absolutely incredible! The noise cancellation works perfectly - I can barely hear anything when it's on. The sound quality is crisp and clear, with deep bass that doesn't overpower the mids and highs. Battery life easily lasts me through the week with daily use. Highly recommend!", "verifiedPurchase": true, "reviewDate": "2024-11-15", "helpfulCount": 847 },
+    { "reviewerName": "Mike Johnson", "rating": 5, "title": "Perfect for travel and commuting", "reviewText": "Bought these for my daily commute and long flights. The ANC is top-notch - completely blocks out airplane engine noise. They're comfortable even after wearing for 8+ hours. The foldable design is great for packing. Worth every penny!", "verifiedPurchase": true, "reviewDate": "2024-10-22", "helpfulCount": 523 },
+    { "reviewerName": "Emily Chen", "rating": 4, "title": "Great sound, minor connectivity issues", "reviewText": "Overall very happy with these headphones. Sound quality is excellent and the noise cancellation is impressive. I've had occasional Bluetooth connectivity issues where they disconnect randomly, but it doesn't happen often. Touch controls take some getting used to. Still recommend for the price.", "verifiedPurchase": true, "reviewDate": "2024-09-30", "helpfulCount": 342 },
+    { "reviewerName": "David Rodriguez", "rating": 5, "title": "Exceptional value for money", "reviewText": "I was skeptical at first given the competitive price point, but these headphones punch way above their weight class. Build quality feels premium, the sound is balanced and detailed, and the battery life claim of 30 hours is accurate. The included carrying case is a nice touch.", "verifiedPurchase": true, "reviewDate": "2024-12-05", "helpfulCount": 289 },
+    { "reviewerName": "Jennifer Wu", "rating": 4, "title": "Good but not perfect", "reviewText": "These are good headphones but not without flaws. The noise cancellation works well but causes a slight pressure sensation that some people might find uncomfortable. Sound quality is very good for the price. The padding on the ear cups could be softer for long sessions. Still, a solid choice overall.", "verifiedPurchase": true, "reviewDate": "2024-08-18", "helpfulCount": 195 }
+  ]
+}

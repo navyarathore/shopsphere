@@ -1,0 +1,41 @@
+{
+  "name": "Ceramic Non-Stick Frying Pan 28cm",
+  "description": "PFOA-free ceramic non-stick frying pan with Stay-Cool handle, induction compatible, and oven safe to 220°C.",
+  "price": 39.99,
+  "stock": 75,
+  "category": "Home & Kitchen",
+  "mainImageUrl": "https://picsum.photos/seed/frypan/600/600",
+  "images": [
+    "https://picsum.photos/seed/frypan-2/600/600",
+    "https://picsum.photos/seed/frypan-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "ChefLine" },
+    { "key": "Diameter", "value": "28 cm" },
+    { "key": "Coating", "value": "PFOA-Free Ceramic Non-Stick" },
+    { "key": "Material", "value": "Hard Anodised Aluminium Base" },
+    { "key": "Induction Compatible", "value": "Yes" },
+    { "key": "Oven Safe", "value": "Up to 220°C" },
+    { "key": "Handle Material", "value": "Bakelite Stay-Cool Handle" },
+    { "key": "Dishwasher Safe", "value": "No (Hand Wash Recommended)" },
+    { "key": "Depth", "value": "4.5 cm" },
+    { "key": "Colour", "value": "Caramel" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09FRPAN28" },
+    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (1,978 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#10 in Home & Kitchen > Frying Pans" },
+    { "key": "Date First Available", "value": "April 22, 2024" },
+    { "key": "Manufacturer", "value": "ChefLine Cookware, Lyon, France 69001" },
+    { "key": "Item Weight", "value": "980 grams" },
+    { "key": "Product Dimensions", "value": "50 x 29 x 9 cm (with handle)" },
+    { "key": "Metals Free", "value": "PTFE-Free, PFOA-Free, Lead-Free" },
+    { "key": "Item Model Number", "value": "CL-CER28" },
+    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Anita Kowalska", "rating": 5, "title": "Excellent non-stick performance", "reviewText": "Eggs slide right off with barely any oil. The ceramic surface heats evenly and the handle stays cool on the hob. Beautiful caramel colour too. Very pleased with this purchase.", "verifiedPurchase": true, "reviewDate": "2024-11-09", "helpfulCount": 317 },
+    { "reviewerName": "Paul Donohue", "rating": 4, "title": "Good everyday frying pan", "reviewText": "Non-stick surface works great and it heats evenly on my induction hob. I wish it were dishwasher safe but the non-stick quality is worth the hand wash. Solid pan.", "verifiedPurchase": true, "reviewDate": "2024-09-25", "helpfulCount": 213 },
+    { "reviewerName": "Mei Lin", "rating": 5, "title": "Great PFOA-free option", "reviewText": "Comfortable knowing this pan has no harmful coatings. The ceramic surface performs brilliantly and the oven-safe feature is a bonus. I use it for everything from eggs to searing.", "verifiedPurchase": true, "reviewDate": "2024-08-18", "helpfulCount": 157 }
+  ]
+}

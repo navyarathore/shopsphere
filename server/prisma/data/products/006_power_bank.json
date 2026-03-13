@@ -1,0 +1,48 @@
+{
+  "name": "Portable Power Bank 20000mAh",
+  "description": "High-capacity power bank with 65W USB-C PD output, dual USB-A ports, and LCD battery indicator.",
+  "price": 44.99,
+  "stock": 75,
+  "category": "Electronics",
+  "mainImageUrl": "https://picsum.photos/seed/powerbank/600/600",
+  "images": [
+    "https://picsum.photos/seed/powerbank-2/600/600",
+    "https://picsum.photos/seed/powerbank-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "PowerMax" },
+    { "key": "Model", "value": "PM-20K-PD" },
+    { "key": "Capacity", "value": "20000mAh (74Wh)" },
+    { "key": "Battery Type", "value": "Lithium Polymer" },
+    { "key": "USB-C Output", "value": "65W PD (5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A)" },
+    { "key": "USB-A Output 1", "value": "18W QC 3.0" },
+    { "key": "USB-A Output 2", "value": "18W QC 3.0" },
+    { "key": "USB-C Input", "value": "45W (5V/3A, 9V/3A, 12V/3A, 15V/3A)" },
+    { "key": "Display", "value": "LCD Battery Indicator" },
+    { "key": "Multi-device Charging", "value": "Up to 3 devices simultaneously" },
+    { "key": "Recharge Time", "value": "3-4 Hours (with 45W charger)" },
+    { "key": "Safety Features", "value": "Overcharge, Overcurrent, Short Circuit Protection" },
+    { "key": "Weight", "value": "425 grams" },
+    { "key": "Dimensions", "value": "15.5 x 7.5 x 2.5 cm" },
+    { "key": "Colour", "value": "Black" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09PB20K65" },
+    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (2,734 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#5 in Electronics > Power Banks" },
+    { "key": "Date First Available", "value": "June 8, 2024" },
+    { "key": "Manufacturer", "value": "PowerMax Energy Solutions, 852 Battery Lane, Denver, Colorado 80202" },
+    { "key": "Item Weight", "value": "425 grams" },
+    { "key": "Product Dimensions", "value": "15.5 x 7.5 x 2.5 cm" },
+    { "key": "Batteries", "value": "1 Lithium Polymer battery (20000mAh, built-in)" },
+    { "key": "Item Model Number", "value": "PM-20K-PD" },
+    { "key": "Warranty", "value": "18 months manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Victoria Johnson", "rating": 5, "title": "Essential travel companion", "reviewText": "This power bank is fantastic! 20000mAh capacity easily charges my phone 4-5 times. The 65W USB-C PD output charges my laptop which is amazing. LCD display showing exact battery percentage is super helpful. Build quality feels solid. Perfect for travel and emergencies.", "verifiedPurchase": true, "reviewDate": "2024-11-10", "helpfulCount": 678 },
+    { "reviewerName": "Robert Martinez", "rating": 5, "title": "Charges everything quickly", "reviewText": "Impressed by the charging speed - 65W PD charges my laptop as fast as the original charger. The dual USB-A ports let me charge multiple devices simultaneously. 20000mAh lasts for days on a trip. LCD display is clear and useful. Highly recommend for anyone who travels.", "verifiedPurchase": true, "reviewDate": "2024-10-02", "helpfulCount": 543 },
+    { "reviewerName": "Lauren White", "rating": 4, "title": "Great capacity, a bit heavy", "reviewText": "Love the capacity and charging speeds. Can charge my phone, tablet, and even laptop. The LCD screen is a nice touch. However, it's quite heavy to carry around daily. But for travel or emergencies, it's perfect. The pass-through charging feature is convenient too.", "verifiedPurchase": true, "reviewDate": "2024-09-19", "helpfulCount": 421 },
+    { "reviewerName": "Steven Garcia", "rating": 5, "title": "Best power bank for the price", "reviewText": "This power bank is incredible value. 65W output means I can charge my work laptop, which most power banks can't do. Battery indicator is accurate. Build feels durable. All three ports work great simultaneously. Charges itself quickly too. Can't ask for more at this price.", "verifiedPurchase": true, "reviewDate": "2024-11-28", "helpfulCount": 389 },
+    { "reviewerName": "Jennifer Adams", "rating": 5, "title": "Perfect for long trips", "reviewText": "Bought this for a camping trip and it was a lifesaver. Charged my phone, camera, and even my friend's laptop. 20000mAh lasted the entire weekend. The dual USB-A plus USB-C PD setup is perfect. Display showing remaining power is very helpful. Excellent investment!", "verifiedPurchase": true, "reviewDate": "2024-08-25", "helpfulCount": 312 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Women's Trench Coat",
+  "description": "Classic double-breasted trench coat with belt, storm flap, and water-resistant finish. Knee length.",
+  "price": 89.99,
+  "stock": 40,
+  "category": "Clothing",
+  "mainImageUrl": "https://picsum.photos/seed/trenchcoat/600/600",
+  "images": [
+    "https://picsum.photos/seed/trenchcoat-2/600/600",
+    "https://picsum.photos/seed/trenchcoat-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "BelleStreet" },
+    { "key": "Material", "value": "Water-Resistant Polyester Blend" },
+    { "key": "Style", "value": "Double-Breasted Trench" },
+    { "key": "Length", "value": "Knee Length" },
+    { "key": "Closure", "value": "Button Front with Belt" },
+    { "key": "Features", "value": "Storm Flap, Adjustable Cuffs" },
+    { "key": "Lining", "value": "Lightweight Inner Lining" },
+    { "key": "Care Instructions", "value": "Dry Clean Recommended" },
+    { "key": "Season", "value": "Spring / Fall" },
+    { "key": "Weight", "value": "920 grams" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09TRNCHCT" },
+    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (1,754 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#10 in Clothing > Women's Coats" },
+    { "key": "Date First Available", "value": "May 6, 2024" },
+    { "key": "Manufacturer", "value": "BelleStreet Fashion, Chicago, Illinois 60611" },
+    { "key": "Item Weight", "value": "920 grams" },
+    { "key": "Product Dimensions", "value": "38 x 30 x 6 cm" },
+    { "key": "Country of Origin", "value": "China" },
+    { "key": "Item Model Number", "value": "BS-TRENCH-W" },
+    { "key": "Warranty", "value": "30-day manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Olivia Stone", "rating": 5, "title": "Elegant and practical coat", "reviewText": "This trench coat looks much more expensive than it is. The fit is flattering, the belt shapes nicely, and the water-resistant finish is useful in light rain. Very stylish piece.", "verifiedPurchase": true, "reviewDate": "2024-11-28", "helpfulCount": 267 },
+    { "reviewerName": "Priya Shah", "rating": 5, "title": "Beautiful coat for transitional weather", "reviewText": "Great structure, nice drape, and the storm flap gives it a classic look. Works well over office clothes or casual outfits. Very pleased with the purchase.", "verifiedPurchase": true, "reviewDate": "2024-10-10", "helpfulCount": 201 },
+    { "reviewerName": "Megan Clark", "rating": 4, "title": "Stylish trench with good quality", "reviewText": "The material feels nice and the construction is solid. Sleeves ran slightly long for me, but overall the coat looks polished and fits well.", "verifiedPurchase": true, "reviewDate": "2024-08-26", "helpfulCount": 145 }
+  ]
+}

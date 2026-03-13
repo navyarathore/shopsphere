@@ -1,0 +1,41 @@
+{
+  "name": "Air Purifier with HEPA Filter",
+  "description": "Covers up to 40 m². True HEPA + activated carbon filter captures 99.97% of particles. Whisper-quiet sleep mode.",
+  "price": 89.99,
+  "stock": 35,
+  "category": "Home & Kitchen",
+  "mainImageUrl": "https://picsum.photos/seed/airpurifier/600/600",
+  "images": [
+    "https://picsum.photos/seed/airpurifier-2/600/600",
+    "https://picsum.photos/seed/airpurifier-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "PureBreeze" },
+    { "key": "Coverage Area", "value": "Up to 40 m²" },
+    { "key": "Filter Type", "value": "True HEPA + Activated Carbon" },
+    { "key": "Particle Capture", "value": "99.97% of particles" },
+    { "key": "Noise Level", "value": "24-52 dB" },
+    { "key": "Modes", "value": "Auto, Sleep, Turbo" },
+    { "key": "Fan Speeds", "value": "4 Levels" },
+    { "key": "CADR", "value": "220 m³/h" },
+    { "key": "Power Consumption", "value": "38W" },
+    { "key": "Weight", "value": "4.9 kg" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09HEPA40M" },
+    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (5,402 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#7 in Home & Kitchen > Air Purifiers" },
+    { "key": "Date First Available", "value": "February 28, 2024" },
+    { "key": "Manufacturer", "value": "PureBreeze Air Solutions, Seattle, Washington 98104" },
+    { "key": "Item Weight", "value": "4.9 kg" },
+    { "key": "Product Dimensions", "value": "24 x 24 x 41 cm" },
+    { "key": "Filter Replacement Interval", "value": "6-8 months" },
+    { "key": "Item Model Number", "value": "PB-HEPA40" },
+    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Rohan Singh", "rating": 5, "title": "Noticeable improvement in air quality", "reviewText": "I bought this for allergies and the difference was obvious within a few days. The auto mode is convenient, sleep mode is quiet, and the purifier feels well built. Great for bedrooms and small living rooms.", "verifiedPurchase": true, "reviewDate": "2024-12-01", "helpfulCount": 724 },
+    { "reviewerName": "Emily Foster", "rating": 5, "title": "Quiet and effective", "reviewText": "Runs quietly most of the time and does a great job reducing dust and odors. I appreciate the compact footprint and simple controls. Filter access is straightforward too.", "verifiedPurchase": true, "reviewDate": "2024-10-24", "helpfulCount": 491 },
+    { "reviewerName": "Kevin Brooks", "rating": 4, "title": "Very good purifier", "reviewText": "Strong performance for the size and price. Auto mode responds well and the HEPA filter gives me confidence during allergy season. Replacement filters are not the cheapest, but the purifier itself is excellent.", "verifiedPurchase": true, "reviewDate": "2024-09-12", "helpfulCount": 308 }
+  ]
+}

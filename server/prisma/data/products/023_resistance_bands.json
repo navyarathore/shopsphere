@@ -1,0 +1,41 @@
+{
+  "name": "Resistance Bands Set (5 Levels)",
+  "description": "Set of 5 latex resistance bands from light to extra-heavy. Includes carry bag and exercise guide.",
+  "price": 17.99,
+  "stock": 150,
+  "category": "Sports & Outdoors",
+  "mainImageUrl": "https://picsum.photos/seed/resistancebands/600/600",
+  "images": [
+    "https://picsum.photos/seed/resistancebands-2/600/600",
+    "https://picsum.photos/seed/resistancebands-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "FlexCore" },
+    { "key": "Band Count", "value": "5 Bands" },
+    { "key": "Resistance Levels", "value": "Light to Extra Heavy" },
+    { "key": "Material", "value": "Natural Latex" },
+    { "key": "Accessories", "value": "Carry Bag, Exercise Guide" },
+    { "key": "Length", "value": "150 cm" },
+    { "key": "Suitable For", "value": "Strength, Mobility, Rehab" },
+    { "key": "Non-slip Surface", "value": "Yes" },
+    { "key": "Stackable", "value": "Yes" },
+    { "key": "Weight", "value": "540 grams" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09RB5LVLS" },
+    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (5,214 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#5 in Sports & Outdoors > Resistance Bands" },
+    { "key": "Date First Available", "value": "January 23, 2024" },
+    { "key": "Manufacturer", "value": "FlexCore Training Gear, San Diego, California 92101" },
+    { "key": "Item Weight", "value": "540 grams" },
+    { "key": "Product Dimensions", "value": "28 x 14 x 6 cm" },
+    { "key": "Carry Case Included", "value": "Yes" },
+    { "key": "Item Model Number", "value": "FC-RB5" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Liam Brooks", "rating": 5, "title": "Fantastic for travel workouts", "reviewText": "The bands feel durable and the range of resistance is useful for different exercises. I keep them in my bag for quick workouts and mobility sessions. Great value for the price.", "verifiedPurchase": true, "reviewDate": "2024-11-13", "helpfulCount": 381 },
+    { "reviewerName": "Priyanka Rao", "rating": 5, "title": "Versatile and easy to use", "reviewText": "I use these for strength work, stretching, and rehab exercises. The bands are clearly labeled and the carry bag is handy. Nice quality latex and no issues so far.", "verifiedPurchase": true, "reviewDate": "2024-09-24", "helpfulCount": 249 },
+    { "reviewerName": "Connor Lee", "rating": 4, "title": "Solid resistance band set", "reviewText": "Good selection of resistance levels and the material feels strong. The exercise guide is a nice bonus. I would have liked handles too, but for basic band work this set is excellent.", "verifiedPurchase": true, "reviewDate": "2024-08-18", "helpfulCount": 162 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Portable Bluetooth Speaker 360°",
+  "description": "Compact 360° surround sound speaker with 24-hour battery, IPX7 waterproofing, and stereo pairing support.",
+  "price": 59.99,
+  "stock": 70,
+  "category": "Electronics",
+  "mainImageUrl": "https://picsum.photos/seed/btspeaker/600/600",
+  "images": [
+    "https://picsum.photos/seed/btspeaker-2/600/600",
+    "https://picsum.photos/seed/btspeaker-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "SoundSphere" },
+    { "key": "Sound Coverage", "value": "360 Degrees" },
+    { "key": "Battery Life", "value": "24 Hours" },
+    { "key": "Water Resistance", "value": "IPX7" },
+    { "key": "Bluetooth Version", "value": "5.3" },
+    { "key": "Output Power", "value": "20W" },
+    { "key": "Stereo Pairing", "value": "Yes (2 Speakers)" },
+    { "key": "Charging", "value": "USB-C" },
+    { "key": "Built-in Mic", "value": "Yes" },
+    { "key": "Weight", "value": "680 grams" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09SPK360B" },
+    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (2,756 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#8 in Electronics > Bluetooth Speakers" },
+    { "key": "Date First Available", "value": "January 30, 2024" },
+    { "key": "Manufacturer", "value": "SoundSphere Audio, Nashville, Tennessee 37201" },
+    { "key": "Item Weight", "value": "680 grams" },
+    { "key": "Product Dimensions", "value": "8 x 8 x 17 cm" },
+    { "key": "NFC Pairing", "value": "No" },
+    { "key": "Item Model Number", "value": "SS-360" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Marco Rivera", "rating": 5, "title": "Impressive sound from a small package", "reviewText": "The 360-degree coverage is real and the bass response is solid for the size. I have taken it to the beach and pool without any issues. Battery life is exceptional.", "verifiedPurchase": true, "reviewDate": "2024-11-18", "helpfulCount": 467 },
+    { "reviewerName": "Sophie Turner", "rating": 5, "title": "Best speaker I have used at this price", "reviewText": "Clear highs, punchy bass, and it fills a room easily. Waterproofing is legit and the USB-C charging is convenient. The stereo pairing feature with another unit is a bonus.", "verifiedPurchase": true, "reviewDate": "2024-10-04", "helpfulCount": 312 },
+    { "reviewerName": "Aaron Patel", "rating": 4, "title": "Great sound quality", "reviewText": "Really strong audio for its size. The 360-degree sound is noticeable compared to directional speakers. Occasionally Bluetooth reconnection takes a moment but overall performance is very good.", "verifiedPurchase": true, "reviewDate": "2024-08-28", "helpfulCount": 198 }
+  ]
+}

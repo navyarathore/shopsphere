@@ -1,0 +1,41 @@
+{
+  "name": "Variable Temperature Electric Kettle",
+  "description": "1.7L cordless electric kettle with 6 preset temperatures, keep-warm function, and gooseneck pour option.",
+  "price": 34.99,
+  "stock": 60,
+  "category": "Home & Kitchen",
+  "mainImageUrl": "https://picsum.photos/seed/kettle/600/600",
+  "images": [
+    "https://picsum.photos/seed/kettle-2/600/600",
+    "https://picsum.photos/seed/kettle-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "BrewMaster" },
+    { "key": "Capacity", "value": "1.7 Liters" },
+    { "key": "Temperature Presets", "value": "6 Presets (60°C to 100°C)" },
+    { "key": "Keep Warm", "value": "30 Minutes" },
+    { "key": "Power", "value": "1500W" },
+    { "key": "Material", "value": "Stainless Steel Inner, BPA-Free" },
+    { "key": "Boil Time", "value": "Approx. 4 Minutes" },
+    { "key": "Cord Length", "value": "75 cm Swivel Base" },
+    { "key": "Indicator", "value": "LED Display" },
+    { "key": "Voltage", "value": "220-240V" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09KTL1700" },
+    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (2,309 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#9 in Home & Kitchen > Electric Kettles" },
+    { "key": "Date First Available", "value": "March 5, 2024" },
+    { "key": "Manufacturer", "value": "BrewMaster Appliances, Glasgow, UK G1 1DP" },
+    { "key": "Item Weight", "value": "1.2 kg" },
+    { "key": "Product Dimensions", "value": "22 x 16 x 24 cm" },
+    { "key": "Safety Features", "value": "Auto Shut-Off, Boil-Dry Protection" },
+    { "key": "Item Model Number", "value": "BM-VTK17" },
+    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Isabelle Laurent", "rating": 5, "title": "Perfect for pour-over coffee and tea", "reviewText": "Being able to choose the exact temperature for different teas and pour-over coffee is a game changer. Heats quickly and the keep-warm function is genuinely useful. Looks great on the counter.", "verifiedPurchase": true, "reviewDate": "2024-11-11", "helpfulCount": 356 },
+    { "reviewerName": "Chris Murphy", "rating": 4, "title": "Great quality variable kettle", "reviewText": "Solid stainless interior and the temperature presets are accurate when tested. Boils fast and looks sleek. The display is easy to read. One minor thing: the lid mechanism requires a firm press.", "verifiedPurchase": true, "reviewDate": "2024-10-06", "helpfulCount": 241 },
+    { "reviewerName": "Yuki Nakamura", "rating": 5, "title": "Worth every penny", "reviewText": "The variable temperature control has made my green tea noticeably better since boiling water was ruining the delicate leaves. Very clean design and simple to operate. Highly recommended.", "verifiedPurchase": true, "reviewDate": "2024-09-02", "helpfulCount": 178 }
+  ]
+}

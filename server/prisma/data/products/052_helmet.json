@@ -1,0 +1,41 @@
+{
+  "name": "MIPS Road Bicycle Helmet",
+  "description": "Lightweight road cycling helmet with MIPS brain protection, 18 aerodynamic vents, and adjustable retention system.",
+  "price": 64.99,
+  "stock": 45,
+  "category": "Sports & Outdoors",
+  "mainImageUrl": "https://picsum.photos/seed/bicyclehelmet/600/600",
+  "images": [
+    "https://picsum.photos/seed/bicyclehelmet-2/600/600",
+    "https://picsum.photos/seed/bicyclehelmet-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "VeloShield" },
+    { "key": "Safety Standard", "value": "CE EN1078, CPSC" },
+    { "key": "MIPS Protection", "value": "Yes" },
+    { "key": "Vents", "value": "18 Aerodynamic Vents" },
+    { "key": "Shell Type", "value": "In-Mould PC Shell" },
+    { "key": "Retention System", "value": "360° Adjustable Dial Fit" },
+    { "key": "Chin Strap", "value": "Quick-Release Buckle" },
+    { "key": "Available Sizes", "value": "S (51-55 cm), M (54-58 cm), L (57-61 cm)" },
+    { "key": "Colours Available", "value": "Matte White, Matte Black, Aero Blue, Orange" },
+    { "key": "Weight", "value": "260 grams (size M)" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09HLM6500" },
+    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (2,089 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#7 in Sports & Outdoors > Cycling Helmets" },
+    { "key": "Date First Available", "value": "February 29, 2024" },
+    { "key": "Manufacturer", "value": "VeloShield Safety, Utrecht, Netherlands 3511" },
+    { "key": "Item Weight", "value": "260 grams" },
+    { "key": "Product Dimensions", "value": "28 x 23 x 18 cm (size M)" },
+    { "key": "Visor Included", "value": "No" },
+    { "key": "Item Model Number", "value": "VS-RH-MIPS" },
+    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Felipe Araujo", "rating": 5, "title": "Excellent MIPS helmet for road cycling", "reviewText": "Lightweight, well-ventilated, and the MIPS liner gives genuine peace of mind. The dial retention system locks in a comfortable fit with precision. Great value for a certified MIPS helmet.", "verifiedPurchase": true, "reviewDate": "2024-11-10", "helpfulCount": 412 },
+    { "reviewerName": "Christine Berg", "rating": 5, "title": "Secure and well ventilated", "reviewText": "The 18 vents keep my head cool even on longer climbs. Fitting is intuitive and the MIPS layer sits flush without feeling bulky. Highly recommend for commuters and recreational riders alike.", "verifiedPurchase": true, "reviewDate": "2024-10-07", "helpfulCount": 283 },
+    { "reviewerName": "Luka Marić", "rating": 4, "title": "Great helmet with MIPS safety tech", "reviewText": "Solid construction and the retention dial fits my head well. The ventilation is noticeably good. Colour options are attractive. One minor note: the chin strap adjustment is a little fiddly.", "verifiedPurchase": true, "reviewDate": "2024-08-30", "helpfulCount": 196 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Digital Kitchen Scale 5 kg",
+  "description": "Precision digital kitchen scale with 1g accuracy, tare function, LCD display, and stainless steel platform.",
+  "price": 12.99,
+  "stock": 110,
+  "category": "Home & Kitchen",
+  "mainImageUrl": "https://picsum.photos/seed/kitchenscale/600/600",
+  "images": [
+    "https://picsum.photos/seed/kitchenscale-2/600/600",
+    "https://picsum.photos/seed/kitchenscale-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "PreciseKitchen" },
+    { "key": "Maximum Capacity", "value": "5 kg" },
+    { "key": "Accuracy", "value": "1 gram" },
+    { "key": "Units", "value": "g, kg, lb, oz, ml" },
+    { "key": "Display", "value": "LCD Backlit" },
+    { "key": "Platform Material", "value": "304 Stainless Steel" },
+    { "key": "Tare Function", "value": "Yes" },
+    { "key": "Power Source", "value": "2x AAA Batteries (Included)" },
+    { "key": "Auto Shut-Off", "value": "3 Minutes" },
+    { "key": "Platform Size", "value": "19 x 13 cm" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09SC5KG01" },
+    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (4,782 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#5 in Home & Kitchen > Kitchen Scales" },
+    { "key": "Date First Available", "value": "February 20, 2024" },
+    { "key": "Manufacturer", "value": "PreciseKitchen Tools, Shenzhen, China 518000" },
+    { "key": "Item Weight", "value": "480 grams" },
+    { "key": "Product Dimensions", "value": "22 x 17 x 2.5 cm" },
+    { "key": "Overload Protection", "value": "Yes" },
+    { "key": "Item Model Number", "value": "PK-5000" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Emma Thornton", "rating": 5, "title": "Accurate and easy to use", "reviewText": "Consistent and precise readings every time. The tare function is responsive and the display is clear. Perfect for baking and meal prep. Compact and easy to store too.", "verifiedPurchase": true, "reviewDate": "2024-11-04", "helpfulCount": 534 },
+    { "reviewerName": "Gary Hutchinson", "rating": 5, "title": "Does exactly what a scale should", "reviewText": "Simple, accurate, well-made. The stainless platform is easy to clean and the scale feels solid. Multiple unit options are handy. Excellent value.", "verifiedPurchase": true, "reviewDate": "2024-09-29", "helpfulCount": 378 },
+    { "reviewerName": "Fatima Hassan", "rating": 4, "title": "Good reliable kitchen scale", "reviewText": "The scale is accurate and the response is fast. There is a slight lip so it works well for bowls and containers, and the tare function is excellent. Auto shut-off might be a bit quick for some.", "verifiedPurchase": true, "reviewDate": "2024-08-23", "helpfulCount": 242 }
+  ]
+}

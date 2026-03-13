@@ -1,9 +1,14 @@
-const pool = require('../config/db');
+'use strict';
+
+const prisma = require('../config/db');
 
 const getAllCategories = async (_req, res, next) => {
   try {
-    const { rows } = await pool.query('SELECT id, name FROM categories ORDER BY name');
-    res.json(rows);
+    const categories = await prisma.category.findMany({
+      orderBy: { name: 'asc' },
+      select: { id: true, name: true },
+    });
+    res.json(categories);
   } catch (err) {
     next(err);
   }

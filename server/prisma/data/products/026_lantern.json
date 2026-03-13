@@ -1,0 +1,41 @@
+{
+  "name": "Camping Lantern Rechargeable",
+  "description": "1000-lumen LED lantern with 4 brightness modes, 360° lighting, IPX6 waterproof, and built-in USB-A output.",
+  "price": 34.99,
+  "stock": 65,
+  "category": "Sports & Outdoors",
+  "mainImageUrl": "https://picsum.photos/seed/lantern/600/600",
+  "images": [
+    "https://picsum.photos/seed/lantern-2/600/600",
+    "https://picsum.photos/seed/lantern-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "CampGlow" },
+    { "key": "Brightness", "value": "1000 Lumens" },
+    { "key": "Lighting Modes", "value": "4 Modes" },
+    { "key": "Battery Type", "value": "Rechargeable Lithium-Ion" },
+    { "key": "Water Resistance", "value": "IPX6" },
+    { "key": "Lighting Coverage", "value": "360 Degrees" },
+    { "key": "USB Output", "value": "Built-in USB-A Output" },
+    { "key": "Run Time", "value": "8-40 Hours" },
+    { "key": "Charging Port", "value": "USB-C" },
+    { "key": "Weight", "value": "510 grams" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09LANT100" },
+    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (2,847 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#6 in Sports & Outdoors > Camping Lanterns" },
+    { "key": "Date First Available", "value": "May 27, 2024" },
+    { "key": "Manufacturer", "value": "CampGlow Essentials, Boise, Idaho 83702" },
+    { "key": "Item Weight", "value": "510 grams" },
+    { "key": "Product Dimensions", "value": "10 x 10 x 18 cm" },
+    { "key": "Power Bank Function", "value": "Yes" },
+    { "key": "Item Model Number", "value": "CG-L1000" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Sophia Reed", "rating": 5, "title": "Bright and reliable lantern", "reviewText": "This lantern puts out a lot of light and the different modes are genuinely useful. I used it on a weekend camping trip and the battery lasted longer than expected. Great emergency light too.", "verifiedPurchase": true, "reviewDate": "2024-11-22", "helpfulCount": 428 },
+    { "reviewerName": "Tyler Morgan", "rating": 5, "title": "Perfect for camping and power outages", "reviewText": "Solid build, bright output, and convenient USB charging. The power bank function came in handy for topping up my phone. I am very pleased with this lantern.", "verifiedPurchase": true, "reviewDate": "2024-09-28", "helpfulCount": 284 },
+    { "reviewerName": "Anika Gupta", "rating": 4, "title": "Very useful outdoor light", "reviewText": "Strong brightness and easy controls. It is a little larger than ultra-compact lanterns, but the performance makes up for it. A dependable camping accessory.", "verifiedPurchase": true, "reviewDate": "2024-08-14", "helpfulCount": 176 }
+  ]
+}

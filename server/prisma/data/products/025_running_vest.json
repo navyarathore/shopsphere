@@ -1,0 +1,41 @@
+{
+  "name": "Hydration Running Vest 10L",
+  "description": "Lightweight trail running vest with 2L water bladder compatible reservoir sleeve and 8L gear storage.",
+  "price": 69.99,
+  "stock": 40,
+  "category": "Sports & Outdoors",
+  "mainImageUrl": "https://picsum.photos/seed/runningvest/600/600",
+  "images": [
+    "https://picsum.photos/seed/runningvest-2/600/600",
+    "https://picsum.photos/seed/runningvest-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "TrailFlow" },
+    { "key": "Capacity", "value": "10 Liters" },
+    { "key": "Reservoir Compatibility", "value": "2L Bladder Compatible" },
+    { "key": "Storage", "value": "8L Gear Storage" },
+    { "key": "Material", "value": "Lightweight Ripstop Nylon" },
+    { "key": "Adjustment", "value": "Chest and Side Straps" },
+    { "key": "Reflective Details", "value": "Yes" },
+    { "key": "Breathable Mesh", "value": "Yes" },
+    { "key": "Weight", "value": "420 grams" },
+    { "key": "Colour", "value": "Black / Lime" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09RUN10LV" },
+    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (1,963 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#9 in Sports & Outdoors > Hydration Packs" },
+    { "key": "Date First Available", "value": "April 16, 2024" },
+    { "key": "Manufacturer", "value": "TrailFlow Outdoor Gear, Salt Lake City, Utah 84101" },
+    { "key": "Item Weight", "value": "420 grams" },
+    { "key": "Product Dimensions", "value": "44 x 28 x 4 cm" },
+    { "key": "Reservoir Included", "value": "No" },
+    { "key": "Item Model Number", "value": "TF-HV10" },
+    { "key": "Warranty", "value": "18 months manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Noah Bennett", "rating": 5, "title": "Excellent for long runs", "reviewText": "This vest fits securely without bouncing much and has plenty of storage for nutrition, keys, and layers. The breathable mesh helps on hot days. Great option for trail runs and race training.", "verifiedPurchase": true, "reviewDate": "2024-11-09", "helpfulCount": 337 },
+    { "reviewerName": "Kavya Iyer", "rating": 4, "title": "Lightweight and practical", "reviewText": "Very comfortable once adjusted properly. I like the pocket layout and reflective details. It would be even better if it included a bladder, but the vest itself is excellent.", "verifiedPurchase": true, "reviewDate": "2024-10-01", "helpfulCount": 226 },
+    { "reviewerName": "Ethan Ross", "rating": 5, "title": "Good fit and smart storage", "reviewText": "The vest is lightweight, stable, and easy to customize with the straps. Storage is well thought out and accessible while moving. Great for long-distance training.", "verifiedPurchase": true, "reviewDate": "2024-08-22", "helpfulCount": 149 }
+  ]
+}

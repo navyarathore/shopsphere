@@ -1,0 +1,48 @@
+{
+  "name": "Mechanical Gaming Keyboard",
+  "description": "Compact tenkeyless mechanical keyboard with RGB backlighting, tactile switches, and detachable USB-C cable.",
+  "price": 54.99,
+  "stock": 60,
+  "category": "Electronics",
+  "mainImageUrl": "https://picsum.photos/seed/keyboard/600/600",
+  "images": [
+    "https://picsum.photos/seed/keyboard-2/600/600",
+    "https://picsum.photos/seed/keyboard-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "TechGear" },
+    { "key": "Model", "value": "MK-TKL Pro" },
+    { "key": "Switch Type", "value": "Tactile Mechanical (Brown)" },
+    { "key": "Layout", "value": "Tenkeyless (87 Keys)" },
+    { "key": "Backlighting", "value": "RGB Per-Key" },
+    { "key": "Connection", "value": "USB-C Detachable Cable" },
+    { "key": "Polling Rate", "value": "1000 Hz" },
+    { "key": "Key Rollover", "value": "N-Key Rollover (NKRO)" },
+    { "key": "Frame Material", "value": "Aluminum Top Plate" },
+    { "key": "Keycaps", "value": "Double-shot PBT" },
+    { "key": "Hot-swappable", "value": "Yes" },
+    { "key": "Software", "value": "RGB Customization Software" },
+    { "key": "Cable Length", "value": "1.8 meters" },
+    { "key": "Weight", "value": "850 grams" },
+    { "key": "Colour", "value": "Black" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09KBD8732" },
+    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (1,923 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#8 in Electronics > Keyboards" },
+    { "key": "Date First Available", "value": "March 22, 2024" },
+    { "key": "Manufacturer", "value": "TechGear Gaming Inc., 456 Innovation Drive, Austin, Texas 78701" },
+    { "key": "Item Weight", "value": "850 grams" },
+    { "key": "Product Dimensions", "value": "36 x 13 x 4 cm" },
+    { "key": "Batteries", "value": "Not required" },
+    { "key": "Item Model Number", "value": "MK-TKL Pro" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Alex Turner", "rating": 5, "title": "Perfect keyboard for gaming and typing", "reviewText": "This keyboard is fantastic! The tactile switches feel amazing - great for both gaming and typing. The RGB lighting is bright and customizable. Build quality is solid with zero flex. The compact tenkeyless design saves desk space. After a month of heavy use, I couldn't be happier.", "verifiedPurchase": true, "reviewDate": "2024-12-01", "helpfulCount": 634 },
+    { "reviewerName": "Rachel Kim", "rating": 5, "title": "Best value mechanical keyboard", "reviewText": "Coming from a membrane keyboard, this is a game changer. The tactile feedback is satisfying and helps reduce typing errors. Hot-swappable switches are a huge plus. RGB is vibrant. Only minor complaint is the stabilizers could use some lube, but that's an easy fix.", "verifiedPurchase": true, "reviewDate": "2024-10-18", "helpfulCount": 421 },
+    { "reviewerName": "Tom Foster", "rating": 4, "title": "Great keyboard with minor issues", "reviewText": "Really enjoying this keyboard. The switches feel great and the sound is pleasant. RGB customization through software is extensive. However, the keycaps feel a bit thin and show fingerprints easily. Also wish it came with a wrist rest. Still recommend for the price point.", "verifiedPurchase": true, "reviewDate": "2024-11-09", "helpfulCount": 287 },
+    { "reviewerName": "Lisa Martinez", "rating": 5, "title": "Exceeded expectations", "reviewText": "Was worried about buying online without trying the switches first, but I'm so glad I did. The tactile switches are perfect - not too loud, great feedback. Compact size is ideal for my small desk. Cable is high quality and detachable. This is a premium keyboard at a mid-range price.", "verifiedPurchase": true, "reviewDate": "2024-09-25", "helpfulCount": 256 },
+    { "reviewerName": "James Park", "rating": 4, "title": "Solid mechanical keyboard", "reviewText": "Good keyboard overall. Switches are responsive and feel consistent across all keys. RGB is nice but I usually keep it on single color mode. Build is sturdy. My only gripe is the font on the keycaps looks a bit gamer-y for my taste. Performance-wise, it's excellent.", "verifiedPurchase": true, "reviewDate": "2024-11-20", "helpfulCount": 178 }
+  ]
+}

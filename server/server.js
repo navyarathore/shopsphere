@@ -8,6 +8,7 @@ const productRoutes = require('./routes/productRoutes');
 const orderRoutes = require('./routes/orderRoutes');
 const authRoutes = require('./routes/authRoutes');
 const { verifyToken } = require('./middleware/authMiddleware');
+const prisma = require('./config/db');
 
 const app = express();
 
@@ -36,4 +37,13 @@ app.use((err, _req, res, _next) => {
 });
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+const server = app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
+// Graceful shutdown
+process.on('SIGTERM', async () => {
+  console.log('SIGTERM received, shutting down gracefully...');
+  server.close(async () => {
+    await prisma.$disconnect();
+    process.exit(0);
+  });
+});

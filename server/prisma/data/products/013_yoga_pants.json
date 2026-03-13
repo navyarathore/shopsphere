@@ -1,0 +1,41 @@
+{
+  "name": "Women's High-Waist Yoga Pants",
+  "description": "Four-way stretch fabric with moisture-wicking finish, hidden waistband pocket, and squat-proof design.",
+  "price": 34.99,
+  "stock": 130,
+  "category": "Clothing",
+  "mainImageUrl": "https://picsum.photos/seed/yogapants/600/600",
+  "images": [
+    "https://picsum.photos/seed/yogapants-2/600/600",
+    "https://picsum.photos/seed/yogapants-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "FlexAura" },
+    { "key": "Material", "value": "Polyester-Spandex Blend" },
+    { "key": "Rise", "value": "High-Waist" },
+    { "key": "Stretch", "value": "Four-Way Stretch" },
+    { "key": "Moisture Wicking", "value": "Yes" },
+    { "key": "Pocket", "value": "Hidden Waistband Pocket" },
+    { "key": "Opacity", "value": "Squat-Proof" },
+    { "key": "Length", "value": "Full Length" },
+    { "key": "Care Instructions", "value": "Machine Wash Cold" },
+    { "key": "Weight", "value": "260 grams" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09YOGAHWP" },
+    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (6,842 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#4 in Clothing > Women's Activewear" },
+    { "key": "Date First Available", "value": "March 8, 2024" },
+    { "key": "Manufacturer", "value": "FlexAura Active, Los Angeles, California 90015" },
+    { "key": "Item Weight", "value": "260 grams" },
+    { "key": "Product Dimensions", "value": "28 x 22 x 2 cm" },
+    { "key": "Country of Origin", "value": "Vietnam" },
+    { "key": "Item Model Number", "value": "FA-YP-HW" },
+    { "key": "Warranty", "value": "60-day manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Sophie Martin", "rating": 5, "title": "Comfortable and flattering", "reviewText": "These yoga pants are soft, supportive, and truly squat-proof. The high waistband stays in place during workouts and the hidden pocket is useful. I plan to buy another pair.", "verifiedPurchase": true, "reviewDate": "2024-11-25", "helpfulCount": 522 },
+    { "reviewerName": "Nisha Kapoor", "rating": 5, "title": "Excellent for gym and errands", "reviewText": "Great stretch, nice compression, and no transparency issues. They feel premium and hold up well after washing. Very versatile leggings.", "verifiedPurchase": true, "reviewDate": "2024-10-08", "helpfulCount": 376 },
+    { "reviewerName": "Lauren Price", "rating": 4, "title": "Good value activewear", "reviewText": "Very comfortable and breathable. The waistband is flattering and secure. I only wish the side pockets were larger, but overall these are excellent.", "verifiedPurchase": true, "reviewDate": "2024-08-29", "helpfulCount": 244 }
+  ]
+}

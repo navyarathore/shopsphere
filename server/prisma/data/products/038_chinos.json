@@ -1,0 +1,41 @@
+{
+  "name": "Men's Slim Fit Chino Trousers",
+  "description": "Classic slim-fit chinos in stretch cotton twill. Versatile trousers that work from office to weekend.",
+  "price": 39.99,
+  "stock": 120,
+  "category": "Clothing",
+  "mainImageUrl": "https://picsum.photos/seed/chinos/600/600",
+  "images": [
+    "https://picsum.photos/seed/chinos-2/600/600",
+    "https://picsum.photos/seed/chinos-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "UrbanThread" },
+    { "key": "Fit", "value": "Slim Fit" },
+    { "key": "Material", "value": "98% Cotton, 2% Elastane" },
+    { "key": "Closure", "value": "Zip Fly with Button" },
+    { "key": "Pockets", "value": "4 Pockets" },
+    { "key": "Care Instructions", "value": "Machine Wash at 30°C" },
+    { "key": "Available Sizes", "value": "28W to 40W, 28L to 34L" },
+    { "key": "Colours Available", "value": "Khaki, Navy, Olive, Stone, Black" },
+    { "key": "Season", "value": "All Seasons" },
+    { "key": "Country of Manufacture", "value": "Bangladesh" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09CHN0039" },
+    { "key": "Customer Reviews", "value": "4.3 out of 5 stars (2,174 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#12 in Clothing > Men's Trousers" },
+    { "key": "Date First Available", "value": "March 30, 2024" },
+    { "key": "Manufacturer", "value": "UrbanThread Apparel, New York, NY 10013" },
+    { "key": "Item Weight", "value": "430 grams" },
+    { "key": "Product Dimensions", "value": "Varies by size" },
+    { "key": "Lining", "value": "None" },
+    { "key": "Item Model Number", "value": "UT-SC-CHN" },
+    { "key": "Warranty", "value": "Not applicable" }
+  ],
+  "reviews": [
+    { "reviewerName": "Liam Foster", "rating": 5, "title": "Perfect everyday trousers", "reviewText": "Well made with a clean cut that looks smart without being too formal. The stretch material makes them very comfortable for long days. I bought two pairs in different colours.", "verifiedPurchase": true, "reviewDate": "2024-10-22", "helpfulCount": 347 },
+    { "reviewerName": "Martin Kowalski", "rating": 4, "title": "Good quality at a fair price", "reviewText": "Nice slim silhouette and the fabric has enough stretch to be comfortable sitting down. Sizing is accurate to chart. Only minor issue is slight creasing but easy to iron out.", "verifiedPurchase": true, "reviewDate": "2024-09-07", "helpfulCount": 224 },
+    { "reviewerName": "Kenji Tanaka", "rating": 4, "title": "Versatile and well-fitting", "reviewText": "Good cut and quality for the price. The chinos look great with both casual and smart-casual outfits. Fabric is durable and the colour stays vivid after washing.", "verifiedPurchase": true, "reviewDate": "2024-07-19", "helpfulCount": 149 }
+  ]
+}

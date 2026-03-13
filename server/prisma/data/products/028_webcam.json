@@ -1,0 +1,41 @@
+{
+  "name": "1080p HD Webcam",
+  "description": "Full HD 1080p webcam with auto-focus, built-in noise-cancelling mic, and universal clip mount for monitors and laptops.",
+  "price": 49.99,
+  "stock": 85,
+  "category": "Electronics",
+  "mainImageUrl": "https://picsum.photos/seed/webcam/600/600",
+  "images": [
+    "https://picsum.photos/seed/webcam-2/600/600",
+    "https://picsum.photos/seed/webcam-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "VisionTech" },
+    { "key": "Resolution", "value": "1920x1080 (1080p)" },
+    { "key": "Frame Rate", "value": "30 FPS" },
+    { "key": "Focus Type", "value": "Auto-Focus" },
+    { "key": "Microphone", "value": "Built-in Noise-Cancelling" },
+    { "key": "Connection", "value": "USB-A" },
+    { "key": "Field of View", "value": "90 Degrees" },
+    { "key": "Compatibility", "value": "Windows, macOS, ChromeOS" },
+    { "key": "Mount Type", "value": "Universal Clip and Tripod" },
+    { "key": "Plug and Play", "value": "Yes" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09WEB1080" },
+    { "key": "Customer Reviews", "value": "4.3 out of 5 stars (4,621 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#4 in Electronics > Webcams" },
+    { "key": "Date First Available", "value": "March 11, 2024" },
+    { "key": "Manufacturer", "value": "VisionTech Devices, Portland, Oregon 97201" },
+    { "key": "Item Weight", "value": "190 grams" },
+    { "key": "Product Dimensions", "value": "8.5 x 4.5 x 4 cm" },
+    { "key": "Driver Required", "value": "No" },
+    { "key": "Item Model Number", "value": "VT-WC1080" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Laura Sanchez", "rating": 5, "title": "Crystal clear for video calls", "reviewText": "Really impressed by the image clarity. Auto-focus works well in different lighting conditions and the mic picks up my voice clearly without much background noise. Great value.", "verifiedPurchase": true, "reviewDate": "2024-11-03", "helpfulCount": 512 },
+    { "reviewerName": "Marcus Lee", "rating": 4, "title": "Solid webcam upgrade", "reviewText": "Much better than my laptop's built-in camera. Picture is sharp and the mounting clip is sturdy. Frame rate could be 60 FPS for the price, but the 1080p quality is very good.", "verifiedPurchase": true, "reviewDate": "2024-09-17", "helpfulCount": 356 },
+    { "reviewerName": "Priya Khan", "rating": 5, "title": "Perfect for working from home", "reviewText": "Easy to set up, no drivers needed, just plug it in and go. Quality is excellent for meetings and online teaching. The 90-degree field of view is spacious and flattering.", "verifiedPurchase": true, "reviewDate": "2024-08-09", "helpfulCount": 243 }
+  ]
+}

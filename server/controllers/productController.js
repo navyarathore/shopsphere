@@ -1,44 +1,54 @@
-const pool = require('../config/db');
+'use strict';
+
+const prisma = require('../config/db');
 
 const getProducts = async (req, res, next) => {
   try {
     const { search, category } = req.query;
-    const params = [];
-    const conditions = [];
 
-    let sql = `
-      SELECT p.id, p.name, p.price, p.stock, p.main_image_url,
-             p.category_id, c.name AS category_name
-      FROM products p
-      JOIN categories c ON p.category_id = c.id
-    `;
+    const where = {};
 
     if (search) {
-      params.push(search);
-      conditions.push(`p.name ILIKE '%' || $${params.length} || '%'`);
+      where.name = { contains: search, mode: 'insensitive' };
     }
 
     if (category) {
-      const trimmedCategory = String(category).trim();
-      const numericCategoryId = Number(trimmedCategory);
+      const trimmed = String(category).trim();
+      const numericId = Number(trimmed);
 
-      if (Number.isInteger(numericCategoryId) && trimmedCategory !== '') {
-        params.push(numericCategoryId);
-        conditions.push(`p.category_id = $${params.length}`);
+      if (Number.isInteger(numericId) && trimmed !== '' && !isNaN(numericId)) {
+        where.categoryId = numericId;
       } else {
-        params.push(trimmedCategory);
-        conditions.push(`LOWER(c.name) = LOWER($${params.length})`);
+        where.category = { name: { equals: trimmed, mode: 'insensitive' } };
       }
     }
 
-    if (conditions.length > 0) {
-      sql += ' WHERE ' + conditions.join(' AND ');
-    }
+    const products = await prisma.product.findMany({
+      where,
+      orderBy: { id: 'asc' },
+      select: {
+        id: true,
+        name: true,
+        price: true,
+        stock: true,
+        mainImageUrl: true,
+        categoryId: true,
+        category: { select: { name: true } },
+      },
+    });
 
-    sql += ' ORDER BY p.id';
+    // Flatten category name to match the existing API shape
+    const result = products.map((p) => ({
+      id: p.id,
+      name: p.name,
+      price: p.price,
+      stock: p.stock,
+      main_image_url: p.mainImageUrl,
+      category_id: p.categoryId,
+      category_name: p.category.name,
+    }));
 
-    const { rows } = await pool.query(sql, params);
-    res.json(rows);
+    res.json(result);
   } catch (err) {
     next(err);
   }
@@ -46,66 +56,85 @@ const getProducts = async (req, res, next) => {
 
 const getProductById = async (req, res, next) => {
   try {
-    const { id } = req.params;
+    const id = parseInt(req.params.id, 10);
 
-    const productResult = await pool.query(
-      `SELECT p.id, p.name, p.description, p.price, p.stock, p.main_image_url,
-              p.category_id, c.name AS category_name
-       FROM products p
-       JOIN categories c ON p.category_id = c.id
-       WHERE p.id = $1`,
-      [id]
-    );
+    const product = await prisma.product.findUnique({
+      where: { id },
+      include: {
+        category: { select: { id: true, name: true } },
+        images: { orderBy: { sortOrder: 'asc' }, select: { id: true, imageUrl: true } },
+        specifications: { orderBy: { sortOrder: 'asc' }, select: { specKey: true, specValue: true } },
+        additionalInfo: { orderBy: { sortOrder: 'asc' }, select: { infoKey: true, infoValue: true } },
+        reviews: {
+          orderBy: [{ helpfulCount: 'desc' }, { reviewDate: 'desc' }],
+          select: {
+            id: true,
+            reviewerName: true,
+            rating: true,
+            title: true,
+            reviewText: true,
+            verifiedPurchase: true,
+            reviewDate: true,
+            helpfulCount: true,
+          },
+        },
+      },
+    });
 
-    if (productResult.rows.length === 0) {
+    if (!product) {
       return res.status(404).json({ error: 'Product not found' });
     }
 
-    const imagesResult = await pool.query(
-      'SELECT id, image_url FROM product_images WHERE product_id = $1 ORDER BY id',
-      [id]
-    );
+    // Related products from the same category
+    const relatedRaw = await prisma.product.findMany({
+      where: { categoryId: product.categoryId, id: { not: id } },
+      take: 6,
+      select: {
+        id: true,
+        name: true,
+        price: true,
+        stock: true,
+        mainImageUrl: true,
+        categoryId: true,
+        category: { select: { name: true } },
+      },
+    });
 
-    const specificationsResult = await pool.query(
-      'SELECT spec_key, spec_value FROM product_specifications WHERE product_id = $1 ORDER BY id',
-      [id]
-    );
+    // Shuffle in application layer to replace ORDER BY RANDOM()
+    const related = relatedRaw.sort(() => Math.random() - 0.5);
 
-    const additionalInfoResult = await pool.query(
-      'SELECT info_key, info_value FROM product_additional_info WHERE product_id = $1 ORDER BY id',
-      [id]
-    );
-
-    const reviewsResult = await pool.query(
-      `SELECT id, reviewer_name, rating, title, review_text, verified_purchase, 
-              review_date, helpful_count 
-       FROM product_reviews WHERE product_id = $1 
-       ORDER BY helpful_count DESC, review_date DESC`,
-      [id]
-    );
-
-    // Get related products from the same category
-    const relatedProductsResult = await pool.query(
-      `SELECT p.id, p.name, p.price, p.stock, p.main_image_url,
-              p.category_id, c.name AS category_name
-       FROM products p
-       JOIN categories c ON p.category_id = c.id
-       WHERE p.category_id = $1 AND p.id != $2
-       ORDER BY RANDOM()
-       LIMIT 6`,
-      [productResult.rows[0].category_id, id]
-    );
-
-    const product = {
-      ...productResult.rows[0],
-      images: imagesResult.rows,
-      specifications: specificationsResult.rows,
-      additionalInfo: additionalInfoResult.rows,
-      reviews: reviewsResult.rows,
-      relatedProducts: relatedProductsResult.rows
-    };
-
-    res.json(product);
+    res.json({
+      id: product.id,
+      name: product.name,
+      description: product.description,
+      price: product.price,
+      stock: product.stock,
+      main_image_url: product.mainImageUrl,
+      category_id: product.category.id,
+      category_name: product.category.name,
+      images: product.images.map((img) => ({ id: img.id, image_url: img.imageUrl })),
+      specifications: product.specifications.map((s) => ({ spec_key: s.specKey, spec_value: s.specValue })),
+      additionalInfo: product.additionalInfo.map((a) => ({ info_key: a.infoKey, info_value: a.infoValue })),
+      reviews: product.reviews.map((r) => ({
+        id: r.id,
+        reviewer_name: r.reviewerName,
+        rating: r.rating,
+        title: r.title,
+        review_text: r.reviewText,
+        verified_purchase: r.verifiedPurchase,
+        review_date: r.reviewDate,
+        helpful_count: r.helpfulCount,
+      })),
+      relatedProducts: related.map((p) => ({
+        id: p.id,
+        name: p.name,
+        price: p.price,
+        stock: p.stock,
+        main_image_url: p.mainImageUrl,
+        category_id: p.categoryId,
+        category_name: p.category.name,
+      })),
+    });
   } catch (err) {
     next(err);
   }

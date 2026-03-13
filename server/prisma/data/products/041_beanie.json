@@ -1,0 +1,41 @@
+{
+  "name": "Merino Wool Beanie",
+  "description": "100% superfine merino wool beanie in a classic ribbed style. Naturally warm, breathable, and itch-free.",
+  "price": 16.99,
+  "stock": 175,
+  "category": "Clothing",
+  "mainImageUrl": "https://picsum.photos/seed/beanie/600/600",
+  "images": [
+    "https://picsum.photos/seed/beanie-2/600/600",
+    "https://picsum.photos/seed/beanie-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "AlpineKnit" },
+    { "key": "Material", "value": "100% Superfine Merino Wool" },
+    { "key": "Micron", "value": "17.5 Microns" },
+    { "key": "Style", "value": "Classic Ribbed" },
+    { "key": "Size", "value": "One Size Fits Most" },
+    { "key": "Fold-Up Brim", "value": "Yes" },
+    { "key": "Colours Available", "value": "Charcoal, Navy, Forest Green, Wine Red, Oatmeal" },
+    { "key": "Gender", "value": "Unisex" },
+    { "key": "Care Instructions", "value": "Hand Wash Cold or Dry Clean" },
+    { "key": "Country of Manufacture", "value": "New Zealand" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09MNWOOL1" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (2,034 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#4 in Clothing > Beanies" },
+    { "key": "Date First Available", "value": "October 1, 2024" },
+    { "key": "Manufacturer", "value": "AlpineKnit Wool Co., Christchurch, New Zealand 8013" },
+    { "key": "Item Weight", "value": "90 grams" },
+    { "key": "Product Dimensions", "value": "One size, stretches to 58 cm head circumference" },
+    { "key": "Itch-Free", "value": "Yes" },
+    { "key": "Item Model Number", "value": "AK-MWB" },
+    { "key": "Warranty", "value": "Not applicable" }
+  ],
+  "reviews": [
+    { "reviewerName": "Emily Watson", "rating": 5, "title": "Unbelievably soft merino beanie", "reviewText": "This is genuinely one of the softest hats I have ever worn. No itchiness whatsoever and it keeps my head warm on cold mornings without overheating. The quality is outstanding.", "verifiedPurchase": true, "reviewDate": "2024-11-17", "helpfulCount": 318 },
+    { "reviewerName": "Luke Brennan", "rating": 5, "title": "Perfect winter essential", "reviewText": "Lightweight yet very warm. Merino regulates temperature well so it works in a range of conditions. The ribbed style looks clean and classic. I have bought two, charcoal and navy.", "verifiedPurchase": true, "reviewDate": "2024-10-31", "helpfulCount": 224 },
+    { "reviewerName": "Hana Sato", "rating": 4, "title": "Great quality merino wool", "reviewText": "Very soft and comfortable. Fits well and the fold-up brim is nice. The only watch-out is hand washing only for long-term care but the quality makes it very worthwhile.", "verifiedPurchase": true, "reviewDate": "2024-09-20", "helpfulCount": 158 }
+  ]
+}

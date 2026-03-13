@@ -1,0 +1,41 @@
+{
+  "name": "Designing Data-Intensive Applications",
+  "description": "Deep dive into distributed systems, databases, and data engineering by Martin Kleppmann.",
+  "price": 49.99,
+  "stock": 60,
+  "category": "Books",
+  "mainImageUrl": "https://picsum.photos/seed/ddia/600/600",
+  "images": [
+    "https://picsum.photos/seed/ddia-2/600/600",
+    "https://picsum.photos/seed/ddia-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Author", "value": "Martin Kleppmann" },
+    { "key": "Publisher", "value": "O'Reilly Media" },
+    { "key": "Language", "value": "English" },
+    { "key": "Format", "value": "Paperback" },
+    { "key": "Pages", "value": "616" },
+    { "key": "ISBN-10", "value": "1449373321" },
+    { "key": "ISBN-13", "value": "978-1449373320" },
+    { "key": "Dimensions", "value": "17.9 x 3.4 x 23.4 cm" },
+    { "key": "Publication Date", "value": "March 16, 2017" },
+    { "key": "Genre", "value": "Distributed Systems" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B01J89I7PI" },
+    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (6,149 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#2 in Books > Databases" },
+    { "key": "Date First Available", "value": "March 16, 2017" },
+    { "key": "Publisher", "value": "O'Reilly Media" },
+    { "key": "Language", "value": "English" },
+    { "key": "Item Weight", "value": "980 grams" },
+    { "key": "Product Dimensions", "value": "17.9 x 3.4 x 23.4 cm" },
+    { "key": "Country of Origin", "value": "United States" },
+    { "key": "Edition", "value": "1st Edition" }
+  ],
+  "reviews": [
+    { "reviewerName": "Karan S.", "rating": 5, "title": "Best systems book I have ever read", "reviewText": "If you work with backend systems, databases, or distributed architectures, this book is essential. It explains difficult ideas with clarity and constantly compares trade-offs instead of pushing one solution. Incredibly insightful and well structured.", "verifiedPurchase": true, "reviewDate": "2024-12-06", "helpfulCount": 921 },
+    { "reviewerName": "Elena Morris", "rating": 5, "title": "Deep, rigorous, and readable", "reviewText": "This book gave me a much stronger mental model for replication, partitioning, transactions, and stream processing. It is detailed but never feels like a dry textbook. I ended up highlighting almost every chapter.", "verifiedPurchase": true, "reviewDate": "2024-10-22", "helpfulCount": 648 },
+    { "reviewerName": "Victor Huang", "rating": 4, "title": "Advanced but extremely valuable", "reviewText": "This is not a beginner book, but if you already know the basics it will level you up quickly. Some sections require slow reading, yet the payoff is huge. One of the best technical references on modern data systems.", "verifiedPurchase": true, "reviewDate": "2024-09-14", "helpfulCount": 431 }
+  ]
+}

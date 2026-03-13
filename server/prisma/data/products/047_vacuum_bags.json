@@ -1,0 +1,41 @@
+{
+  "name": "Vacuum Storage Bag Set (8-Pack)",
+  "description": "Set of 8 vacuum storage bags in 3 sizes (S/M/L). No pump needed — seal, roll, and compress bulky items.",
+  "price": 19.99,
+  "stock": 95,
+  "category": "Home & Kitchen",
+  "mainImageUrl": "https://picsum.photos/seed/vacuumbags/600/600",
+  "images": [
+    "https://picsum.photos/seed/vacuumbags-2/600/600",
+    "https://picsum.photos/seed/vacuumbags-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "SpaceMax" },
+    { "key": "Quantity", "value": "8 Bags (3S, 3M, 2L)" },
+    { "key": "Pump Required", "value": "No (Roll-Up Valve)" },
+    { "key": "Material", "value": "PA+PE Multi-Layer Film" },
+    { "key": "Seal Type", "value": "Double Zip Seal + Roll Valve" },
+    { "key": "Space Saving", "value": "Up to 80% Volume Reduction" },
+    { "key": "Waterproof", "value": "Yes" },
+    { "key": "Reusable", "value": "Yes" },
+    { "key": "Best For", "value": "Duvets, Pillows, Jackets, Clothing" },
+    { "key": "Temperature Tolerance", "value": "-20°C to 60°C" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09VCBAG80" },
+    { "key": "Customer Reviews", "value": "4.3 out of 5 stars (3,491 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#7 in Home & Kitchen > Storage Bags" },
+    { "key": "Date First Available", "value": "May 6, 2024" },
+    { "key": "Manufacturer", "value": "SpaceMax Organising, London, UK EC1A 1BB" },
+    { "key": "Item Weight", "value": "310 grams" },
+    { "key": "Product Dimensions", "value": "Varies by bag size" },
+    { "key": "Mould and Mildew Resistant", "value": "Yes" },
+    { "key": "Item Model Number", "value": "SM-8PK" },
+    { "key": "Warranty", "value": "Not applicable" }
+  ],
+  "reviews": [
+    { "reviewerName": "Beth Collins", "rating": 5, "title": "Brilliant space saver for bulky items", "reviewText": "I packed two puffy duvets and a pile of winter jumpers into a single large bag and the volume reduction was amazing. The roll valve is simple to use and the seal holds well. Great for seasonal storage.", "verifiedPurchase": true, "reviewDate": "2024-10-16", "helpfulCount": 347 },
+    { "reviewerName": "Neil Fraser", "rating": 4, "title": "Works well for travel and storage", "reviewText": "Good quality bags that compress effectively without a pump. I use the medium bags in my luggage to save a huge amount of space. The double zip seal is reassuring.", "verifiedPurchase": true, "reviewDate": "2024-09-08", "helpfulCount": 241 },
+    { "reviewerName": "Priscilla Okafor", "rating": 4, "title": "Practical and easy to use", "reviewText": "Much easier than traditional vacuum bags that need a hoover. Just seal and roll. Does reduce volume considerably. The small bags are perfect for clothing and the large ones for bedding.", "verifiedPurchase": true, "reviewDate": "2024-07-31", "helpfulCount": 163 }
+  ]
+}

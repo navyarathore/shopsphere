@@ -1,0 +1,41 @@
+{
+  "name": "Yoga Mat Non-Slip 6mm",
+  "description": "Extra-wide 72\"×26\" yoga mat with alignment lines, carry strap, and moisture-wicking textured surface.",
+  "price": 26.99,
+  "stock": 120,
+  "category": "Sports & Outdoors",
+  "mainImageUrl": "https://picsum.photos/seed/yogamat/600/600",
+  "images": [
+    "https://picsum.photos/seed/yogamat-2/600/600",
+    "https://picsum.photos/seed/yogamat-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "ZenFlex" },
+    { "key": "Thickness", "value": "6 mm" },
+    { "key": "Dimensions", "value": "72 x 26 inches" },
+    { "key": "Material", "value": "TPE Foam" },
+    { "key": "Surface", "value": "Moisture-Wicking Textured" },
+    { "key": "Alignment Lines", "value": "Yes" },
+    { "key": "Carry Strap", "value": "Included" },
+    { "key": "Non-slip", "value": "Yes" },
+    { "key": "Weight", "value": "1.1 kg" },
+    { "key": "Colour", "value": "Deep Blue" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09YM6NSLP" },
+    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (7,088 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#4 in Sports & Outdoors > Yoga Mats" },
+    { "key": "Date First Available", "value": "February 12, 2024" },
+    { "key": "Manufacturer", "value": "ZenFlex Wellness, Boulder, Colorado 80301" },
+    { "key": "Item Weight", "value": "1.1 kg" },
+    { "key": "Product Dimensions", "value": "183 x 66 x 0.6 cm" },
+    { "key": "Carry Strap Included", "value": "Yes" },
+    { "key": "Item Model Number", "value": "ZF-YM6" },
+    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Mia Sharma", "rating": 5, "title": "Comfortable and grippy mat", "reviewText": "This mat has the right balance of cushioning and stability. It stays in place during yoga sessions and the alignment lines are genuinely helpful. Very happy with the quality.", "verifiedPurchase": true, "reviewDate": "2024-12-03", "helpfulCount": 452 },
+    { "reviewerName": "Jordan White", "rating": 5, "title": "Great mat for home practice", "reviewText": "The texture provides good grip even during sweaty workouts. It rolls up easily and the carry strap is convenient. Feels durable and much nicer than cheaper mats I have owned before.", "verifiedPurchase": true, "reviewDate": "2024-10-26", "helpfulCount": 311 },
+    { "reviewerName": "Riya Menon", "rating": 4, "title": "Good support and value", "reviewText": "The thickness is ideal for floor work and yoga. There was a slight smell when first unboxed, but it faded quickly. Overall a great mat for the price.", "verifiedPurchase": true, "reviewDate": "2024-09-05", "helpfulCount": 204 }
+  ]
+}

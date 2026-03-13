@@ -1,0 +1,41 @@
+{
+  "name": "Unisex Zip-Up Hoodie",
+  "description": "Midweight fleece hoodie with kangaroo pocket, ribbed cuffs, and a relaxed fit. Ideal for layering.",
+  "price": 44.99,
+  "stock": 95,
+  "category": "Clothing",
+  "mainImageUrl": "https://picsum.photos/seed/hoodie/600/600",
+  "images": [
+    "https://picsum.photos/seed/hoodie-2/600/600",
+    "https://picsum.photos/seed/hoodie-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "UrbanThread" },
+    { "key": "Material", "value": "Cotton-Poly Fleece" },
+    { "key": "Fit", "value": "Relaxed Fit" },
+    { "key": "Closure", "value": "Full-Length Zipper" },
+    { "key": "Pocket", "value": "Kangaroo Pocket" },
+    { "key": "Hood", "value": "Adjustable Drawstring Hood" },
+    { "key": "Cuffs", "value": "Ribbed Cuffs and Hem" },
+    { "key": "Weight Class", "value": "Midweight" },
+    { "key": "Care Instructions", "value": "Machine Washable" },
+    { "key": "Weight", "value": "540 grams" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09ZIPHDUD" },
+    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (4,411 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#7 in Clothing > Hoodies" },
+    { "key": "Date First Available", "value": "January 29, 2024" },
+    { "key": "Manufacturer", "value": "UrbanThread Co., Brooklyn, New York 11201" },
+    { "key": "Item Weight", "value": "540 grams" },
+    { "key": "Product Dimensions", "value": "35 x 28 x 5 cm" },
+    { "key": "Country of Origin", "value": "Bangladesh" },
+    { "key": "Item Model Number", "value": "UT-HOOD-Z" },
+    { "key": "Warranty", "value": "30-day manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Chris Bennett", "rating": 5, "title": "Soft, warm, and well made", "reviewText": "This hoodie is cozy without feeling too bulky. The zipper works smoothly, the fleece is soft, and the fit is relaxed in a good way. Great for layering in cooler weather.", "verifiedPurchase": true, "reviewDate": "2024-11-17", "helpfulCount": 403 },
+    { "reviewerName": "Meera S.", "rating": 4, "title": "Very comfortable everyday hoodie", "reviewText": "Nice midweight fabric and solid construction. It feels durable and the kangaroo pocket is roomy. Slight shrinkage after washing, but still fits well.", "verifiedPurchase": true, "reviewDate": "2024-09-30", "helpfulCount": 262 },
+    { "reviewerName": "Jason Miller", "rating": 5, "title": "Great casual staple", "reviewText": "I wear this several times a week. Comfortable, warm, and easy to pair with anything. The ribbed cuffs help it keep shape. Highly recommended.", "verifiedPurchase": true, "reviewDate": "2024-08-18", "helpfulCount": 187 }
+  ]
+}

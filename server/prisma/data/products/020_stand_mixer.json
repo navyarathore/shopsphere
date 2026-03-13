@@ -1,0 +1,41 @@
+{
+  "name": "Stand Mixer 4.5 Qt",
+  "description": "Tilt-head stand mixer with 10 speeds, stainless steel bowl, flat beater, dough hook, and wire whip.",
+  "price": 199.99,
+  "stock": 25,
+  "category": "Home & Kitchen",
+  "mainImageUrl": "https://picsum.photos/seed/standmixer/600/600",
+  "images": [
+    "https://picsum.photos/seed/standmixer-2/600/600",
+    "https://picsum.photos/seed/standmixer-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Brand", "value": "MixMaster" },
+    { "key": "Capacity", "value": "4.5 Quarts" },
+    { "key": "Motor Power", "value": "300 Watts" },
+    { "key": "Speed Settings", "value": "10 Speeds" },
+    { "key": "Head Type", "value": "Tilt-Head" },
+    { "key": "Bowl Material", "value": "Stainless Steel" },
+    { "key": "Included Attachments", "value": "Flat Beater, Dough Hook, Wire Whip" },
+    { "key": "Planetary Mixing", "value": "Yes" },
+    { "key": "Weight", "value": "6.8 kg" },
+    { "key": "Colour", "value": "Silver" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B09MIX45QT" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (4,118 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#4 in Home & Kitchen > Stand Mixers" },
+    { "key": "Date First Available", "value": "May 9, 2024" },
+    { "key": "Manufacturer", "value": "MixMaster Appliances, Cleveland, Ohio 44114" },
+    { "key": "Item Weight", "value": "6.8 kg" },
+    { "key": "Product Dimensions", "value": "35 x 22 x 34 cm" },
+    { "key": "Dishwasher Safe", "value": "Attachments only" },
+    { "key": "Item Model Number", "value": "MM-45T" },
+    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+  ],
+  "reviews": [
+    { "reviewerName": "Heather Moore", "rating": 5, "title": "Fantastic mixer for home baking", "reviewText": "This mixer handles bread dough, cake batter, and cookie dough with no issues. The motor feels strong, the bowl size is perfect for family baking, and the attachments are easy to swap and clean.", "verifiedPurchase": true, "reviewDate": "2024-11-23", "helpfulCount": 618 },
+    { "reviewerName": "Daniel Rivera", "rating": 5, "title": "Great performance and value", "reviewText": "I was considering a much more expensive brand, but this one has been excellent. Smooth mixing, stable base, and the tilt-head design makes everything easy. Very happy with the purchase.", "verifiedPurchase": true, "reviewDate": "2024-10-07", "helpfulCount": 432 },
+    { "reviewerName": "Laura Chen", "rating": 4, "title": "Strong mixer with slight noise", "reviewText": "Works very well and feels solid. It is a bit noisy at the highest speeds, but performance is excellent and the attachments cover everything I need. Strong recommendation for home bakers.", "verifiedPurchase": true, "reviewDate": "2024-08-30", "helpfulCount": 265 }
+  ]
+}
