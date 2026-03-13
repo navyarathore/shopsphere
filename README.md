@@ -2,10 +2,32 @@
 
 A full-stack e-commerce web application built with React + TypeScript, Node.js/Express + TypeScript, PostgreSQL, and Prisma ORM. Covers the complete shopping flow — browsing products, managing a cart and wishlist, authenticating users, placing orders, and reviewing order history.
 
+🔗 **Live demo:** https://shopsphere-scaler.vercel.app
+
+---
+
+## Screenshots
+
+<table>
+<tr>
+  <td><img src="docs/screenshots/signup.png" alt="Cart" width="400"/></td>
+  <td><img src="docs/screenshots/homepage.png" alt="Order History" width="400"/></td>
+</tr>
+<tr>
+  <td><img src="docs/screenshots/product-detail.png" alt="Homepage" width="400"/></td>
+  <td><img src="docs/screenshots/cart.png" alt="Product Detail" width="400"/></td>
+</tr>
+<tr>
+  <td><img src="docs/screenshots/checkout.png" alt="Cart" width="400"/></td>
+  <td><img src="docs/screenshots/order-history.png" alt="Order History" width="400"/></td>
+</tr>
+</table>
+
 ---
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Features](#features)
@@ -115,22 +137,6 @@ sequenceDiagram
 
     C->>S: GET /api/auth/me (new token)
     S-->>C: 200 { user }
-```
-
----
-
-## Database Schema
-
-```mermaid
-erDiagram
-    User ||--o{ Order : places
-    Order ||--|{ OrderItem : contains
-    OrderItem }o--|| Product : references
-    Product }o--|| Category : belongs_to
-    Product ||--o{ ProductImage : has
-    Product ||--o{ ProductSpecification : has
-    Product ||--o{ ProductAdditionalInfo : has
-    Product ||--o{ ProductReview : has
 ```
 
 ---
