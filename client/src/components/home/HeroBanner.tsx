@@ -125,17 +125,17 @@ export default function HeroBanner() {
         <div
           className="absolute inset-0 pointer-events-none"
           style={{
-            background: 'linear-gradient(to right, rgba(243,244,246,0.92) 0%, rgba(243,244,246,0.75) 35%, rgba(243,244,246,0.2) 60%, transparent 100%)',
+            background: 'linear-gradient(to right, rgba(0,0,0,0.84) 0%, rgba(0,0,0,0.64) 42%, rgba(0,0,0,0.15) 68%, transparent 100%)',
           }}
         />
-        <div className="relative max-w-5xl mx-auto px-10 sm:px-16 pt-10 pb-28 flex flex-col sm:flex-row items-center gap-6 sm:gap-10 min-h-[300px] z-10">
+        <div className="relative max-w-5xl mx-auto px-10 sm:px-16 pt-10 pb-28 flex flex-col sm:flex-row items-center gap-6 sm:gap-10 min-h-[320px] z-10">
 
           {/* Text side */}
           <div className="flex-1 min-w-0 flex flex-col justify-center max-w-md">
-            <h2 className="text-3xl sm:text-4xl font-extrabold leading-tight mb-2 text-gray-900">
+            <h2 className="text-2xl sm:text-3xl font-extrabold whitespace-nowrap mb-3 text-white drop-shadow-xl">
               {slide.headline}
             </h2>
-            <p className="text-base sm:text-lg mb-5 text-gray-700">
+            <p className="text-base sm:text-lg mb-5 text-white/80 leading-relaxed">
               {slide.subline}
             </p>
 
@@ -143,12 +143,12 @@ export default function HeroBanner() {
             <div className="flex items-center gap-0 mb-6">
               {slide.badges.map((b, i) => (
                 <div key={b.label} className="flex items-center">
-                  <div className="flex items-center gap-1.5 px-3 py-1.5 text-gray-700">
+                  <div className="flex items-center gap-1.5 px-3 py-1.5 text-white/90">
                     <span className="text-base">{b.icon}</span>
                     <span className="text-xs font-bold uppercase tracking-wide">{b.label}</span>
                   </div>
                   {i < slide.badges.length - 1 && (
-                    <div className="w-px h-5 bg-gray-400" />
+                    <div className="w-px h-5 bg-white/30" />
                   )}
                 </div>
               ))}

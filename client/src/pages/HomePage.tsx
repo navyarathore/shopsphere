@@ -20,16 +20,18 @@ interface MidBannerProps {
 // ── Inline mini-banner between sections ─────────────────────────────────────
 function MidBanner({ bg, headline, sub, cta, ctaLink }: MidBannerProps) {
   return (
-    <div className={`rounded-md overflow-hidden ${bg} px-6 py-5 flex items-center justify-between gap-4`}>
-      <div>
-        <p className="text-white font-extrabold text-lg sm:text-xl leading-tight">{headline}</p>
-        {sub && <p className="text-white/75 text-sm mt-0.5">{sub}</p>}
+    <div className={`rounded-2xl overflow-hidden relative ${bg} px-7 py-7 flex items-center justify-between gap-6 shadow-md`}>
+      {/* Decorative blurred circle */}
+      <div className="absolute right-24 top-1/2 -translate-y-1/2 w-32 h-32 bg-white/5 rounded-full blur-2xl pointer-events-none" />
+      <div className="relative z-10">
+        <p className="text-white font-extrabold text-xl sm:text-2xl leading-tight">{headline}</p>
+        {sub && <p className="text-white/70 text-sm mt-1 max-w-md">{sub}</p>}
       </div>
       <Link
         to={ctaLink}
-        className="flex-shrink-0 bg-amazon-yellow hover:bg-amazon-orange text-gray-900 font-bold text-sm px-5 py-2 rounded-full transition-colors"
+        className="relative z-10 flex-shrink-0 bg-amber-400 hover:bg-amber-300 text-gray-900 font-extrabold text-sm px-6 py-2.5 rounded-full transition-all hover:scale-105 active:scale-95 shadow-lg whitespace-nowrap"
       >
-        {cta}
+        {cta} →
       </Link>
     </div>
   )
@@ -38,15 +40,15 @@ function MidBanner({ bg, headline, sub, cta, ctaLink }: MidBannerProps) {
 // ── Category interest strip ──────────────────────────────────────────────────
 function InterestStrip() {
   return (
-    <div className="flex flex-wrap justify-center gap-3 py-1">
+    <div className="flex gap-2.5 overflow-x-auto scrollbar-hide pb-1">
       {CATEGORY_NAV_ITEMS.map((c) => (
         <Link
           key={c.query}
           to={`/?category=${encodeURIComponent(c.query)}`}
-          className="flex-shrink-0 flex flex-col items-center gap-1 bg-white rounded-xl shadow-sm px-5 py-3 hover:shadow-md hover:ring-2 hover:ring-amazon-yellow transition-all text-center"
+          className="flex-shrink-0 flex items-center gap-2.5 bg-white rounded-2xl shadow-sm border border-gray-100 px-4 py-2.5 hover:shadow-md hover:border-amber-300 hover:-translate-y-0.5 transition-all"
         >
-          <span className="text-2xl">{c.icon}</span>
-          <span className="text-xs font-semibold text-gray-700 whitespace-nowrap">{c.label}</span>
+          <span className="text-xl leading-none">{c.icon}</span>
+          <span className="text-xs font-bold text-gray-700 whitespace-nowrap">{c.label}</span>
         </Link>
       ))}
     </div>
@@ -82,7 +84,7 @@ export default function HomePage() {
     if (!searchQuery && (!categoryFilter || showAllProducts)) return
     setFilterLoading(true)
     setFilterError(null)
-    const params = {}
+    const params: Record<string, string> = {}
     if (searchQuery) params.search = searchQuery
     if (categoryFilter && !showAllProducts) params.category = categoryFilter
     api.get('/api/products', { params })
@@ -93,7 +95,7 @@ export default function HomePage() {
 
   // Group all products by category name
   const categoryMap = useMemo(() => {
-    const map = {}
+    const map: Record<string, Product[]> = {}
     allProducts.forEach((p) => {
       const key = p.category_name || 'Other'
       if (!map[key]) map[key] = []
@@ -156,22 +158,19 @@ export default function HomePage() {
 
   // ── Home page ────────────────────────────────────────────────────────────
   return (
-    <div className="bg-gray-100 min-h-screen">
+    <div className="bg-[#f0f2f5] min-h-screen">
       {/* Hero carousel */}
       <HeroBanner />
 
-      <div className="max-w-[1500px] mx-auto px-3 sm:px-6 py-6 flex flex-col gap-8">
+      <div className="max-w-[1500px] mx-auto px-3 sm:px-6 py-8 flex flex-col gap-10">
 
-        {/* Interest / category quick-links strip */}
+        {/* Scrollable category pill strip */}
         <section>
-          <h2 className="text-lg font-bold text-gray-800 mb-3">Shop by Category</h2>
+          <div className="flex items-center justify-between mb-3">
+            <h2 className="text-base font-extrabold text-gray-900 tracking-tight">Shop by Category</h2>
+            <span className="text-[11px] text-gray-400 font-medium hidden sm:block">Scroll to explore →</span>
+          </div>
           <InterestStrip />
-        </section>
-
-        {/* 8-card category showcase */}
-        <section>
-          <h2 className="text-lg font-bold text-gray-800 mb-3">Explore Popular Collections</h2>
-          <CategoryShowcase categoryMap={categoryMap} loading={loading} />
         </section>
 
         {/* Mid-page promo banner */}
@@ -183,20 +182,41 @@ export default function HomePage() {
           ctaLink="/"
         />
 
+        {/* Category showcase grid */}
+        <section>
+          <div className="flex items-end gap-3 mb-4">
+            <div>
+              <p className="text-[11px] font-bold text-amber-600 uppercase tracking-widest mb-0.5">Handpicked for you</p>
+              <h2 className="text-xl font-extrabold text-gray-900 leading-tight">Explore Popular Collections</h2>
+            </div>
+            <div className="flex-1 h-px bg-gray-200 mb-1.5" />
+          </div>
+          <CategoryShowcase categoryMap={categoryMap} loading={loading} />
+        </section>
+
         {/* Per-category product rows */}
-        {loading
-          ? Array.from({ length: 3 }).map((_, i) => (
-              <ProductRow key={i} title="" loading={true} products={[]} viewAllLink="/" />
-            ))
-          : categoryNames.map((name, i) => (
-              <ProductRow
-                key={name}
-                title={name}
-                viewAllLink={`/?category=${encodeURIComponent(name)}`}
-                products={categoryMap[name]}
-                accentBg={ACCENTS[i % ACCENTS.length]}
-              />
-            ))}
+        <section className="flex flex-col gap-6">
+          <div className="flex items-end gap-3">
+            <div>
+              <p className="text-[11px] font-bold text-amber-600 uppercase tracking-widest mb-0.5">Browse by section</p>
+              <h2 className="text-xl font-extrabold text-gray-900 leading-tight">Shop by Department</h2>
+            </div>
+            <div className="flex-1 h-px bg-gray-200 mb-1.5" />
+          </div>
+          {loading
+            ? Array.from({ length: 3 }).map((_, i) => (
+                <ProductRow key={i} title="" loading={true} products={[]} viewAllLink="/" />
+              ))
+            : categoryNames.map((name, i) => (
+                <ProductRow
+                  key={name}
+                  title={name}
+                  viewAllLink={`/?category=${encodeURIComponent(name)}`}
+                  products={categoryMap[name]}
+                  accentBg={ACCENTS[i % ACCENTS.length]}
+                />
+              ))}
+        </section>
 
         {/* Bottom promo banner */}
         <MidBanner
