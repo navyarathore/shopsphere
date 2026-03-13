@@ -4,19 +4,40 @@ const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const prisma = require('../config/db');
 
-const COOKIE_OPTIONS = {
+const SAME_SITE = process.env.NODE_ENV === 'production' ? 'none' : 'lax';
+
+const ACCESS_COOKIE_OPTIONS = {
   httpOnly: true,
-  sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax',
+  sameSite: SAME_SITE,
   secure: process.env.NODE_ENV === 'production',
-  maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days in ms
+  maxAge: 15 * 60 * 1000, // 15 minutes
 };
 
-const signToken = (user) =>
+const REFRESH_COOKIE_OPTIONS = {
+  httpOnly: true,
+  sameSite: SAME_SITE,
+  secure: process.env.NODE_ENV === 'production',
+  maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+};
+
+const signAccessToken = (user) =>
   jwt.sign(
     { id: user.id, name: user.name, email: user.email },
     process.env.JWT_SECRET,
+    { expiresIn: '15m' }
+  );
+
+const signRefreshToken = (user) =>
+  jwt.sign(
+    { id: user.id },
+    process.env.JWT_REFRESH_SECRET,
     { expiresIn: '7d' }
   );
+
+const setTokens = (res, user) => {
+  res.cookie('token', signAccessToken(user), ACCESS_COOKIE_OPTIONS);
+  res.cookie('refreshToken', signRefreshToken(user), REFRESH_COOKIE_OPTIONS);
+};
 
 // POST /api/auth/signup
 const signup = async (req, res, next) => {
@@ -44,8 +65,7 @@ const signup = async (req, res, next) => {
       select: { id: true, name: true, email: true },
     });
 
-    const token = signToken(user);
-    res.cookie('token', token, COOKIE_OPTIONS);
+    setTokens(res, user);
     res.status(201).json({ user });
   } catch (err) {
     next(err);
@@ -74,8 +94,7 @@ const login = async (req, res, next) => {
       return res.status(401).json({ error: 'Invalid email or password' });
     }
 
-    const token = signToken(user);
-    res.cookie('token', token, COOKIE_OPTIONS);
+    setTokens(res, { id: user.id, name: user.name, email: user.email });
     res.json({ user: { id: user.id, name: user.name, email: user.email } });
   } catch (err) {
     next(err);
@@ -84,8 +103,42 @@ const login = async (req, res, next) => {
 
 // POST /api/auth/logout
 const logout = (_req, res) => {
-  res.clearCookie('token', { httpOnly: true, sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax', secure: process.env.NODE_ENV === 'production' });
+  const clearOpts = { httpOnly: true, sameSite: SAME_SITE, secure: process.env.NODE_ENV === 'production' };
+  res.clearCookie('token', clearOpts);
+  res.clearCookie('refreshToken', clearOpts);
   res.json({ message: 'Logged out' });
+};
+
+// POST /api/auth/refresh
+const refresh = async (req, res, next) => {
+  try {
+    const refreshToken = req.cookies?.refreshToken;
+
+    if (!refreshToken) {
+      return res.status(401).json({ error: 'No refresh token' });
+    }
+
+    let payload;
+    try {
+      payload = jwt.verify(refreshToken, process.env.JWT_REFRESH_SECRET);
+    } catch {
+      return res.status(401).json({ error: 'Invalid or expired refresh token' });
+    }
+
+    const user = await prisma.user.findUnique({
+      where: { id: payload.id },
+      select: { id: true, name: true, email: true },
+    });
+
+    if (!user) {
+      return res.status(401).json({ error: 'User not found' });
+    }
+
+    res.cookie('token', signAccessToken(user), ACCESS_COOKIE_OPTIONS);
+    res.json({ ok: true });
+  } catch (err) {
+    next(err);
+  }
 };
 
 // GET /api/auth/me
@@ -104,4 +157,4 @@ const getMe = async (req, res, next) => {
   }
 };
 
-module.exports = { signup, login, logout, getMe };
+module.exports = { signup, login, logout, refresh, getMe };
