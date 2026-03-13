@@ -15,7 +15,6 @@ export const CATEGORY_NAV_ITEMS = [
   { label: 'Bestsellers', query: 'Bestsellers', icon: '🏆', hasProducts: false },
   { label: 'Mobiles', query: 'Mobiles', icon: '📱', hasProducts: true },
   { label: 'Customer Service', query: 'Customer Service', icon: '🎧', hasProducts: false },
-//   { label: "Today's Deals", query: "Today's Deals", icon: '🏷️', hasProducts: false },
   { label: 'Electronics', query: 'Electronics', icon: '💻', hasProducts: true },
   { label: 'Clothing', query: 'Clothing', icon: '👗', hasProducts: true },
   { label: 'Home & Kitchen', query: 'Home & Kitchen', icon: '🏠', hasProducts: true },
