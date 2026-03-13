@@ -1,7 +1,7 @@
 {
   "name": "The Hobbit",
   "description": "J.R.R. Tolkien's classic tale of Bilbo Baggins, a hobbit who embarks on an unexpected journey with a company of dwarves.",
-  "price": 14.99,
+  "price": 1299,
   "stock": 250,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/hobbit/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/hobbit-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "J.R.R. Tolkien" },
-    { "key": "Publisher", "value": "Houghton Mifflin Harcourt" },
-    { "key": "Edition", "value": "Anniversary Edition" },
-    { "key": "Language", "value": "English" },
-    { "key": "Pages", "value": "366" },
-    { "key": "ISBN-13", "value": "978-0547928227" },
-    { "key": "Format", "value": "Paperback" },
-    { "key": "Genre", "value": "Fantasy, Classic Fiction" },
-    { "key": "Reading Level", "value": "Young Adult / Adult" },
-    { "key": "Publication Year", "value": "1937 (This Edition: 2012)" }
+    {
+      "key": "Author",
+      "value": "J.R.R. Tolkien"
+    },
+    {
+      "key": "Publisher",
+      "value": "Houghton Mifflin Harcourt"
+    },
+    {
+      "key": "Edition",
+      "value": "Anniversary Edition"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Pages",
+      "value": "366"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-0547928227"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Genre",
+      "value": "Fantasy, Classic Fiction"
+    },
+    {
+      "key": "Reading Level",
+      "value": "Young Adult / Adult"
+    },
+    {
+      "key": "Publication Year",
+      "value": "1937 (This Edition: 2012)"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B007978NPG" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (42,193 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#3 in Books > Fantasy" },
-    { "key": "Date First Available", "value": "September 18, 2012" },
-    { "key": "Manufacturer", "value": "Houghton Mifflin Harcourt" },
-    { "key": "Item Weight", "value": "340 grams" },
-    { "key": "Product Dimensions", "value": "13.5 x 1.9 x 20.3 cm" },
-    { "key": "Country of Origin", "value": "United Kingdom" },
-    { "key": "Part of Series", "value": "Prequel to The Lord of the Rings" },
-    { "key": "Warranty", "value": "Not applicable" }
+    {
+      "key": "ASIN",
+      "value": "B007978NPG"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars (42,193 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#3 in Books > Fantasy"
+    },
+    {
+      "key": "Date First Available",
+      "value": "September 18, 2012"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "Houghton Mifflin Harcourt"
+    },
+    {
+      "key": "Item Weight",
+      "value": "340 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "13.5 x 1.9 x 20.3 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "United Kingdom"
+    },
+    {
+      "key": "Part of Series",
+      "value": "Prequel to The Lord of the Rings"
+    },
+    {
+      "key": "Warranty",
+      "value": "Not applicable"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Olivia Johnson", "rating": 5, "title": "A timeless adventure", "reviewText": "Tolkien's storytelling is warm, witty, and utterly enchanting. The Hobbit is charming from first page to last. I read it as a child and again as an adult and it is even more enjoyable the second time around.", "verifiedPurchase": true, "reviewDate": "2024-08-12", "helpfulCount": 2241 },
-    { "reviewerName": "Finn Murray", "rating": 5, "title": "Perfect introduction to Middle-earth", "reviewText": "Lighter in tone than the Lord of the Rings but every bit as magical. A perfect book for readers of any age. The world building is rich and the characters are loveable.", "verifiedPurchase": true, "reviewDate": "2024-06-24", "helpfulCount": 1683 },
-    { "reviewerName": "Amara Osei", "rating": 5, "title": "Wonderful classic fantasy", "reviewText": "This was my first Tolkien book and I was completely swept away. The writing is engaging and full of imagination. Cannot wait to move on to The Lord of the Rings.", "verifiedPurchase": true, "reviewDate": "2024-05-09", "helpfulCount": 1142 }
+    {
+      "reviewerName": "Olivia Johnson",
+      "rating": 5,
+      "title": "A timeless adventure",
+      "reviewText": "Tolkien's storytelling is warm, witty, and utterly enchanting. The Hobbit is charming from first page to last. I read it as a child and again as an adult and it is even more enjoyable the second time around.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-12",
+      "helpfulCount": 2241
+    },
+    {
+      "reviewerName": "Finn Murray",
+      "rating": 5,
+      "title": "Perfect introduction to Middle-earth",
+      "reviewText": "Lighter in tone than the Lord of the Rings but every bit as magical. A perfect book for readers of any age. The world building is rich and the characters are loveable.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-06-24",
+      "helpfulCount": 1683
+    },
+    {
+      "reviewerName": "Amara Osei",
+      "rating": 5,
+      "title": "Wonderful classic fantasy",
+      "reviewText": "This was my first Tolkien book and I was completely swept away. The writing is engaging and full of imagination. Cannot wait to move on to The Lord of the Rings.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-05-09",
+      "helpfulCount": 1142
+    }
   ]
 }

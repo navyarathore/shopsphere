@@ -1,7 +1,7 @@
 {
   "name": "Unisex Premium Graphic Tee",
   "description": "Soft 100% organic cotton graphic tee with oversized fit, double-stitched seams, and pre-washed finish.",
-  "price": 19.99,
+  "price": 1699,
   "stock": 200,
   "category": "Clothing",
   "mainImageUrl": "https://picsum.photos/seed/graphictee/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/graphictee-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "ThreadCraft" },
-    { "key": "Fit", "value": "Oversized Unisex" },
-    { "key": "Material", "value": "100% Organic Cotton" },
-    { "key": "Weight", "value": "200 GSM" },
-    { "key": "Neckline", "value": "Crew Neck" },
-    { "key": "Print Method", "value": "Water-Based Screen Print" },
-    { "key": "Available Sizes", "value": "XS to XXL" },
-    { "key": "Colours Available", "value": "White, Black, Vintage Grey, Sage, Dusty Rose" },
-    { "key": "Care Instructions", "value": "Machine Wash Cold, Tumble Dry Low" },
-    { "key": "Country of Manufacture", "value": "Portugal" }
+    {
+      "key": "Brand",
+      "value": "ThreadCraft"
+    },
+    {
+      "key": "Fit",
+      "value": "Oversized Unisex"
+    },
+    {
+      "key": "Material",
+      "value": "100% Organic Cotton"
+    },
+    {
+      "key": "Weight",
+      "value": "200 GSM"
+    },
+    {
+      "key": "Neckline",
+      "value": "Crew Neck"
+    },
+    {
+      "key": "Print Method",
+      "value": "Water-Based Screen Print"
+    },
+    {
+      "key": "Available Sizes",
+      "value": "XS to XXL"
+    },
+    {
+      "key": "Colours Available",
+      "value": "White, Black, Vintage Grey, Sage, Dusty Rose"
+    },
+    {
+      "key": "Care Instructions",
+      "value": "Machine Wash Cold, Tumble Dry Low"
+    },
+    {
+      "key": "Country of Manufacture",
+      "value": "Portugal"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09TEEORG0" },
-    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (3,287 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#6 in Clothing > Unisex T-Shirts" },
-    { "key": "Date First Available", "value": "June 11, 2024" },
-    { "key": "Manufacturer", "value": "ThreadCraft Clothing, London, UK W1F 9HT" },
-    { "key": "Item Weight", "value": "220 grams" },
-    { "key": "Product Dimensions", "value": "Varies by size" },
-    { "key": "Certification", "value": "GOTS Certified Organic Cotton" },
-    { "key": "Item Model Number", "value": "TC-GT-UNI" },
-    { "key": "Warranty", "value": "Not applicable" }
+    {
+      "key": "ASIN",
+      "value": "B09TEEORG0"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.4 out of 5 stars (3,287 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#6 in Clothing > Unisex T-Shirts"
+    },
+    {
+      "key": "Date First Available",
+      "value": "June 11, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "ThreadCraft Clothing, London, UK W1F 9HT"
+    },
+    {
+      "key": "Item Weight",
+      "value": "220 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "Varies by size"
+    },
+    {
+      "key": "Certification",
+      "value": "GOTS Certified Organic Cotton"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "TC-GT-UNI"
+    },
+    {
+      "key": "Warranty",
+      "value": "Not applicable"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Jasper Wolfe", "rating": 5, "title": "Best T-shirt quality for the price", "reviewText": "The fabric is thick, soft, and doesn't feel cheap. Oversized fit is exactly right — not too baggy. The graphic is clear and hasn't faded at all after multiple washes. I will buy more colours.", "verifiedPurchase": true, "reviewDate": "2024-10-08", "helpfulCount": 389 },
-    { "reviewerName": "Zoe Nguyen", "rating": 4, "title": "Comfortable and well-made tee", "reviewText": "Really like the weight of the fabric and the organic cotton feel. Washed well. Oversized fit is flattering. The print could be slightly larger but overall very pleased.", "verifiedPurchase": true, "reviewDate": "2024-09-24", "helpfulCount": 267 },
-    { "reviewerName": "Milo Chen", "rating": 5, "title": "Great everyday T-shirt", "reviewText": "Comfortable from the first wear without needing to break in. The double stitched seams are a nice quality touch. Highly recommend as a wardrobe staple.", "verifiedPurchase": true, "reviewDate": "2024-08-15", "helpfulCount": 194 }
+    {
+      "reviewerName": "Jasper Wolfe",
+      "rating": 5,
+      "title": "Best T-shirt quality for the price",
+      "reviewText": "The fabric is thick, soft, and doesn't feel cheap. Oversized fit is exactly right — not too baggy. The graphic is clear and hasn't faded at all after multiple washes. I will buy more colours.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-08",
+      "helpfulCount": 389
+    },
+    {
+      "reviewerName": "Zoe Nguyen",
+      "rating": 4,
+      "title": "Comfortable and well-made tee",
+      "reviewText": "Really like the weight of the fabric and the organic cotton feel. Washed well. Oversized fit is flattering. The print could be slightly larger but overall very pleased.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-24",
+      "helpfulCount": 267
+    },
+    {
+      "reviewerName": "Milo Chen",
+      "rating": 5,
+      "title": "Great everyday T-shirt",
+      "reviewText": "Comfortable from the first wear without needing to break in. The double stitched seams are a nice quality touch. Highly recommend as a wardrobe staple.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-15",
+      "helpfulCount": 194
+    }
   ]
 }

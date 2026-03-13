@@ -1,7 +1,7 @@
 {
   "name": "The Pragmatic Programmer",
   "description": "From journeyman to master — timeless advice on software development practices, tools, and career growth.",
-  "price": 39.99,
+  "price": 3399,
   "stock": 90,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/pragprog/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/pragprog-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "David Thomas, Andrew Hunt" },
-    { "key": "Publisher", "value": "Addison-Wesley Professional" },
-    { "key": "Language", "value": "English" },
-    { "key": "Format", "value": "Paperback" },
-    { "key": "Pages", "value": "352" },
-    { "key": "ISBN-10", "value": "0135957052" },
-    { "key": "ISBN-13", "value": "978-0135957059" },
-    { "key": "Dimensions", "value": "18 x 2.1 x 23.2 cm" },
-    { "key": "Publication Date", "value": "September 13, 2019" },
-    { "key": "Genre", "value": "Programming Practices" }
+    {
+      "key": "Author",
+      "value": "David Thomas, Andrew Hunt"
+    },
+    {
+      "key": "Publisher",
+      "value": "Addison-Wesley Professional"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Pages",
+      "value": "352"
+    },
+    {
+      "key": "ISBN-10",
+      "value": "0135957052"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-0135957059"
+    },
+    {
+      "key": "Dimensions",
+      "value": "18 x 2.1 x 23.2 cm"
+    },
+    {
+      "key": "Publication Date",
+      "value": "September 13, 2019"
+    },
+    {
+      "key": "Genre",
+      "value": "Programming Practices"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B07VRS84D1" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (5,806 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#7 in Books > Software Development" },
-    { "key": "Date First Available", "value": "September 13, 2019" },
-    { "key": "Publisher", "value": "Addison-Wesley Professional" },
-    { "key": "Language", "value": "English" },
-    { "key": "Item Weight", "value": "620 grams" },
-    { "key": "Product Dimensions", "value": "18 x 2.1 x 23.2 cm" },
-    { "key": "Country of Origin", "value": "United States" },
-    { "key": "Edition", "value": "20th Anniversary Edition" }
+    {
+      "key": "ASIN",
+      "value": "B07VRS84D1"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars (5,806 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#7 in Books > Software Development"
+    },
+    {
+      "key": "Date First Available",
+      "value": "September 13, 2019"
+    },
+    {
+      "key": "Publisher",
+      "value": "Addison-Wesley Professional"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Item Weight",
+      "value": "620 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "18 x 2.1 x 23.2 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "United States"
+    },
+    {
+      "key": "Edition",
+      "value": "20th Anniversary Edition"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Arjun M.", "rating": 5, "title": "Packed with practical wisdom", "reviewText": "This is one of those books that every developer should revisit every few years. It blends mindset, habits, and hands-on advice really well. The chapters are short, memorable, and full of ideas that are immediately useful on real projects.", "verifiedPurchase": true, "reviewDate": "2024-11-18", "helpfulCount": 699 },
-    { "reviewerName": "Rachel Evans", "rating": 5, "title": "Excellent career-long guide", "reviewText": "I love how broad this book is. It covers code quality, debugging, communication, and personal growth without ever feeling vague. The 20th anniversary edition feels modern and relevant. Great for developers at any stage.", "verifiedPurchase": true, "reviewDate": "2024-10-01", "helpfulCount": 472 },
-    { "reviewerName": "Noah Patel", "rating": 4, "title": "Inspirational and actionable", "reviewText": "Not every tip will apply to every team, but the book is full of strong principles. It is less about syntax and more about becoming a thoughtful engineer. Very readable and full of quotable takeaways.", "verifiedPurchase": true, "reviewDate": "2024-08-29", "helpfulCount": 286 }
+    {
+      "reviewerName": "Arjun M.",
+      "rating": 5,
+      "title": "Packed with practical wisdom",
+      "reviewText": "This is one of those books that every developer should revisit every few years. It blends mindset, habits, and hands-on advice really well. The chapters are short, memorable, and full of ideas that are immediately useful on real projects.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-18",
+      "helpfulCount": 699
+    },
+    {
+      "reviewerName": "Rachel Evans",
+      "rating": 5,
+      "title": "Excellent career-long guide",
+      "reviewText": "I love how broad this book is. It covers code quality, debugging, communication, and personal growth without ever feeling vague. The 20th anniversary edition feels modern and relevant. Great for developers at any stage.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-01",
+      "helpfulCount": 472
+    },
+    {
+      "reviewerName": "Noah Patel",
+      "rating": 4,
+      "title": "Inspirational and actionable",
+      "reviewText": "Not every tip will apply to every team, but the book is full of strong principles. It is less about syntax and more about becoming a thoughtful engineer. Very readable and full of quotable takeaways.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-29",
+      "helpfulCount": 286
+    }
   ]
 }

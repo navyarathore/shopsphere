@@ -90,7 +90,7 @@ function HeroProduct({ product, accentFrom, badgeColor }: HeroProductProps) {
         </Link>
         <div className="flex items-center justify-between gap-2">
           <span className="text-white font-extrabold text-base">
-            ${Number(product.price).toFixed(2)}
+            ₹{Number(product.price).toFixed(2)}
           </span>
           <button
             onClick={() => addToCart(product)}
@@ -173,7 +173,7 @@ function SideProduct({ product, rank, accentFrom, badgeColor }: SideProductProps
         </Link>
         <div className="flex items-center justify-between gap-1 mt-1">
           <span className="text-white font-extrabold text-xs">
-            ${Number(product.price).toFixed(2)}
+            ₹{Number(product.price).toFixed(2)}
           </span>
           <button
             onClick={() => addToCart(product)}

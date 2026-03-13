@@ -1,7 +1,7 @@
 {
   "name": "The Art of Problem Solving Vol. 1",
   "description": "Classic mathematics competition preparation book covering algebra, geometry, counting, and number theory.",
-  "price": 24.99,
+  "price": 2099,
   "stock": 55,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/aops/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/aops-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "Richard Rusczyk, Sandor Lehoczky" },
-    { "key": "Publisher", "value": "AoPS Incorporated" },
-    { "key": "Language", "value": "English" },
-    { "key": "Format", "value": "Paperback" },
-    { "key": "Pages", "value": "496" },
-    { "key": "ISBN-10", "value": "1934124214" },
-    { "key": "ISBN-13", "value": "978-1934124215" },
-    { "key": "Dimensions", "value": "21.6 x 2.6 x 27.9 cm" },
-    { "key": "Publication Date", "value": "January 1, 2006" },
-    { "key": "Genre", "value": "Mathematics" }
+    {
+      "key": "Author",
+      "value": "Richard Rusczyk, Sandor Lehoczky"
+    },
+    {
+      "key": "Publisher",
+      "value": "AoPS Incorporated"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Pages",
+      "value": "496"
+    },
+    {
+      "key": "ISBN-10",
+      "value": "1934124214"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-1934124215"
+    },
+    {
+      "key": "Dimensions",
+      "value": "21.6 x 2.6 x 27.9 cm"
+    },
+    {
+      "key": "Publication Date",
+      "value": "January 1, 2006"
+    },
+    {
+      "key": "Genre",
+      "value": "Mathematics"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B001Q9FWP6" },
-    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (1,984 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#11 in Books > Mathematics" },
-    { "key": "Date First Available", "value": "January 1, 2006" },
-    { "key": "Publisher", "value": "AoPS Incorporated" },
-    { "key": "Language", "value": "English" },
-    { "key": "Item Weight", "value": "1.1 kg" },
-    { "key": "Product Dimensions", "value": "21.6 x 2.6 x 27.9 cm" },
-    { "key": "Country of Origin", "value": "United States" },
-    { "key": "Edition", "value": "Second Edition" }
+    {
+      "key": "ASIN",
+      "value": "B001Q9FWP6"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.7 out of 5 stars (1,984 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#11 in Books > Mathematics"
+    },
+    {
+      "key": "Date First Available",
+      "value": "January 1, 2006"
+    },
+    {
+      "key": "Publisher",
+      "value": "AoPS Incorporated"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Item Weight",
+      "value": "1.1 kg"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "21.6 x 2.6 x 27.9 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "United States"
+    },
+    {
+      "key": "Edition",
+      "value": "Second Edition"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Ishaan Verma", "rating": 5, "title": "Outstanding problem-solving book", "reviewText": "This book is excellent for students who want to go beyond routine school math. The explanations build intuition and the problems are genuinely interesting. It helped me prepare for olympiad-style questions and think more creatively.", "verifiedPurchase": true, "reviewDate": "2024-11-11", "helpfulCount": 418 },
-    { "reviewerName": "Laura Jenkins", "rating": 5, "title": "Challenging in the best way", "reviewText": "The book is rigorous but very rewarding. It does a great job of teaching methods instead of memorization. The writing is engaging and the progression is thoughtful. Fantastic resource for motivated learners.", "verifiedPurchase": true, "reviewDate": "2024-09-25", "helpfulCount": 291 },
-    { "reviewerName": "Kevin Shah", "rating": 4, "title": "Excellent content, not for casual readers", "reviewText": "This is a serious math book, so it demands time and patience. If you are willing to work through the problems, it is incredibly valuable. The problem sets are where the real learning happens.", "verifiedPurchase": true, "reviewDate": "2024-08-08", "helpfulCount": 174 }
+    {
+      "reviewerName": "Ishaan Verma",
+      "rating": 5,
+      "title": "Outstanding problem-solving book",
+      "reviewText": "This book is excellent for students who want to go beyond routine school math. The explanations build intuition and the problems are genuinely interesting. It helped me prepare for olympiad-style questions and think more creatively.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-11",
+      "helpfulCount": 418
+    },
+    {
+      "reviewerName": "Laura Jenkins",
+      "rating": 5,
+      "title": "Challenging in the best way",
+      "reviewText": "The book is rigorous but very rewarding. It does a great job of teaching methods instead of memorization. The writing is engaging and the progression is thoughtful. Fantastic resource for motivated learners.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-25",
+      "helpfulCount": 291
+    },
+    {
+      "reviewerName": "Kevin Shah",
+      "rating": 4,
+      "title": "Excellent content, not for casual readers",
+      "reviewText": "This is a serious math book, so it demands time and patience. If you are willing to work through the problems, it is incredibly valuable. The problem sets are where the real learning happens.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-08",
+      "helpfulCount": 174
+    }
   ]
 }

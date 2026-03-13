@@ -1,7 +1,7 @@
 {
   "name": "Semi-Automatic Espresso Machine",
   "description": "15-bar pump espresso machine with built-in steam wand, single and double shot settings, and PID temperature control.",
-  "price": 149.99,
+  "price": 12999,
   "stock": 20,
   "category": "Home & Kitchen",
   "mainImageUrl": "https://picsum.photos/seed/espresso/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/espresso-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "BaristaCraft" },
-    { "key": "Pump Pressure", "value": "15 Bar" },
-    { "key": "Boiler Type", "value": "Thermoblock with PID Control" },
-    { "key": "Water Tank", "value": "1.8 Litre Removable" },
-    { "key": "Steam Wand", "value": "360° Adjustable Panarello" },
-    { "key": "Shot Settings", "value": "Single and Double" },
-    { "key": "Portafilter Diameter", "value": "54 mm" },
-    { "key": "Included Accessories", "value": "2 Baskets, Tamper, Milk Jug, Cleaning Kit" },
-    { "key": "Power", "value": "1400W" },
-    { "key": "Voltage", "value": "220-240V" }
+    {
+      "key": "Brand",
+      "value": "BaristaCraft"
+    },
+    {
+      "key": "Pump Pressure",
+      "value": "15 Bar"
+    },
+    {
+      "key": "Boiler Type",
+      "value": "Thermoblock with PID Control"
+    },
+    {
+      "key": "Water Tank",
+      "value": "1.8 Litre Removable"
+    },
+    {
+      "key": "Steam Wand",
+      "value": "360° Adjustable Panarello"
+    },
+    {
+      "key": "Shot Settings",
+      "value": "Single and Double"
+    },
+    {
+      "key": "Portafilter Diameter",
+      "value": "54 mm"
+    },
+    {
+      "key": "Included Accessories",
+      "value": "2 Baskets, Tamper, Milk Jug, Cleaning Kit"
+    },
+    {
+      "key": "Power",
+      "value": "1400W"
+    },
+    {
+      "key": "Voltage",
+      "value": "220-240V"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09ESPR150" },
-    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (1,234 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#14 in Home & Kitchen > Espresso Machines" },
-    { "key": "Date First Available", "value": "January 20, 2024" },
-    { "key": "Manufacturer", "value": "BaristaCraft Appliances, Milan, Italy 20121" },
-    { "key": "Item Weight", "value": "4.6 kg" },
-    { "key": "Product Dimensions", "value": "24 x 33 x 30 cm" },
-    { "key": "Cup Warmer", "value": "Yes, Top Platform" },
-    { "key": "Item Model Number", "value": "BC-SA15" },
-    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09ESPR150"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.4 out of 5 stars (1,234 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#14 in Home & Kitchen > Espresso Machines"
+    },
+    {
+      "key": "Date First Available",
+      "value": "January 20, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "BaristaCraft Appliances, Milan, Italy 20121"
+    },
+    {
+      "key": "Item Weight",
+      "value": "4.6 kg"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "24 x 33 x 30 cm"
+    },
+    {
+      "key": "Cup Warmer",
+      "value": "Yes, Top Platform"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "BC-SA15"
+    },
+    {
+      "key": "Warranty",
+      "value": "2 years manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Marco Esposito", "rating": 5, "title": "Café quality espresso at home", "reviewText": "This machine exceeded my expectations. PID temperature control makes a noticeable difference in espresso quality. The steam wand is powerful enough for proper microfoam. Worth every penny.", "verifiedPurchase": true, "reviewDate": "2024-11-06", "helpfulCount": 498 },
-    { "reviewerName": "Kate Robinson", "rating": 4, "title": "Great starter espresso machine", "reviewText": "Good espresso results once you dial in the grind size with your own grinder (not included). Steam wand takes practice but works well. The PID control is a feature rarely found at this price.", "verifiedPurchase": true, "reviewDate": "2024-09-19", "helpfulCount": 341 },
-    { "reviewerName": "Bruno Costa", "rating": 5, "title": "Solid value for a semi-auto machine", "reviewText": "Great extraction, responsive steam wand, and the temperature stability is noticeably better than other machines at this price. The build quality is impressive. Very happy home barista.", "verifiedPurchase": true, "reviewDate": "2024-08-11", "helpfulCount": 247 }
+    {
+      "reviewerName": "Marco Esposito",
+      "rating": 5,
+      "title": "Café quality espresso at home",
+      "reviewText": "This machine exceeded my expectations. PID temperature control makes a noticeable difference in espresso quality. The steam wand is powerful enough for proper microfoam. Worth every penny.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-06",
+      "helpfulCount": 498
+    },
+    {
+      "reviewerName": "Kate Robinson",
+      "rating": 4,
+      "title": "Great starter espresso machine",
+      "reviewText": "Good espresso results once you dial in the grind size with your own grinder (not included). Steam wand takes practice but works well. The PID control is a feature rarely found at this price.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-19",
+      "helpfulCount": 341
+    },
+    {
+      "reviewerName": "Bruno Costa",
+      "rating": 5,
+      "title": "Solid value for a semi-auto machine",
+      "reviewText": "Great extraction, responsive steam wand, and the temperature stability is noticeably better than other machines at this price. The build quality is impressive. Very happy home barista.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-11",
+      "helpfulCount": 247
+    }
   ]
 }

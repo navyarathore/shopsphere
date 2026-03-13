@@ -1,7 +1,7 @@
 {
   "name": "Ripe & Ready Avocados (Pack of 4)",
   "description": "Hand-selected Hass avocados delivered at peak ripeness — creamy, buttery flesh with a rich, nutty flavour. Great for guacamole, toast, salads, or eating straight from the skin with a sprinkle of salt.",
-  "price": 5.99,
+  "price": 499,
   "stock": 200,
   "category": "Fresh",
   "mainImageUrl": "https://picsum.photos/seed/avocados/600/600",
@@ -10,32 +10,126 @@
     "https://picsum.photos/seed/avocados-3/600/600"
   ],
   "specifications": [
-    { "key": "Variety", "value": "Hass Avocado" },
-    { "key": "Pack Size", "value": "4 avocados" },
-    { "key": "Ripeness at Delivery", "value": "Ripe & Ready to Eat" },
-    { "key": "Origin", "value": "Mexico" },
-    { "key": "Farming Method", "value": "Sustainably Grown" },
-    { "key": "Shelf Life", "value": "1–2 days at room temperature; 3–5 days refrigerated once ripe" },
-    { "key": "Storage", "value": "Refrigerate once ripe to slow further ripening" },
-    { "key": "Calories per 100 g", "value": "160 kcal" },
-    { "key": "Healthy Fats per 100 g", "value": "15 g monounsaturated fat" },
-    { "key": "Non-GMO", "value": "Yes" }
+    {
+      "key": "Variety",
+      "value": "Hass Avocado"
+    },
+    {
+      "key": "Pack Size",
+      "value": "4 avocados"
+    },
+    {
+      "key": "Ripeness at Delivery",
+      "value": "Ripe & Ready to Eat"
+    },
+    {
+      "key": "Origin",
+      "value": "Mexico"
+    },
+    {
+      "key": "Farming Method",
+      "value": "Sustainably Grown"
+    },
+    {
+      "key": "Shelf Life",
+      "value": "1–2 days at room temperature; 3–5 days refrigerated once ripe"
+    },
+    {
+      "key": "Storage",
+      "value": "Refrigerate once ripe to slow further ripening"
+    },
+    {
+      "key": "Calories per 100 g",
+      "value": "160 kcal"
+    },
+    {
+      "key": "Healthy Fats per 100 g",
+      "value": "15 g monounsaturated fat"
+    },
+    {
+      "key": "Non-GMO",
+      "value": "Yes"
+    }
   ],
   "additionalInfo": [
-    { "key": "Best Use", "value": "Guacamole, avocado toast, salads, sushi, smoothies" },
-    { "key": "Allergen Info", "value": "None" },
-    { "key": "Packaging", "value": "Recyclable cardboard tray with net wrap" },
-    { "key": "Date First Available", "value": "March 13, 2026" },
-    { "key": "Sold By", "value": "ShopSphere Fresh" },
-    { "key": "Country of Origin", "value": "Mexico" },
-    { "key": "Customer Reviews", "value": "4.6 out of 5 stars" },
-    { "key": "Recyclable Packaging", "value": "Yes" }
+    {
+      "key": "Best Use",
+      "value": "Guacamole, avocado toast, salads, sushi, smoothies"
+    },
+    {
+      "key": "Allergen Info",
+      "value": "None"
+    },
+    {
+      "key": "Packaging",
+      "value": "Recyclable cardboard tray with net wrap"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 13, 2026"
+    },
+    {
+      "key": "Sold By",
+      "value": "ShopSphere Fresh"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "Mexico"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.6 out of 5 stars"
+    },
+    {
+      "key": "Recyclable Packaging",
+      "value": "Yes"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Isabella F.", "rating": 5, "title": "Finally, avocados that are actually ripe!", "reviewText": "I've ordered avocados online before and they're usually rock hard. These were perfectly ripe the day they arrived. Made guacamole immediately and it was phenomenal.", "verifiedPurchase": true, "reviewDate": "2026-02-18", "helpfulCount": 412 },
-    { "reviewerName": "Ryan M.", "rating": 5, "title": "Consistent quality every order", "reviewText": "I order these every two weeks. They're always creamy, perfectly ripe, and have that deep Hass flavour. The 4-pack is the perfect size for my household.", "verifiedPurchase": true, "reviewDate": "2026-03-06", "helpfulCount": 287 },
-    { "reviewerName": "Keisha J.", "rating": 4, "title": "Great avocados, one was overripe", "reviewText": "Three of the four were perfect. The fourth was a little too soft and had started to brown inside, but the others were absolutely delicious. Good value overall.", "verifiedPurchase": true, "reviewDate": "2026-01-29", "helpfulCount": 91 },
-    { "reviewerName": "Liam O.", "rating": 5, "title": "Best avocado toast I've ever made", "reviewText": "Spent a weekend making fancy brunches with these and my friends were genuinely impressed. Rich, creamy, no strings or brown spots. Highly recommend.", "verifiedPurchase": true, "reviewDate": "2026-02-07", "helpfulCount": 176 },
-    { "reviewerName": "Amara D.", "rating": 5, "title": "Perfect for meal prep", "reviewText": "These hit the sweet spot of ripeness right on delivery day. I use two immediately and refrigerate the other two. Works out perfectly for the week. Great product!", "verifiedPurchase": true, "reviewDate": "2026-03-10", "helpfulCount": 99 }
+    {
+      "reviewerName": "Isabella F.",
+      "rating": 5,
+      "title": "Finally, avocados that are actually ripe!",
+      "reviewText": "I've ordered avocados online before and they're usually rock hard. These were perfectly ripe the day they arrived. Made guacamole immediately and it was phenomenal.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-18",
+      "helpfulCount": 412
+    },
+    {
+      "reviewerName": "Ryan M.",
+      "rating": 5,
+      "title": "Consistent quality every order",
+      "reviewText": "I order these every two weeks. They're always creamy, perfectly ripe, and have that deep Hass flavour. The 4-pack is the perfect size for my household.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-06",
+      "helpfulCount": 287
+    },
+    {
+      "reviewerName": "Keisha J.",
+      "rating": 4,
+      "title": "Great avocados, one was overripe",
+      "reviewText": "Three of the four were perfect. The fourth was a little too soft and had started to brown inside, but the others were absolutely delicious. Good value overall.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-01-29",
+      "helpfulCount": 91
+    },
+    {
+      "reviewerName": "Liam O.",
+      "rating": 5,
+      "title": "Best avocado toast I've ever made",
+      "reviewText": "Spent a weekend making fancy brunches with these and my friends were genuinely impressed. Rich, creamy, no strings or brown spots. Highly recommend.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-07",
+      "helpfulCount": 176
+    },
+    {
+      "reviewerName": "Amara D.",
+      "rating": 5,
+      "title": "Perfect for meal prep",
+      "reviewText": "These hit the sweet spot of ripeness right on delivery day. I use two immediately and refrigerate the other two. Works out perfectly for the week. Great product!",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-10",
+      "helpfulCount": 99
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Bamboo Cutting Board Set",
   "description": "Set of 3 bamboo cutting boards in small, medium, and large with juice groove and non-slip rubber feet.",
-  "price": 24.99,
+  "price": 2099,
   "stock": 85,
   "category": "Home & Kitchen",
   "mainImageUrl": "https://picsum.photos/seed/cuttingboard/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/cuttingboard-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "EcoSlice" },
-    { "key": "Material", "value": "Natural Bamboo" },
-    { "key": "Piece Count", "value": "3 Boards" },
-    { "key": "Board Sizes", "value": "Small, Medium, Large" },
-    { "key": "Juice Groove", "value": "Yes" },
-    { "key": "Non-slip Feet", "value": "Rubber Feet Included" },
-    { "key": "Knife Friendly", "value": "Yes" },
-    { "key": "Reversible", "value": "Yes" },
-    { "key": "Care Instructions", "value": "Hand Wash Only" },
-    { "key": "Weight", "value": "2.1 kg" }
+    {
+      "key": "Brand",
+      "value": "EcoSlice"
+    },
+    {
+      "key": "Material",
+      "value": "Natural Bamboo"
+    },
+    {
+      "key": "Piece Count",
+      "value": "3 Boards"
+    },
+    {
+      "key": "Board Sizes",
+      "value": "Small, Medium, Large"
+    },
+    {
+      "key": "Juice Groove",
+      "value": "Yes"
+    },
+    {
+      "key": "Non-slip Feet",
+      "value": "Rubber Feet Included"
+    },
+    {
+      "key": "Knife Friendly",
+      "value": "Yes"
+    },
+    {
+      "key": "Reversible",
+      "value": "Yes"
+    },
+    {
+      "key": "Care Instructions",
+      "value": "Hand Wash Only"
+    },
+    {
+      "key": "Weight",
+      "value": "2.1 kg"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09BMB3SET" },
-    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (3,025 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#6 in Home & Kitchen > Cutting Boards" },
-    { "key": "Date First Available", "value": "January 19, 2024" },
-    { "key": "Manufacturer", "value": "EcoSlice Home Goods, Austin, Texas 78702" },
-    { "key": "Item Weight", "value": "2.1 kg" },
-    { "key": "Product Dimensions", "value": "40 x 30 x 6 cm" },
-    { "key": "Dishwasher Safe", "value": "No" },
-    { "key": "Item Model Number", "value": "ES-CB3" },
-    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09BMB3SET"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.4 out of 5 stars (3,025 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#6 in Home & Kitchen > Cutting Boards"
+    },
+    {
+      "key": "Date First Available",
+      "value": "January 19, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "EcoSlice Home Goods, Austin, Texas 78702"
+    },
+    {
+      "key": "Item Weight",
+      "value": "2.1 kg"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "40 x 30 x 6 cm"
+    },
+    {
+      "key": "Dishwasher Safe",
+      "value": "No"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "ES-CB3"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 year manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Olivia Reed", "rating": 5, "title": "Beautiful and practical set", "reviewText": "These boards look great in the kitchen and are very useful in different sizes. The rubber feet help keep them steady and the bamboo surface has held up well with regular use.", "verifiedPurchase": true, "reviewDate": "2024-12-04", "helpfulCount": 401 },
-    { "reviewerName": "Marcus Hill", "rating": 4, "title": "Good value board set", "reviewText": "Nice range of sizes and the boards feel sturdy. They are lightweight but not flimsy. As expected, hand washing is important to keep them in good shape. Good purchase overall.", "verifiedPurchase": true, "reviewDate": "2024-10-18", "helpfulCount": 277 },
-    { "reviewerName": "Priya Desai", "rating": 5, "title": "Exactly what I wanted", "reviewText": "The boards are smooth, well finished, and easy on knives. I like the juice groove on the larger one for prep work. Very practical set for everyday cooking.", "verifiedPurchase": true, "reviewDate": "2024-09-06", "helpfulCount": 183 }
+    {
+      "reviewerName": "Olivia Reed",
+      "rating": 5,
+      "title": "Beautiful and practical set",
+      "reviewText": "These boards look great in the kitchen and are very useful in different sizes. The rubber feet help keep them steady and the bamboo surface has held up well with regular use.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-12-04",
+      "helpfulCount": 401
+    },
+    {
+      "reviewerName": "Marcus Hill",
+      "rating": 4,
+      "title": "Good value board set",
+      "reviewText": "Nice range of sizes and the boards feel sturdy. They are lightweight but not flimsy. As expected, hand washing is important to keep them in good shape. Good purchase overall.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-18",
+      "helpfulCount": 277
+    },
+    {
+      "reviewerName": "Priya Desai",
+      "rating": 5,
+      "title": "Exactly what I wanted",
+      "reviewText": "The boards are smooth, well finished, and easy on knives. I like the juice groove on the larger one for prep work. Very practical set for everyday cooking.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-06",
+      "helpfulCount": 183
+    }
   ]
 }

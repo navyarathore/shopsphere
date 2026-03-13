@@ -16,7 +16,7 @@ const SLIDES = [
   {
     id: 2,
     headline: 'Fashion Week Deals',
-    subline: 'Trending styles starting from $9.99',
+    subline: 'Trending styles starting from ₹9.99',
     cta: 'Explore Fashion',
     ctaLink: '/?category=Clothing',
     badges: [

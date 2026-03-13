@@ -1,7 +1,7 @@
 {
   "name": "Rubik's Cube 3×3 Original (Speed Cube Edition)",
   "description": "The original Rubik's Cube — reimagined for smoother, faster solving. The Speed Cube Edition features a redesigned corner-cutting mechanism, vibrant UV-coated stickers, and a tactile matte finish for confident fingertip control. Over 43 quintillion combinations, one solution. For beginners and competitive speedcubers alike, aged 8+.",
-  "price": 14.99,
+  "price": 1299,
   "stock": 250,
   "category": "Toys & Games",
   "mainImageUrl": "https://picsum.photos/seed/rubikscube/600/600",
@@ -10,34 +10,134 @@
     "https://picsum.photos/seed/rubikscube-3/600/600"
   ],
   "specifications": [
-    { "key": "Edition", "value": "Speed Cube Edition" },
-    { "key": "Grid Size", "value": "3×3×3" },
-    { "key": "Dimensions", "value": "5.7 × 5.7 × 5.7 cm" },
-    { "key": "Mechanism", "value": "Redesigned speed mechanism with corner cutting" },
-    { "key": "Stickers", "value": "UV-coated vinyl, fade and scratch resistant" },
-    { "key": "Surface", "value": "Matte tactile finish" },
-    { "key": "Number of Combinations", "value": "43,252,003,274,489,856,000 (43 quintillion)" },
-    { "key": "Recommended Age", "value": "8+" },
-    { "key": "Material", "value": "ABS plastic" },
-    { "key": "Colour", "value": "Classic 6-colour (White, Yellow, Red, Orange, Blue, Green)" }
+    {
+      "key": "Edition",
+      "value": "Speed Cube Edition"
+    },
+    {
+      "key": "Grid Size",
+      "value": "3×3×3"
+    },
+    {
+      "key": "Dimensions",
+      "value": "5.7 × 5.7 × 5.7 cm"
+    },
+    {
+      "key": "Mechanism",
+      "value": "Redesigned speed mechanism with corner cutting"
+    },
+    {
+      "key": "Stickers",
+      "value": "UV-coated vinyl, fade and scratch resistant"
+    },
+    {
+      "key": "Surface",
+      "value": "Matte tactile finish"
+    },
+    {
+      "key": "Number of Combinations",
+      "value": "43,252,003,274,489,856,000 (43 quintillion)"
+    },
+    {
+      "key": "Recommended Age",
+      "value": "8+"
+    },
+    {
+      "key": "Material",
+      "value": "ABS plastic"
+    },
+    {
+      "key": "Colour",
+      "value": "Classic 6-colour (White, Yellow, Red, Orange, Blue, Green)"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B08DCLBZWJ" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (21,673 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#1 in Puzzle Cubes" },
-    { "key": "Date First Available", "value": "March 13, 2026" },
-    { "key": "Manufacturer", "value": "Rubik's Brand Ltd. / Spin Master" },
-    { "key": "Item Weight", "value": "110 g" },
-    { "key": "Product Dimensions", "value": "5.7 × 5.7 × 5.7 cm" },
-    { "key": "Batteries Required", "value": "No" },
-    { "key": "Warranty", "value": "1-year manufacturer warranty" },
-    { "key": "In the Box", "value": "Rubik's Cube 3×3 Speed Edition, solution guide booklet" }
+    {
+      "key": "ASIN",
+      "value": "B08DCLBZWJ"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars (21,673 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#1 in Puzzle Cubes"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 13, 2026"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "Rubik's Brand Ltd. / Spin Master"
+    },
+    {
+      "key": "Item Weight",
+      "value": "110 g"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "5.7 × 5.7 × 5.7 cm"
+    },
+    {
+      "key": "Batteries Required",
+      "value": "No"
+    },
+    {
+      "key": "Warranty",
+      "value": "1-year manufacturer warranty"
+    },
+    {
+      "key": "In the Box",
+      "value": "Rubik's Cube 3×3 Speed Edition, solution guide booklet"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Hannah C.", "rating": 5, "title": "Finally learned to solve it!", "reviewText": "I've owned several Rubik's Cubes over the years and always gave up. The solution guide included with this one is perfectly written. After two evenings I could solve it consistently. The cube itself turns so smoothly compared to cheaper versions.", "verifiedPurchase": true, "reviewDate": "2026-02-21", "helpfulCount": 3214 },
-    { "reviewerName": "Jake S.", "rating": 5, "title": "Speedcuber approved", "reviewText": "I compete in local cube competitions and this is a great entry-level speed cube. Corner cutting is solid and the turns are consistent. For the price it's exceptional — I recommend this to everyone who's starting out.", "verifiedPurchase": true, "reviewDate": "2026-01-31", "helpfulCount": 2087 },
-    { "reviewerName": "Rosa M.", "rating": 5, "title": "Best gift for curious kids", "reviewText": "Bought this for my 9-year-old who loves puzzles. She watched tutorials online and solved it within a week. Now she challenges every adult who visits. The problem-solving skills this toy builds are incredible.", "verifiedPurchase": true, "reviewDate": "2026-02-13", "helpfulCount": 1654 },
-    { "reviewerName": "Paul D.", "rating": 4, "title": "Great cube, stickers could be better", "reviewText": "The mechanism is genuinely better than older Rubik's cubes — smooth and fast. After about 3 months of daily solving the stickers are starting to show slight corner lift. Not a big deal but worth knowing. For the price it's still excellent value.", "verifiedPurchase": true, "reviewDate": "2026-02-05", "helpfulCount": 876 },
-    { "reviewerName": "Clara W.", "rating": 5, "title": "Addictive and satisfying", "reviewText": "I picked this up on a whim and now I can't stop. There's something deeply satisfying about listening to the click-click of each layer turning and working towards the solution. Better built than I expected for the price range.", "verifiedPurchase": true, "reviewDate": "2026-03-08", "helpfulCount": 1102 }
+    {
+      "reviewerName": "Hannah C.",
+      "rating": 5,
+      "title": "Finally learned to solve it!",
+      "reviewText": "I've owned several Rubik's Cubes over the years and always gave up. The solution guide included with this one is perfectly written. After two evenings I could solve it consistently. The cube itself turns so smoothly compared to cheaper versions.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-21",
+      "helpfulCount": 3214
+    },
+    {
+      "reviewerName": "Jake S.",
+      "rating": 5,
+      "title": "Speedcuber approved",
+      "reviewText": "I compete in local cube competitions and this is a great entry-level speed cube. Corner cutting is solid and the turns are consistent. For the price it's exceptional — I recommend this to everyone who's starting out.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-01-31",
+      "helpfulCount": 2087
+    },
+    {
+      "reviewerName": "Rosa M.",
+      "rating": 5,
+      "title": "Best gift for curious kids",
+      "reviewText": "Bought this for my 9-year-old who loves puzzles. She watched tutorials online and solved it within a week. Now she challenges every adult who visits. The problem-solving skills this toy builds are incredible.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-13",
+      "helpfulCount": 1654
+    },
+    {
+      "reviewerName": "Paul D.",
+      "rating": 4,
+      "title": "Great cube, stickers could be better",
+      "reviewText": "The mechanism is genuinely better than older Rubik's cubes — smooth and fast. After about 3 months of daily solving the stickers are starting to show slight corner lift. Not a big deal but worth knowing. For the price it's still excellent value.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-05",
+      "helpfulCount": 876
+    },
+    {
+      "reviewerName": "Clara W.",
+      "rating": 5,
+      "title": "Addictive and satisfying",
+      "reviewText": "I picked this up on a whim and now I can't stop. There's something deeply satisfying about listening to the click-click of each layer turning and working towards the solution. Better built than I expected for the price range.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-08",
+      "helpfulCount": 1102
+    }
   ]
 }

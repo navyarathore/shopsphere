@@ -1,7 +1,7 @@
 {
   "name": "1 TB Portable NVMe SSD",
   "description": "Ultra-fast portable SSD with NVMe speeds up to 2000 MB/s read, USB 3.2 Gen 2, and rugged shock-resistant housing.",
-  "price": 84.99,
+  "price": 6999,
   "stock": 40,
   "category": "Electronics",
   "mainImageUrl": "https://picsum.photos/seed/nvmessd/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/nvmessd-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "SwiftDrive" },
-    { "key": "Capacity", "value": "1 TB" },
-    { "key": "Type", "value": "Portable NVMe SSD" },
-    { "key": "Read Speed", "value": "Up to 2000 MB/s" },
-    { "key": "Write Speed", "value": "Up to 1500 MB/s" },
-    { "key": "Interface", "value": "USB 3.2 Gen 2 (10Gbps)" },
-    { "key": "Connector", "value": "USB-C (USB-A adapter included)" },
-    { "key": "Shock Resistance", "value": "2-meter drop resistant" },
-    { "key": "OS Compatibility", "value": "Windows, macOS, Android" },
-    { "key": "Weight", "value": "95 grams" }
+    {
+      "key": "Brand",
+      "value": "SwiftDrive"
+    },
+    {
+      "key": "Capacity",
+      "value": "1 TB"
+    },
+    {
+      "key": "Type",
+      "value": "Portable NVMe SSD"
+    },
+    {
+      "key": "Read Speed",
+      "value": "Up to 2000 MB/s"
+    },
+    {
+      "key": "Write Speed",
+      "value": "Up to 1500 MB/s"
+    },
+    {
+      "key": "Interface",
+      "value": "USB 3.2 Gen 2 (10Gbps)"
+    },
+    {
+      "key": "Connector",
+      "value": "USB-C (USB-A adapter included)"
+    },
+    {
+      "key": "Shock Resistance",
+      "value": "2-meter drop resistant"
+    },
+    {
+      "key": "OS Compatibility",
+      "value": "Windows, macOS, Android"
+    },
+    {
+      "key": "Weight",
+      "value": "95 grams"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09SSD1TBN" },
-    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (2,134 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#3 in Electronics > Portable SSDs" },
-    { "key": "Date First Available", "value": "May 19, 2024" },
-    { "key": "Manufacturer", "value": "SwiftDrive Storage, Austin, Texas 78701" },
-    { "key": "Item Weight", "value": "95 grams" },
-    { "key": "Product Dimensions", "value": "9.2 x 5.8 x 1.1 cm" },
-    { "key": "Encryption", "value": "256-bit AES" },
-    { "key": "Item Model Number", "value": "SD-N1TB" },
-    { "key": "Warranty", "value": "3 years manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09SSD1TBN"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.6 out of 5 stars (2,134 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#3 in Electronics > Portable SSDs"
+    },
+    {
+      "key": "Date First Available",
+      "value": "May 19, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "SwiftDrive Storage, Austin, Texas 78701"
+    },
+    {
+      "key": "Item Weight",
+      "value": "95 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "9.2 x 5.8 x 1.1 cm"
+    },
+    {
+      "key": "Encryption",
+      "value": "256-bit AES"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "SD-N1TB"
+    },
+    {
+      "key": "Warranty",
+      "value": "3 years manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Tom Erikson", "rating": 5, "title": "Blazing fast external storage", "reviewText": "Transfer speeds are genuinely impressive. I moved 100GB of footage in just over a minute. The rugged build gives me peace of mind and it is tiny enough to fit in a shirt pocket.", "verifiedPurchase": true, "reviewDate": "2024-11-20", "helpfulCount": 521 },
-    { "reviewerName": "Mei Zhang", "rating": 5, "title": "Replaced my old HDD for video editing", "reviewText": "Game changer for video editing on the go. No lag, no bottlenecks. Editing 4K footage directly from this drive is smooth. Worth every penny for the speed alone.", "verifiedPurchase": true, "reviewDate": "2024-10-09", "helpfulCount": 374 },
-    { "reviewerName": "Carlos Vega", "rating": 4, "title": "Very fast and compact", "reviewText": "Compact, quick, and well-made. Speeds hold up under sustained loads which not all portable SSDs do. Losing one star because the USB-C to USB-C cable is short, but performance is excellent.", "verifiedPurchase": true, "reviewDate": "2024-09-03", "helpfulCount": 228 }
+    {
+      "reviewerName": "Tom Erikson",
+      "rating": 5,
+      "title": "Blazing fast external storage",
+      "reviewText": "Transfer speeds are genuinely impressive. I moved 100GB of footage in just over a minute. The rugged build gives me peace of mind and it is tiny enough to fit in a shirt pocket.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-20",
+      "helpfulCount": 521
+    },
+    {
+      "reviewerName": "Mei Zhang",
+      "rating": 5,
+      "title": "Replaced my old HDD for video editing",
+      "reviewText": "Game changer for video editing on the go. No lag, no bottlenecks. Editing 4K footage directly from this drive is smooth. Worth every penny for the speed alone.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-09",
+      "helpfulCount": 374
+    },
+    {
+      "reviewerName": "Carlos Vega",
+      "rating": 4,
+      "title": "Very fast and compact",
+      "reviewText": "Compact, quick, and well-made. Speeds hold up under sustained loads which not all portable SSDs do. Losing one star because the USB-C to USB-C cable is short, but performance is excellent.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-03",
+      "helpfulCount": 228
+    }
   ]
 }

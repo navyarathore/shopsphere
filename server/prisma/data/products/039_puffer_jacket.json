@@ -1,7 +1,7 @@
 {
   "name": "Women's Puffer Jacket",
   "description": "Lightweight quilted puffer jacket with recycled fill, DWR coating, and packable design for easy travel.",
-  "price": 79.99,
+  "price": 6999,
   "stock": 65,
   "category": "Clothing",
   "mainImageUrl": "https://picsum.photos/seed/pufferjacket/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/pufferjacket-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "ArcticLayer" },
-    { "key": "Fill Type", "value": "Recycled Synthetic Fill" },
-    { "key": "Outer Shell", "value": "Ripstop Nylon with DWR Coating" },
-    { "key": "Closure", "value": "Full-Zip with Chin Guard" },
-    { "key": "Pockets", "value": "2 Side Zip Pockets, 1 Stuff Sack Pocket" },
-    { "key": "Packable", "value": "Yes, Packs into Side Pocket" },
-    { "key": "Available Sizes", "value": "XS to XXL" },
-    { "key": "Colours Available", "value": "Black, Navy, Sage, Berry, Ivory" },
-    { "key": "Care Instructions", "value": "Machine Wash Cold, Tumble Dry Low" },
-    { "key": "Country of Manufacture", "value": "Vietnam" }
+    {
+      "key": "Brand",
+      "value": "ArcticLayer"
+    },
+    {
+      "key": "Fill Type",
+      "value": "Recycled Synthetic Fill"
+    },
+    {
+      "key": "Outer Shell",
+      "value": "Ripstop Nylon with DWR Coating"
+    },
+    {
+      "key": "Closure",
+      "value": "Full-Zip with Chin Guard"
+    },
+    {
+      "key": "Pockets",
+      "value": "2 Side Zip Pockets, 1 Stuff Sack Pocket"
+    },
+    {
+      "key": "Packable",
+      "value": "Yes, Packs into Side Pocket"
+    },
+    {
+      "key": "Available Sizes",
+      "value": "XS to XXL"
+    },
+    {
+      "key": "Colours Available",
+      "value": "Black, Navy, Sage, Berry, Ivory"
+    },
+    {
+      "key": "Care Instructions",
+      "value": "Machine Wash Cold, Tumble Dry Low"
+    },
+    {
+      "key": "Country of Manufacture",
+      "value": "Vietnam"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09PFFJK80" },
-    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (1,896 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#8 in Clothing > Women's Jackets" },
-    { "key": "Date First Available", "value": "September 4, 2024" },
-    { "key": "Manufacturer", "value": "ArcticLayer Outerwear, Denver, Colorado 80203" },
-    { "key": "Item Weight", "value": "540 grams" },
-    { "key": "Product Dimensions", "value": "Varies by size" },
-    { "key": "Temperature Rating", "value": "Suitable Down to 5°C" },
-    { "key": "Item Model Number", "value": "AL-PJW" },
-    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09PFFJK80"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.5 out of 5 stars (1,896 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#8 in Clothing > Women's Jackets"
+    },
+    {
+      "key": "Date First Available",
+      "value": "September 4, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "ArcticLayer Outerwear, Denver, Colorado 80203"
+    },
+    {
+      "key": "Item Weight",
+      "value": "540 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "Varies by size"
+    },
+    {
+      "key": "Temperature Rating",
+      "value": "Suitable Down to 5°C"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "AL-PJW"
+    },
+    {
+      "key": "Warranty",
+      "value": "2 years manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Caroline Hughes", "rating": 5, "title": "Warm, light, and stylish", "reviewText": "Incredibly lightweight but genuinely warm. The DWR coating handled light rain fine and it packs down into its own pocket beautifully. Perfect as a layering piece or for mild winter days.", "verifiedPurchase": true, "reviewDate": "2024-11-14", "helpfulCount": 423 },
-    { "reviewerName": "Sana Mirza", "rating": 5, "title": "My go-to jacket this autumn", "reviewText": "Flattering cut and great warmth-to-weight ratio. I appreciated that it uses recycled fill. The packable feature is very useful for travel. I have used it daily since buying.", "verifiedPurchase": true, "reviewDate": "2024-10-29", "helpfulCount": 291 },
-    { "reviewerName": "Tara Lewis", "rating": 4, "title": "Good quality puffer jacket", "reviewText": "The jacket is attractive and warm. Fit runs slightly slim so consider sizing up if you layer underneath. The packable design is genuinely useful. Happy with the purchase overall.", "verifiedPurchase": true, "reviewDate": "2024-09-16", "helpfulCount": 187 }
+    {
+      "reviewerName": "Caroline Hughes",
+      "rating": 5,
+      "title": "Warm, light, and stylish",
+      "reviewText": "Incredibly lightweight but genuinely warm. The DWR coating handled light rain fine and it packs down into its own pocket beautifully. Perfect as a layering piece or for mild winter days.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-14",
+      "helpfulCount": 423
+    },
+    {
+      "reviewerName": "Sana Mirza",
+      "rating": 5,
+      "title": "My go-to jacket this autumn",
+      "reviewText": "Flattering cut and great warmth-to-weight ratio. I appreciated that it uses recycled fill. The packable feature is very useful for travel. I have used it daily since buying.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-29",
+      "helpfulCount": 291
+    },
+    {
+      "reviewerName": "Tara Lewis",
+      "rating": 4,
+      "title": "Good quality puffer jacket",
+      "reviewText": "The jacket is attractive and warm. Fit runs slightly slim so consider sizing up if you layer underneath. The packable design is genuinely useful. Happy with the purchase overall.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-16",
+      "helpfulCount": 187
+    }
   ]
 }

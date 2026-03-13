@@ -1,7 +1,7 @@
 {
   "name": "Sapiens: A Brief History of Humankind",
   "description": "Yuval Noah Harari's sweeping journey through the history of our species, from Stone Age foragers to modern Homo sapiens.",
-  "price": 19.99,
+  "price": 1699,
   "stock": 160,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/sapiens/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/sapiens-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "Yuval Noah Harari" },
-    { "key": "Publisher", "value": "Harper Perennial" },
-    { "key": "Edition", "value": "Illustrated Edition" },
-    { "key": "Language", "value": "English" },
-    { "key": "Pages", "value": "464" },
-    { "key": "ISBN-13", "value": "978-0062316097" },
-    { "key": "Format", "value": "Paperback" },
-    { "key": "Genre", "value": "History, Anthropology, Non-Fiction" },
-    { "key": "Reading Level", "value": "Adult" },
-    { "key": "Publication Year", "value": "2015" }
+    {
+      "key": "Author",
+      "value": "Yuval Noah Harari"
+    },
+    {
+      "key": "Publisher",
+      "value": "Harper Perennial"
+    },
+    {
+      "key": "Edition",
+      "value": "Illustrated Edition"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Pages",
+      "value": "464"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-0062316097"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Genre",
+      "value": "History, Anthropology, Non-Fiction"
+    },
+    {
+      "key": "Reading Level",
+      "value": "Adult"
+    },
+    {
+      "key": "Publication Year",
+      "value": "2015"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B00ICN066A" },
-    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (53,891 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#2 in Books > World History" },
-    { "key": "Date First Available", "value": "February 10, 2015" },
-    { "key": "Manufacturer", "value": "Harper Perennial" },
-    { "key": "Item Weight", "value": "485 grams" },
-    { "key": "Product Dimensions", "value": "15.2 x 3 x 22.9 cm" },
-    { "key": "Country of Origin", "value": "Israel / United States" },
-    { "key": "Award Winner", "value": "Yes" },
-    { "key": "Warranty", "value": "Not applicable" }
+    {
+      "key": "ASIN",
+      "value": "B00ICN066A"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.6 out of 5 stars (53,891 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#2 in Books > World History"
+    },
+    {
+      "key": "Date First Available",
+      "value": "February 10, 2015"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "Harper Perennial"
+    },
+    {
+      "key": "Item Weight",
+      "value": "485 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "15.2 x 3 x 22.9 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "Israel / United States"
+    },
+    {
+      "key": "Award Winner",
+      "value": "Yes"
+    },
+    {
+      "key": "Warranty",
+      "value": "Not applicable"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Sofia Rodrigues", "rating": 5, "title": "Brilliant and eye-opening", "reviewText": "Harari covers 70,000 years of human history with clarity and insight. Each chapter contains ideas that fundamentally shifted how I think about money, religion, and civilisation. One of the most important books I have ever read.", "verifiedPurchase": true, "reviewDate": "2024-10-18", "helpfulCount": 2967 },
-    { "reviewerName": "George Adeyemi", "rating": 5, "title": "Fascinating, readable history", "reviewText": "Harari has a rare gift for making big ideas accessible without losing depth. I read this in four days and recommended it to everyone I know. Absolutely riveting.", "verifiedPurchase": true, "reviewDate": "2024-09-02", "helpfulCount": 1834 },
-    { "reviewerName": "Hannah Klein", "rating": 4, "title": "Thought-provoking and broad in scope", "reviewText": "An ambitious attempt to distil human history and it largely succeeds. Some sections are more convincing than others but the overall effect is a perspective shift on what it means to be human.", "verifiedPurchase": true, "reviewDate": "2024-07-28", "helpfulCount": 1205 }
+    {
+      "reviewerName": "Sofia Rodrigues",
+      "rating": 5,
+      "title": "Brilliant and eye-opening",
+      "reviewText": "Harari covers 70,000 years of human history with clarity and insight. Each chapter contains ideas that fundamentally shifted how I think about money, religion, and civilisation. One of the most important books I have ever read.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-18",
+      "helpfulCount": 2967
+    },
+    {
+      "reviewerName": "George Adeyemi",
+      "rating": 5,
+      "title": "Fascinating, readable history",
+      "reviewText": "Harari has a rare gift for making big ideas accessible without losing depth. I read this in four days and recommended it to everyone I know. Absolutely riveting.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-02",
+      "helpfulCount": 1834
+    },
+    {
+      "reviewerName": "Hannah Klein",
+      "rating": 4,
+      "title": "Thought-provoking and broad in scope",
+      "reviewText": "An ambitious attempt to distil human history and it largely succeeds. Some sections are more convincing than others but the overall effect is a perspective shift on what it means to be human.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-07-28",
+      "helpfulCount": 1205
+    }
   ]
 }

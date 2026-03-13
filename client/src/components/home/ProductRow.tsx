@@ -29,7 +29,7 @@ function MiniProductCard({ product }: { product: Product }) {
           </p>
         </Link>
         <div className="flex items-center justify-between mt-auto pt-2 gap-1">
-          <span className="text-sm font-extrabold text-gray-900">${Number(product.price).toFixed(2)}</span>
+          <span className="text-sm font-extrabold text-gray-900">₹{Number(product.price).toFixed(2)}</span>
           <button
             onClick={() => addToCart(product)}
             disabled={product.stock === 0}

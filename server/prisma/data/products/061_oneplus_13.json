@@ -1,7 +1,7 @@
 {
   "name": "OnePlus 13",
   "description": "OnePlus's flagship for 2025 arrives with a 6.82-inch 2K AMOLED ProXDR display, Snapdragon 8 Elite, and a Hasselblad-tuned triple camera system. 100W SUPERVOOC wired charging and 50W wireless charging fill the 6000 mAh battery at record speeds — perfect for users who refuse to compromise on performance or battery life.",
-  "price": 899.99,
+  "price": 74999,
   "stock": 55,
   "category": "Mobiles",
   "mainImageUrl": "https://picsum.photos/seed/oneplus13/600/600",
@@ -10,39 +10,154 @@
     "https://picsum.photos/seed/oneplus13-3/600/600"
   ],
   "specifications": [
-    { "key": "Display", "value": "6.82-inch 2K AMOLED ProXDR, 1–120 Hz LTPO4, 3168 × 1440 px, 4500 nits peak" },
-    { "key": "Processor", "value": "Snapdragon 8 Elite" },
-    { "key": "RAM", "value": "12 GB / 16 GB LPDDR5X" },
-    { "key": "Storage", "value": "256 GB / 512 GB UFS 4.0" },
-    { "key": "Rear Cameras", "value": "50 MP main LYT-808 (f/1.6, Hasselblad) + 50 MP periscope telephoto 3× (f/2.6) + 50 MP ultrawide (f/2.0)" },
-    { "key": "Front Camera", "value": "32 MP, f/2.4, autofocus" },
-    { "key": "Battery", "value": "6000 mAh, 100W SUPERVOOC wired, 50W AirVOOC wireless, 10W reverse wireless" },
-    { "key": "OS", "value": "OxygenOS 15 (Android 15), 4 years OS + 5 years security updates" },
-    { "key": "Connectivity", "value": "5G, Wi-Fi 7, Bluetooth 5.4, NFC, IR blaster" },
-    { "key": "Build", "value": "Ceramic back / vegan leather back (colour dependent), aluminium frame" },
-    { "key": "Dimensions", "value": "162.9 × 76.0 × 8.9 mm" },
-    { "key": "Weight", "value": "210 g" },
-    { "key": "Water Resistance", "value": "IP65" },
-    { "key": "Colours Available", "value": "Midnight Ocean (ceramic), Arctic Dawn, Black Eclipse (vegan leather)" },
-    { "key": "Charging Port", "value": "USB-C 3.2 Gen 2" }
+    {
+      "key": "Display",
+      "value": "6.82-inch 2K AMOLED ProXDR, 1–120 Hz LTPO4, 3168 × 1440 px, 4500 nits peak"
+    },
+    {
+      "key": "Processor",
+      "value": "Snapdragon 8 Elite"
+    },
+    {
+      "key": "RAM",
+      "value": "12 GB / 16 GB LPDDR5X"
+    },
+    {
+      "key": "Storage",
+      "value": "256 GB / 512 GB UFS 4.0"
+    },
+    {
+      "key": "Rear Cameras",
+      "value": "50 MP main LYT-808 (f/1.6, Hasselblad) + 50 MP periscope telephoto 3× (f/2.6) + 50 MP ultrawide (f/2.0)"
+    },
+    {
+      "key": "Front Camera",
+      "value": "32 MP, f/2.4, autofocus"
+    },
+    {
+      "key": "Battery",
+      "value": "6000 mAh, 100W SUPERVOOC wired, 50W AirVOOC wireless, 10W reverse wireless"
+    },
+    {
+      "key": "OS",
+      "value": "OxygenOS 15 (Android 15), 4 years OS + 5 years security updates"
+    },
+    {
+      "key": "Connectivity",
+      "value": "5G, Wi-Fi 7, Bluetooth 5.4, NFC, IR blaster"
+    },
+    {
+      "key": "Build",
+      "value": "Ceramic back / vegan leather back (colour dependent), aluminium frame"
+    },
+    {
+      "key": "Dimensions",
+      "value": "162.9 × 76.0 × 8.9 mm"
+    },
+    {
+      "key": "Weight",
+      "value": "210 g"
+    },
+    {
+      "key": "Water Resistance",
+      "value": "IP65"
+    },
+    {
+      "key": "Colours Available",
+      "value": "Midnight Ocean (ceramic), Arctic Dawn, Black Eclipse (vegan leather)"
+    },
+    {
+      "key": "Charging Port",
+      "value": "USB-C 3.2 Gen 2"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B0CXO13P01" },
-    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (2,748 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#5 in Smartphones" },
-    { "key": "Date First Available", "value": "March 13, 2026" },
-    { "key": "Manufacturer", "value": "OnePlus Technology (Shenzhen) Co., Ltd." },
-    { "key": "Item Weight", "value": "210 g" },
-    { "key": "Product Dimensions", "value": "162.9 × 76.0 × 8.9 mm" },
-    { "key": "Warranty", "value": "1-year limited manufacturer warranty" },
-    { "key": "SIM", "value": "Nano-SIM + eSIM" },
-    { "key": "In the Box", "value": "OnePlus 13, 100W SUPERVOOC power adapter, USB-C cable, case, SIM tool" }
+    {
+      "key": "ASIN",
+      "value": "B0CXO13P01"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.6 out of 5 stars (2,748 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#5 in Smartphones"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 13, 2026"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "OnePlus Technology (Shenzhen) Co., Ltd."
+    },
+    {
+      "key": "Item Weight",
+      "value": "210 g"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "162.9 × 76.0 × 8.9 mm"
+    },
+    {
+      "key": "Warranty",
+      "value": "1-year limited manufacturer warranty"
+    },
+    {
+      "key": "SIM",
+      "value": "Nano-SIM + eSIM"
+    },
+    {
+      "key": "In the Box",
+      "value": "OnePlus 13, 100W SUPERVOOC power adapter, USB-C cable, case, SIM tool"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Kevin D.", "rating": 5, "title": "100W charging is absolutely insane", "reviewText": "0 to 100% in 35 minutes. I cannot overstate how liberating this is — I charge for 15 minutes over breakfast and have a full phone all day. The 6000 mAh battery plus that charging speed is a combination no other flagship matches.", "verifiedPurchase": true, "reviewDate": "2026-02-24", "helpfulCount": 687 },
-    { "reviewerName": "Yasmin B.", "rating": 5, "title": "Best display I've seen on a phone", "reviewText": "The 2K AMOLED ProXDR is simply stunning. 4500 nits in direct sunlight means it's always readable, and the LTPO4 sipping power at low refresh rates means battery life is exceptional. Hasselblad colours in the camera are rich and true-to-life.", "verifiedPurchase": true, "reviewDate": "2026-03-03", "helpfulCount": 524 },
-    { "reviewerName": "Sam W.", "rating": 4, "title": "Almost perfect but IP65 is a compromise", "reviewText": "In 2026 I expect IP68 from a $900 flagship. That said, everything else about this phone is exceptional. The performance, display, camera, and especially the charging are best in class. OxygenOS 15 is lean and responsive.", "verifiedPurchase": true, "reviewDate": "2026-02-19", "helpfulCount": 432 },
-    { "reviewerName": "Mei L.", "rating": 5, "title": "The ceramic back feels incredible", "reviewText": "The Midnight Ocean ceramic version is my favourite phone design in years. It's cool to the touch, scratch-resistant, and uniquely beautiful. The periscope camera handles portraits at distance brilliantly.", "verifiedPurchase": true, "reviewDate": "2026-03-08", "helpfulCount": 278 },
-    { "reviewerName": "Patrick J.", "rating": 5, "title": "OxygenOS is still the best Android skin", "reviewText": "No bloatware, near-stock Android feel with genuinely useful additions. Games load instantly on Snapdragon 8 Elite, the screen is huge and gorgeous, and that 50W wireless charging puts a smile on my face every morning.", "verifiedPurchase": true, "reviewDate": "2026-02-15", "helpfulCount": 356 }
+    {
+      "reviewerName": "Kevin D.",
+      "rating": 5,
+      "title": "100W charging is absolutely insane",
+      "reviewText": "0 to 100% in 35 minutes. I cannot overstate how liberating this is — I charge for 15 minutes over breakfast and have a full phone all day. The 6000 mAh battery plus that charging speed is a combination no other flagship matches.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-24",
+      "helpfulCount": 687
+    },
+    {
+      "reviewerName": "Yasmin B.",
+      "rating": 5,
+      "title": "Best display I've seen on a phone",
+      "reviewText": "The 2K AMOLED ProXDR is simply stunning. 4500 nits in direct sunlight means it's always readable, and the LTPO4 sipping power at low refresh rates means battery life is exceptional. Hasselblad colours in the camera are rich and true-to-life.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-03",
+      "helpfulCount": 524
+    },
+    {
+      "reviewerName": "Sam W.",
+      "rating": 4,
+      "title": "Almost perfect but IP65 is a compromise",
+      "reviewText": "In 2026 I expect IP68 from a $900 flagship. That said, everything else about this phone is exceptional. The performance, display, camera, and especially the charging are best in class. OxygenOS 15 is lean and responsive.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-19",
+      "helpfulCount": 432
+    },
+    {
+      "reviewerName": "Mei L.",
+      "rating": 5,
+      "title": "The ceramic back feels incredible",
+      "reviewText": "The Midnight Ocean ceramic version is my favourite phone design in years. It's cool to the touch, scratch-resistant, and uniquely beautiful. The periscope camera handles portraits at distance brilliantly.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-08",
+      "helpfulCount": 278
+    },
+    {
+      "reviewerName": "Patrick J.",
+      "rating": 5,
+      "title": "OxygenOS is still the best Android skin",
+      "reviewText": "No bloatware, near-stock Android feel with genuinely useful additions. Games load instantly on Snapdragon 8 Elite, the screen is huge and gorgeous, and that 50W wireless charging puts a smile on my face every morning.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-15",
+      "helpfulCount": 356
+    }
   ]
 }

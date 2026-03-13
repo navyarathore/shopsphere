@@ -1,7 +1,7 @@
 {
   "name": "Doorframe Pull-Up Bar",
   "description": "No-screw doorframe pull-up bar with padded handles and non-slip rubber ends. Supports up to 120 kg.",
-  "price": 28.99,
+  "price": 2399,
   "stock": 80,
   "category": "Sports & Outdoors",
   "mainImageUrl": "https://picsum.photos/seed/pullupbar/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/pullupbar-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "IronGrip" },
-    { "key": "Mounting Type", "value": "Doorframe (No Drilling)" },
-    { "key": "Max Load", "value": "120 kg" },
-    { "key": "Grip Positions", "value": "Wide, Narrow, Neutral" },
-    { "key": "Handle Padding", "value": "High-Density Foam" },
-    { "key": "Non-Slip Ends", "value": "Rubber End Caps" },
-    { "key": "Adjustable Width", "value": "61 cm to 91 cm" },
-    { "key": "Can Also Use As", "value": "Push-Up Bar and Dip Station (Floor Use)" },
-    { "key": "Material", "value": "Heavy-Gauge Steel" },
-    { "key": "Weight", "value": "1.8 kg" }
+    {
+      "key": "Brand",
+      "value": "IronGrip"
+    },
+    {
+      "key": "Mounting Type",
+      "value": "Doorframe (No Drilling)"
+    },
+    {
+      "key": "Max Load",
+      "value": "120 kg"
+    },
+    {
+      "key": "Grip Positions",
+      "value": "Wide, Narrow, Neutral"
+    },
+    {
+      "key": "Handle Padding",
+      "value": "High-Density Foam"
+    },
+    {
+      "key": "Non-Slip Ends",
+      "value": "Rubber End Caps"
+    },
+    {
+      "key": "Adjustable Width",
+      "value": "61 cm to 91 cm"
+    },
+    {
+      "key": "Can Also Use As",
+      "value": "Push-Up Bar and Dip Station (Floor Use)"
+    },
+    {
+      "key": "Material",
+      "value": "Heavy-Gauge Steel"
+    },
+    {
+      "key": "Weight",
+      "value": "1.8 kg"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09PRBAR28" },
-    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (4,127 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#5 in Sports & Outdoors > Pull-Up Bars" },
-    { "key": "Date First Available", "value": "March 24, 2024" },
-    { "key": "Manufacturer", "value": "IronGrip Fitness, Chicago, Illinois 60601" },
-    { "key": "Item Weight", "value": "1.8 kg" },
-    { "key": "Product Dimensions", "value": "91 x 10 x 10 cm (max extended)" },
-    { "key": "Assembly Required", "value": "Minimal (2 minutes)" },
-    { "key": "Item Model Number", "value": "IG-PB001" },
-    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09PRBAR28"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.4 out of 5 stars (4,127 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#5 in Sports & Outdoors > Pull-Up Bars"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 24, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "IronGrip Fitness, Chicago, Illinois 60601"
+    },
+    {
+      "key": "Item Weight",
+      "value": "1.8 kg"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "91 x 10 x 10 cm (max extended)"
+    },
+    {
+      "key": "Assembly Required",
+      "value": "Minimal (2 minutes)"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "IG-PB001"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 year manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Luke Patterson", "rating": 5, "title": "Solid bar that fits most doorframes", "reviewText": "Installed in under two minutes. Very stable with no wobble and the padded grips are comfortable for high-rep sets. Has transformed my home workout routine. The floor push-up option is a bonus.", "verifiedPurchase": true, "reviewDate": "2024-11-15", "helpfulCount": 456 },
-    { "reviewerName": "Ravi Sharma", "rating": 4, "title": "Good budget pull-up bar", "reviewText": "Works exactly as described. Fits my 82cm doorframe well and holds firm during workouts. Foam grips are soft and the three grip positions are all usable. Minor marks on door frame are removable.", "verifiedPurchase": true, "reviewDate": "2024-09-30", "helpfulCount": 312 },
-    { "reviewerName": "Ana Fernandez", "rating": 5, "title": "Great home gym addition", "reviewText": "Stable, comfortable, and versatile. I use it for pull-ups, chin-ups, and hanging core exercises. Weight rating seems genuine — no flex at 90kg bodyweight. Really happy with it.", "verifiedPurchase": true, "reviewDate": "2024-08-16", "helpfulCount": 218 }
+    {
+      "reviewerName": "Luke Patterson",
+      "rating": 5,
+      "title": "Solid bar that fits most doorframes",
+      "reviewText": "Installed in under two minutes. Very stable with no wobble and the padded grips are comfortable for high-rep sets. Has transformed my home workout routine. The floor push-up option is a bonus.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-15",
+      "helpfulCount": 456
+    },
+    {
+      "reviewerName": "Ravi Sharma",
+      "rating": 4,
+      "title": "Good budget pull-up bar",
+      "reviewText": "Works exactly as described. Fits my 82cm doorframe well and holds firm during workouts. Foam grips are soft and the three grip positions are all usable. Minor marks on door frame are removable.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-30",
+      "helpfulCount": 312
+    },
+    {
+      "reviewerName": "Ana Fernandez",
+      "rating": 5,
+      "title": "Great home gym addition",
+      "reviewText": "Stable, comfortable, and versatile. I use it for pull-ups, chin-ups, and hanging core exercises. Weight rating seems genuine — no flex at 90kg bodyweight. Really happy with it.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-16",
+      "helpfulCount": 218
+    }
   ]
 }

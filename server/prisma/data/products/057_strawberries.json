@@ -1,7 +1,7 @@
 {
   "name": "Fresh Strawberries (1 lb)",
   "description": "Sun-ripened strawberries picked at peak sweetness. Plump, juicy, and intensely flavourful — perfect for eating fresh, topping cereals and yoghurt, baking into desserts, or blending into drinks.",
-  "price": 4.29,
+  "price": 369,
   "stock": 220,
   "category": "Fresh",
   "mainImageUrl": "https://picsum.photos/seed/strawberries/600/600",
@@ -10,32 +10,126 @@
     "https://picsum.photos/seed/strawberries-3/600/600"
   ],
   "specifications": [
-    { "key": "Net Weight", "value": "1 lb (454 g)" },
-    { "key": "Variety", "value": "Albion & Seascape (seasonal mix)" },
-    { "key": "Farming Method", "value": "Sustainably Grown, Low Pesticide" },
-    { "key": "Origin", "value": "Watsonville, California, USA" },
-    { "key": "Shelf Life", "value": "3–5 days refrigerated" },
-    { "key": "Storage", "value": "Keep refrigerated; wash just before eating" },
-    { "key": "Calories per 100 g", "value": "32 kcal" },
-    { "key": "Vitamin C per 100 g", "value": "58.8 mg (65% DV)" },
-    { "key": "Sugar per 100 g", "value": "4.9 g" },
-    { "key": "Non-GMO", "value": "Yes" }
+    {
+      "key": "Net Weight",
+      "value": "1 lb (454 g)"
+    },
+    {
+      "key": "Variety",
+      "value": "Albion & Seascape (seasonal mix)"
+    },
+    {
+      "key": "Farming Method",
+      "value": "Sustainably Grown, Low Pesticide"
+    },
+    {
+      "key": "Origin",
+      "value": "Watsonville, California, USA"
+    },
+    {
+      "key": "Shelf Life",
+      "value": "3–5 days refrigerated"
+    },
+    {
+      "key": "Storage",
+      "value": "Keep refrigerated; wash just before eating"
+    },
+    {
+      "key": "Calories per 100 g",
+      "value": "32 kcal"
+    },
+    {
+      "key": "Vitamin C per 100 g",
+      "value": "58.8 mg (65% DV)"
+    },
+    {
+      "key": "Sugar per 100 g",
+      "value": "4.9 g"
+    },
+    {
+      "key": "Non-GMO",
+      "value": "Yes"
+    }
   ],
   "additionalInfo": [
-    { "key": "Best Use", "value": "Fresh eating, shortcake, jam, smoothies, salads, dipping in chocolate" },
-    { "key": "Allergen Info", "value": "None" },
-    { "key": "Packaging", "value": "Ventilated clamshell container" },
-    { "key": "Date First Available", "value": "March 13, 2026" },
-    { "key": "Sold By", "value": "ShopSphere Fresh" },
-    { "key": "Country of Origin", "value": "USA" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars" },
-    { "key": "Recyclable Packaging", "value": "Yes" }
+    {
+      "key": "Best Use",
+      "value": "Fresh eating, shortcake, jam, smoothies, salads, dipping in chocolate"
+    },
+    {
+      "key": "Allergen Info",
+      "value": "None"
+    },
+    {
+      "key": "Packaging",
+      "value": "Ventilated clamshell container"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 13, 2026"
+    },
+    {
+      "key": "Sold By",
+      "value": "ShopSphere Fresh"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "USA"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars"
+    },
+    {
+      "key": "Recyclable Packaging",
+      "value": "Yes"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Chloe B.", "rating": 5, "title": "Like eating sunshine in berry form", "reviewText": "These are extraordinary. Sweet, juicy, and fragrant — nothing like the watery, flavourless strawberries you find in off-season supermarkets. Absolutely worth the price.", "verifiedPurchase": true, "reviewDate": "2026-02-27", "helpfulCount": 354 },
-    { "reviewerName": "Samuel K.", "rating": 5, "title": "Made the best strawberry shortcake", "reviewText": "Used these for a birthday shortcake and got endless compliments. The berries were massive, perfectly ripe, and insanely sweet. My family is obsessed.", "verifiedPurchase": true, "reviewDate": "2026-03-04", "helpfulCount": 228 },
-    { "reviewerName": "Tara N.", "rating": 4, "title": "Delicious but fragile", "reviewText": "Flavour is outstanding — probably the best strawberries I've ever had. A few at the bottom were a little squished from shipping, but the rest were pristine. Would still order again.", "verifiedPurchase": true, "reviewDate": "2026-02-13", "helpfulCount": 117 },
-    { "reviewerName": "Ben W.", "rating": 5, "title": "Great for kids", "reviewText": "My 5 and 7-year-olds devoured an entire pound in one sitting, which tells you everything. Naturally sweet enough that they didn't even ask for sugar or chocolate.", "verifiedPurchase": true, "reviewDate": "2026-01-25", "helpfulCount": 193 },
-    { "reviewerName": "Nia C.", "rating": 5, "title": "Smoothie heaven", "reviewText": "I freeze half the pack for smoothies and eat the rest fresh. The flavour even holds up frozen, which is impressive. Consistent quality across three orders now.", "verifiedPurchase": true, "reviewDate": "2026-03-09", "helpfulCount": 81 }
+    {
+      "reviewerName": "Chloe B.",
+      "rating": 5,
+      "title": "Like eating sunshine in berry form",
+      "reviewText": "These are extraordinary. Sweet, juicy, and fragrant — nothing like the watery, flavourless strawberries you find in off-season supermarkets. Absolutely worth the price.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-27",
+      "helpfulCount": 354
+    },
+    {
+      "reviewerName": "Samuel K.",
+      "rating": 5,
+      "title": "Made the best strawberry shortcake",
+      "reviewText": "Used these for a birthday shortcake and got endless compliments. The berries were massive, perfectly ripe, and insanely sweet. My family is obsessed.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-04",
+      "helpfulCount": 228
+    },
+    {
+      "reviewerName": "Tara N.",
+      "rating": 4,
+      "title": "Delicious but fragile",
+      "reviewText": "Flavour is outstanding — probably the best strawberries I've ever had. A few at the bottom were a little squished from shipping, but the rest were pristine. Would still order again.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-13",
+      "helpfulCount": 117
+    },
+    {
+      "reviewerName": "Ben W.",
+      "rating": 5,
+      "title": "Great for kids",
+      "reviewText": "My 5 and 7-year-olds devoured an entire pound in one sitting, which tells you everything. Naturally sweet enough that they didn't even ask for sugar or chocolate.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-01-25",
+      "helpfulCount": 193
+    },
+    {
+      "reviewerName": "Nia C.",
+      "rating": 5,
+      "title": "Smoothie heaven",
+      "reviewText": "I freeze half the pack for smoothies and eat the rest fresh. The flavour even holds up frozen, which is impressive. Consistent quality across three orders now.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-09",
+      "helpfulCount": 81
+    }
   ]
 }

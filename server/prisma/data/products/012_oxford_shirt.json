@@ -1,7 +1,7 @@
 {
   "name": "Men's Classic Fit Oxford Shirt",
   "description": "Breathable 100% cotton Oxford weave shirt. Available in multiple colours. Machine washable.",
-  "price": 29.99,
+  "price": 2499,
   "stock": 150,
   "category": "Clothing",
   "mainImageUrl": "https://picsum.photos/seed/oxfordshirt/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/oxfordshirt-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "NorthField" },
-    { "key": "Material", "value": "100% Cotton Oxford" },
-    { "key": "Fit", "value": "Classic Fit" },
-    { "key": "Sleeve Type", "value": "Long Sleeve" },
-    { "key": "Collar Style", "value": "Button-Down Collar" },
-    { "key": "Closure", "value": "Button Front" },
-    { "key": "Care Instructions", "value": "Machine Washable" },
-    { "key": "Occasion", "value": "Casual / Office" },
-    { "key": "Available Colours", "value": "Blue, White, Gray" },
-    { "key": "Weight", "value": "320 grams" }
+    {
+      "key": "Brand",
+      "value": "NorthField"
+    },
+    {
+      "key": "Material",
+      "value": "100% Cotton Oxford"
+    },
+    {
+      "key": "Fit",
+      "value": "Classic Fit"
+    },
+    {
+      "key": "Sleeve Type",
+      "value": "Long Sleeve"
+    },
+    {
+      "key": "Collar Style",
+      "value": "Button-Down Collar"
+    },
+    {
+      "key": "Closure",
+      "value": "Button Front"
+    },
+    {
+      "key": "Care Instructions",
+      "value": "Machine Washable"
+    },
+    {
+      "key": "Occasion",
+      "value": "Casual / Office"
+    },
+    {
+      "key": "Available Colours",
+      "value": "Blue, White, Gray"
+    },
+    {
+      "key": "Weight",
+      "value": "320 grams"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09OXFDCL1" },
-    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (3,218 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#9 in Clothing > Men's Casual Shirts" },
-    { "key": "Date First Available", "value": "February 14, 2024" },
-    { "key": "Manufacturer", "value": "NorthField Apparel, Raleigh, North Carolina 27601" },
-    { "key": "Item Weight", "value": "320 grams" },
-    { "key": "Product Dimensions", "value": "32 x 24 x 3 cm" },
-    { "key": "Country of Origin", "value": "India" },
-    { "key": "Item Model Number", "value": "NF-OXF-CL" },
-    { "key": "Warranty", "value": "30-day manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09OXFDCL1"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.5 out of 5 stars (3,218 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#9 in Clothing > Men's Casual Shirts"
+    },
+    {
+      "key": "Date First Available",
+      "value": "February 14, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "NorthField Apparel, Raleigh, North Carolina 27601"
+    },
+    {
+      "key": "Item Weight",
+      "value": "320 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "32 x 24 x 3 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "India"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "NF-OXF-CL"
+    },
+    {
+      "key": "Warranty",
+      "value": "30-day manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Rahul Nair", "rating": 5, "title": "Crisp shirt with great fit", "reviewText": "The fabric feels substantial without being too heavy, and the classic fit is comfortable for office wear. It looks polished tucked in or untucked. Very happy with the quality for the price.", "verifiedPurchase": true, "reviewDate": "2024-11-12", "helpfulCount": 318 },
-    { "reviewerName": "David Ross", "rating": 4, "title": "Reliable wardrobe staple", "reviewText": "Good construction, nice fabric texture, and it washes well. The fit is a touch roomy, which is expected for a classic fit. Overall a dependable shirt for work and casual outings.", "verifiedPurchase": true, "reviewDate": "2024-09-27", "helpfulCount": 211 },
-    { "reviewerName": "Aman Gupta", "rating": 5, "title": "Better than expected", "reviewText": "Color is accurate, stitching looks clean, and the collar sits nicely. This has quickly become one of my most worn shirts. Great value.", "verifiedPurchase": true, "reviewDate": "2024-08-15", "helpfulCount": 146 }
+    {
+      "reviewerName": "Rahul Nair",
+      "rating": 5,
+      "title": "Crisp shirt with great fit",
+      "reviewText": "The fabric feels substantial without being too heavy, and the classic fit is comfortable for office wear. It looks polished tucked in or untucked. Very happy with the quality for the price.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-12",
+      "helpfulCount": 318
+    },
+    {
+      "reviewerName": "David Ross",
+      "rating": 4,
+      "title": "Reliable wardrobe staple",
+      "reviewText": "Good construction, nice fabric texture, and it washes well. The fit is a touch roomy, which is expected for a classic fit. Overall a dependable shirt for work and casual outings.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-27",
+      "helpfulCount": 211
+    },
+    {
+      "reviewerName": "Aman Gupta",
+      "rating": 5,
+      "title": "Better than expected",
+      "reviewText": "Color is accurate, stitching looks clean, and the collar sits nicely. This has quickly become one of my most worn shirts. Great value.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-15",
+      "helpfulCount": 146
+    }
   ]
 }

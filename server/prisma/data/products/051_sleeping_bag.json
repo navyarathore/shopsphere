@@ -1,7 +1,7 @@
 {
   "name": "3-Season Sleeping Bag -5°C",
   "description": "Lightweight mummy sleeping bag rated to -5°C with synthetic insulation, 2-way YKK zip, and stuff sack.",
-  "price": 89.99,
+  "price": 7999,
   "stock": 30,
   "category": "Sports & Outdoors",
   "mainImageUrl": "https://picsum.photos/seed/sleepingbag/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/sleepingbag-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "CampNest" },
-    { "key": "Temperature Rating", "value": "-5°C (Comfort), -10°C (Limit)" },
-    { "key": "Season Rating", "value": "3-Season (Spring, Summer, Autumn)" },
-    { "key": "Shape", "value": "Mummy" },
-    { "key": "Insulation Type", "value": "Hollow-Fibre Synthetic Fill" },
-    { "key": "Shell Material", "value": "75D Ripstop Nylon" },
-    { "key": "Zip Type", "value": "Dual-Sided YKK Anti-Snag Zip" },
-    { "key": "Packed Size", "value": "28 x 18 cm (in stuff sack)" },
-    { "key": "Available Lengths", "value": "Regular (185 cm), Long (200 cm)" },
-    { "key": "Weight", "value": "1.35 kg" }
+    {
+      "key": "Brand",
+      "value": "CampNest"
+    },
+    {
+      "key": "Temperature Rating",
+      "value": "-5°C (Comfort), -10°C (Limit)"
+    },
+    {
+      "key": "Season Rating",
+      "value": "3-Season (Spring, Summer, Autumn)"
+    },
+    {
+      "key": "Shape",
+      "value": "Mummy"
+    },
+    {
+      "key": "Insulation Type",
+      "value": "Hollow-Fibre Synthetic Fill"
+    },
+    {
+      "key": "Shell Material",
+      "value": "75D Ripstop Nylon"
+    },
+    {
+      "key": "Zip Type",
+      "value": "Dual-Sided YKK Anti-Snag Zip"
+    },
+    {
+      "key": "Packed Size",
+      "value": "28 x 18 cm (in stuff sack)"
+    },
+    {
+      "key": "Available Lengths",
+      "value": "Regular (185 cm), Long (200 cm)"
+    },
+    {
+      "key": "Weight",
+      "value": "1.35 kg"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09SLPBG89" },
-    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (1,782 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#8 in Sports & Outdoors > Sleeping Bags" },
-    { "key": "Date First Available", "value": "April 10, 2024" },
-    { "key": "Manufacturer", "value": "CampNest Outdoor, Seattle, Washington 98101" },
-    { "key": "Item Weight", "value": "1.35 kg" },
-    { "key": "Product Dimensions", "value": "28 x 18 cm (packed)" },
-    { "key": "Washable", "value": "Machine Washable at 30°C" },
-    { "key": "Item Model Number", "value": "CN-SB3S" },
-    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09SLPBG89"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.5 out of 5 stars (1,782 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#8 in Sports & Outdoors > Sleeping Bags"
+    },
+    {
+      "key": "Date First Available",
+      "value": "April 10, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "CampNest Outdoor, Seattle, Washington 98101"
+    },
+    {
+      "key": "Item Weight",
+      "value": "1.35 kg"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "28 x 18 cm (packed)"
+    },
+    {
+      "key": "Washable",
+      "value": "Machine Washable at 30°C"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "CN-SB3S"
+    },
+    {
+      "key": "Warranty",
+      "value": "2 years manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Sean Doyle", "rating": 5, "title": "Warm, light and great value", "reviewText": "Used this down to about 0°C with a base layer and was very comfortable. The dual zip is a great feature for venting and the packed size is small enough for a 30L backpack. Excellent all-rounder.", "verifiedPurchase": true, "reviewDate": "2024-10-28", "helpfulCount": 389 },
-    { "reviewerName": "Nadine Schulz", "rating": 4, "title": "Reliable 3-season sleeping bag", "reviewText": "Well insulated for its weight class. Kept warm on a cold autumn camping trip. Packs down nicely and the stuff sack included is good quality. Would recommend for spring to autumn use.", "verifiedPurchase": true, "reviewDate": "2024-09-13", "helpfulCount": 261 },
-    { "reviewerName": "Callum Grant", "rating": 5, "title": "Brilliant bag for the price", "reviewText": "Great mummy bag that offers genuine warmth at a very competitive price. The YKK zip is smooth and the footbox is roomy enough. An ideal bag for hiking and camping season.", "verifiedPurchase": true, "reviewDate": "2024-08-08", "helpfulCount": 196 }
+    {
+      "reviewerName": "Sean Doyle",
+      "rating": 5,
+      "title": "Warm, light and great value",
+      "reviewText": "Used this down to about 0°C with a base layer and was very comfortable. The dual zip is a great feature for venting and the packed size is small enough for a 30L backpack. Excellent all-rounder.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-28",
+      "helpfulCount": 389
+    },
+    {
+      "reviewerName": "Nadine Schulz",
+      "rating": 4,
+      "title": "Reliable 3-season sleeping bag",
+      "reviewText": "Well insulated for its weight class. Kept warm on a cold autumn camping trip. Packs down nicely and the stuff sack included is good quality. Would recommend for spring to autumn use.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-13",
+      "helpfulCount": 261
+    },
+    {
+      "reviewerName": "Callum Grant",
+      "rating": 5,
+      "title": "Brilliant bag for the price",
+      "reviewText": "Great mummy bag that offers genuine warmth at a very competitive price. The YKK zip is smooth and the footbox is roomy enough. An ideal bag for hiking and camping season.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-08",
+      "helpfulCount": 196
+    }
   ]
 }

@@ -55,7 +55,7 @@ export default function ProductCard({ product }: ProductCardProps) {
         <p className="text-xs text-gray-500 mb-1">{product.category_name}</p>
 
         <p className="text-lg font-bold text-gray-900 mt-auto mb-3">
-          ${Number(product.price).toFixed(2)}
+          ₹{Number(product.price).toFixed(2)}
         </p>
 
         <p className={`text-xs mb-3 ${product.stock > 0 ? 'text-green-600' : 'text-red-500'}`}>

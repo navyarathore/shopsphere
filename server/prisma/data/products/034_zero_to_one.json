@@ -1,7 +1,7 @@
 {
   "name": "Zero to One",
   "description": "Peter Thiel's contrarian guide to building companies that create new things rather than competing in existing markets.",
-  "price": 22.99,
+  "price": 1899,
   "stock": 140,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/zerotoone/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/zerotoone-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "Peter Thiel with Blake Masters" },
-    { "key": "Publisher", "value": "Crown Business" },
-    { "key": "Edition", "value": "1st Edition" },
-    { "key": "Language", "value": "English" },
-    { "key": "Pages", "value": "224" },
-    { "key": "ISBN-13", "value": "978-0804139021" },
-    { "key": "Format", "value": "Hardcover" },
-    { "key": "Genre", "value": "Business, Entrepreneurship" },
-    { "key": "Reading Level", "value": "Adult" },
-    { "key": "Publication Year", "value": "2014" }
+    {
+      "key": "Author",
+      "value": "Peter Thiel with Blake Masters"
+    },
+    {
+      "key": "Publisher",
+      "value": "Crown Business"
+    },
+    {
+      "key": "Edition",
+      "value": "1st Edition"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Pages",
+      "value": "224"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-0804139021"
+    },
+    {
+      "key": "Format",
+      "value": "Hardcover"
+    },
+    {
+      "key": "Genre",
+      "value": "Business, Entrepreneurship"
+    },
+    {
+      "key": "Reading Level",
+      "value": "Adult"
+    },
+    {
+      "key": "Publication Year",
+      "value": "2014"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B00J6YBOFQ" },
-    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (18,562 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#7 in Books > Entrepreneurship" },
-    { "key": "Date First Available", "value": "September 16, 2014" },
-    { "key": "Manufacturer", "value": "Crown Business" },
-    { "key": "Item Weight", "value": "370 grams" },
-    { "key": "Product Dimensions", "value": "14.6 x 2 x 21.6 cm" },
-    { "key": "Country of Origin", "value": "United States" },
-    { "key": "Suitable For", "value": "Founders, entrepreneurs, investors" },
-    { "key": "Warranty", "value": "Not applicable" }
+    {
+      "key": "ASIN",
+      "value": "B00J6YBOFQ"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.5 out of 5 stars (18,562 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#7 in Books > Entrepreneurship"
+    },
+    {
+      "key": "Date First Available",
+      "value": "September 16, 2014"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "Crown Business"
+    },
+    {
+      "key": "Item Weight",
+      "value": "370 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "14.6 x 2 x 21.6 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "United States"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Founders, entrepreneurs, investors"
+    },
+    {
+      "key": "Warranty",
+      "value": "Not applicable"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Arjun Mehta", "rating": 5, "title": "Provocative and refreshing business thinking", "reviewText": "Thiel challenges conventional startup wisdom with sharp logic and bold ideas. Whether you agree with all of it or not, it forces you to think differently about competition, monopoly, and value. One of the best business books I have read.", "verifiedPurchase": true, "reviewDate": "2024-09-15", "helpfulCount": 1127 },
-    { "reviewerName": "Clara Walsh", "rating": 5, "title": "Short, dense, and full of ideas", "reviewText": "At only 224 pages this book is packed with original thinking. The chapters on monopoly versus competition and secrets were most impactful for me. Highly recommended for anyone starting a company.", "verifiedPurchase": true, "reviewDate": "2024-07-30", "helpfulCount": 789 },
-    { "reviewerName": "Stefan Novak", "rating": 4, "title": "Thought-provoking startup philosophy", "reviewText": "Not a how-to manual but a framework for thinking about startups differently. Some ideas felt too dogmatic but the overall perspective is genuinely valuable and worth the short read.", "verifiedPurchase": true, "reviewDate": "2024-06-12", "helpfulCount": 534 }
+    {
+      "reviewerName": "Arjun Mehta",
+      "rating": 5,
+      "title": "Provocative and refreshing business thinking",
+      "reviewText": "Thiel challenges conventional startup wisdom with sharp logic and bold ideas. Whether you agree with all of it or not, it forces you to think differently about competition, monopoly, and value. One of the best business books I have read.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-15",
+      "helpfulCount": 1127
+    },
+    {
+      "reviewerName": "Clara Walsh",
+      "rating": 5,
+      "title": "Short, dense, and full of ideas",
+      "reviewText": "At only 224 pages this book is packed with original thinking. The chapters on monopoly versus competition and secrets were most impactful for me. Highly recommended for anyone starting a company.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-07-30",
+      "helpfulCount": 789
+    },
+    {
+      "reviewerName": "Stefan Novak",
+      "rating": 4,
+      "title": "Thought-provoking startup philosophy",
+      "reviewText": "Not a how-to manual but a framework for thinking about startups differently. Some ideas felt too dogmatic but the overall perspective is genuinely valuable and worth the short read.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-06-12",
+      "helpfulCount": 534
+    }
   ]
 }

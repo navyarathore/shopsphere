@@ -1,7 +1,7 @@
 {
   "name": "Full-Grain Leather Belt",
   "description": "Premium full-grain vegetable tanned leather belt with solid brass buckle. Improves with age and wear.",
-  "price": 27.99,
+  "price": 2399,
   "stock": 90,
   "category": "Clothing",
   "mainImageUrl": "https://picsum.photos/seed/leatherbelt/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/leatherbelt-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "CraftHide" },
-    { "key": "Material", "value": "Full-Grain Vegetable Tanned Leather" },
-    { "key": "Buckle Material", "value": "Solid Brass" },
-    { "key": "Width", "value": "35 mm" },
-    { "key": "Available Sizes", "value": "75 cm to 115 cm (waist 30 to 44 inches)" },
-    { "key": "Thickness", "value": "3.5 mm" },
-    { "key": "Colours Available", "value": "Tan, Dark Brown, Cognac, Black" },
-    { "key": "Gender", "value": "Unisex" },
-    { "key": "Care Instructions", "value": "Condition with leather balm every few months" },
-    { "key": "Country of Manufacture", "value": "Italy" }
+    {
+      "key": "Brand",
+      "value": "CraftHide"
+    },
+    {
+      "key": "Material",
+      "value": "Full-Grain Vegetable Tanned Leather"
+    },
+    {
+      "key": "Buckle Material",
+      "value": "Solid Brass"
+    },
+    {
+      "key": "Width",
+      "value": "35 mm"
+    },
+    {
+      "key": "Available Sizes",
+      "value": "75 cm to 115 cm (waist 30 to 44 inches)"
+    },
+    {
+      "key": "Thickness",
+      "value": "3.5 mm"
+    },
+    {
+      "key": "Colours Available",
+      "value": "Tan, Dark Brown, Cognac, Black"
+    },
+    {
+      "key": "Gender",
+      "value": "Unisex"
+    },
+    {
+      "key": "Care Instructions",
+      "value": "Condition with leather balm every few months"
+    },
+    {
+      "key": "Country of Manufacture",
+      "value": "Italy"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09FGLTHR1" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (1,573 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#2 in Clothing > Leather Belts" },
-    { "key": "Date First Available", "value": "July 15, 2024" },
-    { "key": "Manufacturer", "value": "CraftHide Leather Goods, Florence, Italy 50122" },
-    { "key": "Item Weight", "value": "210 grams" },
-    { "key": "Product Dimensions", "value": "Varies by size, width 3.5 cm" },
-    { "key": "Gift Packaging", "value": "Included" },
-    { "key": "Item Model Number", "value": "CH-FG35" },
-    { "key": "Warranty", "value": "Lifetime manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09FGLTHR1"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars (1,573 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#2 in Clothing > Leather Belts"
+    },
+    {
+      "key": "Date First Available",
+      "value": "July 15, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "CraftHide Leather Goods, Florence, Italy 50122"
+    },
+    {
+      "key": "Item Weight",
+      "value": "210 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "Varies by size, width 3.5 cm"
+    },
+    {
+      "key": "Gift Packaging",
+      "value": "Included"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "CH-FG35"
+    },
+    {
+      "key": "Warranty",
+      "value": "Lifetime manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Patrick Flynn", "rating": 5, "title": "Exceptional quality leather belt", "reviewText": "The leather is thick, supple, and already developing a beautiful patina after a month of use. Brass buckle feels solid and looks premium. Easily the best belt I have owned and came in beautiful packaging.", "verifiedPurchase": true, "reviewDate": "2024-10-25", "helpfulCount": 412 },
-    { "reviewerName": "Raj Patel", "rating": 5, "title": "Proper full-grain leather quality", "reviewText": "You can immediately feel the difference between this and regular leather belts. Stiff at first but softens into the perfect fit within a few wears. The lifetime warranty is reassuring.", "verifiedPurchase": true, "reviewDate": "2024-09-14", "helpfulCount": 276 },
-    { "reviewerName": "Tom Hartley", "rating": 4, "title": "Beautiful belt worth the price", "reviewText": "Gorgeous leather and solid construction. The brass buckle has no wobble and the finish is immaculate. Sizing ran slightly long for me but the quality is undeniable.", "verifiedPurchase": true, "reviewDate": "2024-08-05", "helpfulCount": 183 }
+    {
+      "reviewerName": "Patrick Flynn",
+      "rating": 5,
+      "title": "Exceptional quality leather belt",
+      "reviewText": "The leather is thick, supple, and already developing a beautiful patina after a month of use. Brass buckle feels solid and looks premium. Easily the best belt I have owned and came in beautiful packaging.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-25",
+      "helpfulCount": 412
+    },
+    {
+      "reviewerName": "Raj Patel",
+      "rating": 5,
+      "title": "Proper full-grain leather quality",
+      "reviewText": "You can immediately feel the difference between this and regular leather belts. Stiff at first but softens into the perfect fit within a few wears. The lifetime warranty is reassuring.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-14",
+      "helpfulCount": 276
+    },
+    {
+      "reviewerName": "Tom Hartley",
+      "rating": 4,
+      "title": "Beautiful belt worth the price",
+      "reviewText": "Gorgeous leather and solid construction. The brass buckle has no wobble and the finish is immaculate. Sizing ran slightly long for me but the quality is undeniable.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-05",
+      "helpfulCount": 183
+    }
   ]
 }

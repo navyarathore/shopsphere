@@ -1,7 +1,7 @@
 {
   "name": "Atomic Habits",
   "description": "James Clear's bestselling guide on building good habits and breaking bad ones through small, consistent changes.",
-  "price": 16.99,
+  "price": 1399,
   "stock": 200,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/atomichabits/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/atomichabits-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "James Clear" },
-    { "key": "Publisher", "value": "Avery" },
-    { "key": "Language", "value": "English" },
-    { "key": "Format", "value": "Paperback" },
-    { "key": "Pages", "value": "320" },
-    { "key": "ISBN-10", "value": "1847941834" },
-    { "key": "ISBN-13", "value": "978-1847941831" },
-    { "key": "Dimensions", "value": "15.3 x 2.3 x 23.4 cm" },
-    { "key": "Publication Date", "value": "October 16, 2018" },
-    { "key": "Genre", "value": "Self-Improvement" }
+    {
+      "key": "Author",
+      "value": "James Clear"
+    },
+    {
+      "key": "Publisher",
+      "value": "Avery"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Pages",
+      "value": "320"
+    },
+    {
+      "key": "ISBN-10",
+      "value": "1847941834"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-1847941831"
+    },
+    {
+      "key": "Dimensions",
+      "value": "15.3 x 2.3 x 23.4 cm"
+    },
+    {
+      "key": "Publication Date",
+      "value": "October 16, 2018"
+    },
+    {
+      "key": "Genre",
+      "value": "Self-Improvement"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B07D23CFGR" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (126,432 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#1 in Books > Self-Help" },
-    { "key": "Date First Available", "value": "October 16, 2018" },
-    { "key": "Publisher", "value": "Avery" },
-    { "key": "Language", "value": "English" },
-    { "key": "Item Weight", "value": "360 grams" },
-    { "key": "Product Dimensions", "value": "15.3 x 2.3 x 23.4 cm" },
-    { "key": "Country of Origin", "value": "United States" },
-    { "key": "Edition", "value": "Reprint Edition" }
+    {
+      "key": "ASIN",
+      "value": "B07D23CFGR"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars (126,432 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#1 in Books > Self-Help"
+    },
+    {
+      "key": "Date First Available",
+      "value": "October 16, 2018"
+    },
+    {
+      "key": "Publisher",
+      "value": "Avery"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Item Weight",
+      "value": "360 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "15.3 x 2.3 x 23.4 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "United States"
+    },
+    {
+      "key": "Edition",
+      "value": "Reprint Edition"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Megan Carter", "rating": 5, "title": "Simple ideas that actually work", "reviewText": "This book is practical from the first chapter. The habit stacking, environment design, and identity-based habit ideas are easy to apply and surprisingly effective. I used the system for exercise and reading, and it genuinely helped.", "verifiedPurchase": true, "reviewDate": "2024-11-27", "helpfulCount": 1334 },
-    { "reviewerName": "Rohan Gupta", "rating": 5, "title": "Motivating without being preachy", "reviewText": "What I like most is how actionable the book feels. It does not rely on hype. Instead, it explains how tiny consistent changes compound over time. Very approachable, very useful, and easy to recommend.", "verifiedPurchase": true, "reviewDate": "2024-10-09", "helpfulCount": 876 },
-    { "reviewerName": "Alicia Perez", "rating": 4, "title": "Great framework for behavior change", "reviewText": "The writing is clear and the structure is excellent. Some examples repeat the same core message, but the system itself is strong and easy to remember. A very worthwhile read if you want practical self-improvement advice.", "verifiedPurchase": true, "reviewDate": "2024-08-19", "helpfulCount": 512 }
+    {
+      "reviewerName": "Megan Carter",
+      "rating": 5,
+      "title": "Simple ideas that actually work",
+      "reviewText": "This book is practical from the first chapter. The habit stacking, environment design, and identity-based habit ideas are easy to apply and surprisingly effective. I used the system for exercise and reading, and it genuinely helped.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-27",
+      "helpfulCount": 1334
+    },
+    {
+      "reviewerName": "Rohan Gupta",
+      "rating": 5,
+      "title": "Motivating without being preachy",
+      "reviewText": "What I like most is how actionable the book feels. It does not rely on hype. Instead, it explains how tiny consistent changes compound over time. Very approachable, very useful, and easy to recommend.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-09",
+      "helpfulCount": 876
+    },
+    {
+      "reviewerName": "Alicia Perez",
+      "rating": 4,
+      "title": "Great framework for behavior change",
+      "reviewText": "The writing is clear and the structure is excellent. Some examples repeat the same core message, but the system itself is strong and easy to remember. A very worthwhile read if you want practical self-improvement advice.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-19",
+      "helpfulCount": 512
+    }
   ]
 }

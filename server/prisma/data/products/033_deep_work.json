@@ -1,7 +1,7 @@
 {
   "name": "Deep Work: Rules for Focused Success",
   "description": "Cal Newport's guide to cultivating the ability to focus without distraction and produce at an elite level.",
-  "price": 18.99,
+  "price": 1599,
   "stock": 180,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/deepwork/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/deepwork-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "Cal Newport" },
-    { "key": "Publisher", "value": "Grand Central Publishing" },
-    { "key": "Edition", "value": "1st Edition" },
-    { "key": "Language", "value": "English" },
-    { "key": "Pages", "value": "296" },
-    { "key": "ISBN-13", "value": "978-1455586691" },
-    { "key": "Format", "value": "Paperback" },
-    { "key": "Genre", "value": "Productivity, Self-Help" },
-    { "key": "Reading Level", "value": "Adult" },
-    { "key": "Publication Year", "value": "2016" }
+    {
+      "key": "Author",
+      "value": "Cal Newport"
+    },
+    {
+      "key": "Publisher",
+      "value": "Grand Central Publishing"
+    },
+    {
+      "key": "Edition",
+      "value": "1st Edition"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Pages",
+      "value": "296"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-1455586691"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Genre",
+      "value": "Productivity, Self-Help"
+    },
+    {
+      "key": "Reading Level",
+      "value": "Adult"
+    },
+    {
+      "key": "Publication Year",
+      "value": "2016"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B00X47ZVXM" },
-    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (20,847 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#5 in Books > Productivity & Time Management" },
-    { "key": "Date First Available", "value": "January 5, 2016" },
-    { "key": "Manufacturer", "value": "Grand Central Publishing" },
-    { "key": "Item Weight", "value": "320 grams" },
-    { "key": "Product Dimensions", "value": "13.5 x 2.1 x 20.3 cm" },
-    { "key": "Country of Origin", "value": "United States" },
-    { "key": "Suitable For", "value": "Knowledge workers, students, professionals" },
-    { "key": "Warranty", "value": "Not applicable" }
+    {
+      "key": "ASIN",
+      "value": "B00X47ZVXM"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.6 out of 5 stars (20,847 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#5 in Books > Productivity & Time Management"
+    },
+    {
+      "key": "Date First Available",
+      "value": "January 5, 2016"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "Grand Central Publishing"
+    },
+    {
+      "key": "Item Weight",
+      "value": "320 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "13.5 x 2.1 x 20.3 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "United States"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Knowledge workers, students, professionals"
+    },
+    {
+      "key": "Warranty",
+      "value": "Not applicable"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Rachel Kim", "rating": 5, "title": "Changed how I work completely", "reviewText": "Newport makes a compelling case for deep work and provides actionable strategies to achieve it. I restructured my mornings after reading this and my output quality improved noticeably. A must-read for anyone in a knowledge-based field.", "verifiedPurchase": true, "reviewDate": "2024-10-05", "helpfulCount": 1483 },
-    { "reviewerName": "Ben Hartley", "rating": 5, "title": "Practical and persuasive", "reviewText": "Well-argued book backed by real examples. The strategies around time blocking and minimising shallow work are immediately actionable. I return to it every year as a reminder.", "verifiedPurchase": true, "reviewDate": "2024-08-21", "helpfulCount": 916 },
-    { "reviewerName": "Elena Petrova", "rating": 4, "title": "Insightful but repetitive at times", "reviewText": "The core thesis is powerful and Newport articulates it well. The middle section can feel a bit padded, but the rules section is practical. Well worth reading for the ideas alone.", "verifiedPurchase": true, "reviewDate": "2024-07-04", "helpfulCount": 647 }
+    {
+      "reviewerName": "Rachel Kim",
+      "rating": 5,
+      "title": "Changed how I work completely",
+      "reviewText": "Newport makes a compelling case for deep work and provides actionable strategies to achieve it. I restructured my mornings after reading this and my output quality improved noticeably. A must-read for anyone in a knowledge-based field.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-05",
+      "helpfulCount": 1483
+    },
+    {
+      "reviewerName": "Ben Hartley",
+      "rating": 5,
+      "title": "Practical and persuasive",
+      "reviewText": "Well-argued book backed by real examples. The strategies around time blocking and minimising shallow work are immediately actionable. I return to it every year as a reminder.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-21",
+      "helpfulCount": 916
+    },
+    {
+      "reviewerName": "Elena Petrova",
+      "rating": 4,
+      "title": "Insightful but repetitive at times",
+      "reviewText": "The core thesis is powerful and Newport articulates it well. The middle section can feel a bit padded, but the rules section is practical. Well worth reading for the ideas alone.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-07-04",
+      "helpfulCount": 647
+    }
   ]
 }

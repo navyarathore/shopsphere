@@ -19,7 +19,7 @@ export default function CartItem({ item }: CartItemProps) {
       <div className="flex-1 min-w-0">
         <p className="font-medium text-gray-800 line-clamp-2">{item.name}</p>
         <p className="text-lg font-bold text-gray-900 mt-1">
-          ${Number(item.price).toFixed(2)}
+          ₹{Number(item.price).toFixed(2)}
         </p>
 
         <div className="flex items-center gap-3 mt-3">
@@ -52,7 +52,7 @@ export default function CartItem({ item }: CartItemProps) {
 
       <div className="text-right flex-shrink-0">
         <p className="font-semibold text-gray-800">
-          ${(Number(item.price) * item.quantity).toFixed(2)}
+          ₹{(Number(item.price) * item.quantity).toFixed(2)}
         </p>
       </div>
     </div>

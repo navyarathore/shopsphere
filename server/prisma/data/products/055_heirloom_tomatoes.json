@@ -1,7 +1,7 @@
 {
   "name": "Heirloom Tomatoes (1 lb)",
   "description": "A colourful mix of vine-ripened heirloom tomatoes in red, yellow, and purple varieties. Bursting with complex, sweet-tangy flavour that modern hybrid tomatoes simply can't match. Grown using sustainable farming practices.",
-  "price": 4.49,
+  "price": 379,
   "stock": 150,
   "category": "Fresh",
   "mainImageUrl": "https://picsum.photos/seed/tomatoes/600/600",
@@ -10,32 +10,126 @@
     "https://picsum.photos/seed/tomatoes-3/600/600"
   ],
   "specifications": [
-    { "key": "Net Weight", "value": "1 lb (454 g)" },
-    { "key": "Varieties Included", "value": "Brandywine, Cherokee Purple, Green Zebra, Yellow Pear" },
-    { "key": "Farming Method", "value": "Sustainably Grown, No Synthetic Pesticides" },
-    { "key": "Origin", "value": "Pacific Northwest, USA" },
-    { "key": "Shelf Life", "value": "4–6 days at room temperature; up to 10 days refrigerated" },
-    { "key": "Storage", "value": "Room temperature for best flavour; refrigerate to extend life" },
-    { "key": "Calories per 100 g", "value": "18 kcal" },
-    { "key": "Vitamin C per 100 g", "value": "13 mg (14% DV)" },
-    { "key": "Non-GMO", "value": "Yes" },
-    { "key": "Colour", "value": "Mixed (red, yellow, purple, green)" }
+    {
+      "key": "Net Weight",
+      "value": "1 lb (454 g)"
+    },
+    {
+      "key": "Varieties Included",
+      "value": "Brandywine, Cherokee Purple, Green Zebra, Yellow Pear"
+    },
+    {
+      "key": "Farming Method",
+      "value": "Sustainably Grown, No Synthetic Pesticides"
+    },
+    {
+      "key": "Origin",
+      "value": "Pacific Northwest, USA"
+    },
+    {
+      "key": "Shelf Life",
+      "value": "4–6 days at room temperature; up to 10 days refrigerated"
+    },
+    {
+      "key": "Storage",
+      "value": "Room temperature for best flavour; refrigerate to extend life"
+    },
+    {
+      "key": "Calories per 100 g",
+      "value": "18 kcal"
+    },
+    {
+      "key": "Vitamin C per 100 g",
+      "value": "13 mg (14% DV)"
+    },
+    {
+      "key": "Non-GMO",
+      "value": "Yes"
+    },
+    {
+      "key": "Colour",
+      "value": "Mixed (red, yellow, purple, green)"
+    }
   ],
   "additionalInfo": [
-    { "key": "Best Use", "value": "Salads, bruschetta, caprese, sauces, roasting" },
-    { "key": "Allergen Info", "value": "None" },
-    { "key": "Packaging", "value": "Compostable punnet" },
-    { "key": "Date First Available", "value": "March 13, 2026" },
-    { "key": "Sold By", "value": "ShopSphere Fresh" },
-    { "key": "Country of Origin", "value": "USA" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars" },
-    { "key": "Recyclable Packaging", "value": "Yes" }
+    {
+      "key": "Best Use",
+      "value": "Salads, bruschetta, caprese, sauces, roasting"
+    },
+    {
+      "key": "Allergen Info",
+      "value": "None"
+    },
+    {
+      "key": "Packaging",
+      "value": "Compostable punnet"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 13, 2026"
+    },
+    {
+      "key": "Sold By",
+      "value": "ShopSphere Fresh"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "USA"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars"
+    },
+    {
+      "key": "Recyclable Packaging",
+      "value": "Yes"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Maria C.", "rating": 5, "title": "Tomatoes that actually taste like tomatoes", "reviewText": "I had forgotten what a real tomato tastes like until I tried these. Incredible depth of flavour. The purple Cherokees are my absolute favourite. A must-buy!", "verifiedPurchase": true, "reviewDate": "2026-02-25", "helpfulCount": 321 },
-    { "reviewerName": "Oliver W.", "rating": 5, "title": "Made the best bruschetta of my life", "reviewText": "Picked up these heirlooms for a dinner party bruschetta and got more compliments on the tomatoes than on my cooking skills. The variety mix is beautiful.", "verifiedPurchase": true, "reviewDate": "2026-03-02", "helpfulCount": 267 },
-    { "reviewerName": "Fatima A.", "rating": 4, "title": "Beautiful and delicious", "reviewText": "The colours and flavours are stunning. One of the green zebras was slightly under-ripe, but everything else was perfect. Great value for heirlooms.", "verifiedPurchase": true, "reviewDate": "2026-01-19", "helpfulCount": 88 },
-    { "reviewerName": "Derek L.", "rating": 5, "title": "Superb quality", "reviewText": "These arrived carefully packed and every tomato was in perfect condition. The flavour is rich and complex. Won't go back to supermarket tomatoes.", "verifiedPurchase": true, "reviewDate": "2026-02-11", "helpfulCount": 143 },
-    { "reviewerName": "Yuki N.", "rating": 4, "title": "Great for caprese", "reviewText": "Sliced these with fresh mozzarella and basil - absolute perfection. Slightly pricier than regular tomatoes but well worth it for a special meal.", "verifiedPurchase": true, "reviewDate": "2026-03-08", "helpfulCount": 61 }
+    {
+      "reviewerName": "Maria C.",
+      "rating": 5,
+      "title": "Tomatoes that actually taste like tomatoes",
+      "reviewText": "I had forgotten what a real tomato tastes like until I tried these. Incredible depth of flavour. The purple Cherokees are my absolute favourite. A must-buy!",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-25",
+      "helpfulCount": 321
+    },
+    {
+      "reviewerName": "Oliver W.",
+      "rating": 5,
+      "title": "Made the best bruschetta of my life",
+      "reviewText": "Picked up these heirlooms for a dinner party bruschetta and got more compliments on the tomatoes than on my cooking skills. The variety mix is beautiful.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-02",
+      "helpfulCount": 267
+    },
+    {
+      "reviewerName": "Fatima A.",
+      "rating": 4,
+      "title": "Beautiful and delicious",
+      "reviewText": "The colours and flavours are stunning. One of the green zebras was slightly under-ripe, but everything else was perfect. Great value for heirlooms.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-01-19",
+      "helpfulCount": 88
+    },
+    {
+      "reviewerName": "Derek L.",
+      "rating": 5,
+      "title": "Superb quality",
+      "reviewText": "These arrived carefully packed and every tomato was in perfect condition. The flavour is rich and complex. Won't go back to supermarket tomatoes.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-11",
+      "helpfulCount": 143
+    },
+    {
+      "reviewerName": "Yuki N.",
+      "rating": 4,
+      "title": "Great for caprese",
+      "reviewText": "Sliced these with fresh mozzarella and basil - absolute perfection. Slightly pricier than regular tomatoes but well worth it for a special meal.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-08",
+      "helpfulCount": 61
+    }
   ]
 }

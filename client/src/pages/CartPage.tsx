@@ -41,7 +41,7 @@ export default function CartPage() {
           <div className="card sticky top-20">
             <p className="text-lg font-medium text-gray-800 mb-4">
               Subtotal ({cartItems.reduce((s, i) => s + i.quantity, 0)} items):{' '}
-              <span className="font-bold">${cartSubtotal.toFixed(2)}</span>
+              <span className="font-bold">₹{cartSubtotal.toFixed(2)}</span>
             </p>
             <button
               onClick={() => navigate('/checkout')}

@@ -1,7 +1,7 @@
 {
   "name": "Speed Jump Rope with Counter",
   "description": "Adjustable steel cable speed jump rope with digital rep counter, ball-bearing handles, and memory foam grips.",
-  "price": 14.99,
+  "price": 1299,
   "stock": 160,
   "category": "Sports & Outdoors",
   "mainImageUrl": "https://picsum.photos/seed/jumprope/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/jumprope-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "SpeedRep" },
-    { "key": "Cable Material", "value": "PVC Coated Steel Wire" },
-    { "key": "Handle Material", "value": "Memory Foam + ABS Plastic" },
-    { "key": "Counter", "value": "Digital LCD Rep Counter" },
-    { "key": "Bearing Type", "value": "360° Ball Bearings" },
-    { "key": "Adjustable Length", "value": "Yes, Up to 3 Metres" },
-    { "key": "Best For", "value": "HIIT, Crossfit, Boxing Training" },
-    { "key": "Target Group", "value": "Adults" },
-    { "key": "Battery", "value": "AAA Battery (Included)" },
-    { "key": "Weight", "value": "160 grams" }
+    {
+      "key": "Brand",
+      "value": "SpeedRep"
+    },
+    {
+      "key": "Cable Material",
+      "value": "PVC Coated Steel Wire"
+    },
+    {
+      "key": "Handle Material",
+      "value": "Memory Foam + ABS Plastic"
+    },
+    {
+      "key": "Counter",
+      "value": "Digital LCD Rep Counter"
+    },
+    {
+      "key": "Bearing Type",
+      "value": "360° Ball Bearings"
+    },
+    {
+      "key": "Adjustable Length",
+      "value": "Yes, Up to 3 Metres"
+    },
+    {
+      "key": "Best For",
+      "value": "HIIT, Crossfit, Boxing Training"
+    },
+    {
+      "key": "Target Group",
+      "value": "Adults"
+    },
+    {
+      "key": "Battery",
+      "value": "AAA Battery (Included)"
+    },
+    {
+      "key": "Weight",
+      "value": "160 grams"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09JRPE150" },
-    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (2,863 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#3 in Sports & Outdoors > Jump Ropes" },
-    { "key": "Date First Available", "value": "June 3, 2024" },
-    { "key": "Manufacturer", "value": "SpeedRep Fitness, Los Angeles, California 90012" },
-    { "key": "Item Weight", "value": "160 grams" },
-    { "key": "Product Dimensions", "value": "24 x 8 x 3 cm (folded)" },
-    { "key": "Indoor/Outdoor", "value": "Both" },
-    { "key": "Item Model Number", "value": "SR-JR001" },
-    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09JRPE150"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.5 out of 5 stars (2,863 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#3 in Sports & Outdoors > Jump Ropes"
+    },
+    {
+      "key": "Date First Available",
+      "value": "June 3, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "SpeedRep Fitness, Los Angeles, California 90012"
+    },
+    {
+      "key": "Item Weight",
+      "value": "160 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "24 x 8 x 3 cm (folded)"
+    },
+    {
+      "key": "Indoor/Outdoor",
+      "value": "Both"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "SR-JR001"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 year manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Danny Walsh", "rating": 5, "title": "Great training rope at a low price", "reviewText": "Fast, smooth, and the counter is a genuinely useful feature for tracking reps. The ball bearings make a noticeable difference for speed work. Very comfortable foam handles. Excellent value.", "verifiedPurchase": true, "reviewDate": "2024-11-02", "helpfulCount": 407 },
-    { "reviewerName": "Kelly Soto", "rating": 5, "title": "Best jump rope I have used", "reviewText": "The speed and smoothness of this rope is impressive for the price. The digital counter helps track sets easily. The length adjustment is straightforward and it does not tangle.", "verifiedPurchase": true, "reviewDate": "2024-09-18", "helpfulCount": 284 },
-    { "reviewerName": "Bart van der Berg", "rating": 4, "title": "Good quality training rope", "reviewText": "Solid rope that spins smoothly. The counter is handy though it occasionally misses a rep in double-under attempts. For regular single-under cardio training it is perfect.", "verifiedPurchase": true, "reviewDate": "2024-08-06", "helpfulCount": 179 }
+    {
+      "reviewerName": "Danny Walsh",
+      "rating": 5,
+      "title": "Great training rope at a low price",
+      "reviewText": "Fast, smooth, and the counter is a genuinely useful feature for tracking reps. The ball bearings make a noticeable difference for speed work. Very comfortable foam handles. Excellent value.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-02",
+      "helpfulCount": 407
+    },
+    {
+      "reviewerName": "Kelly Soto",
+      "rating": 5,
+      "title": "Best jump rope I have used",
+      "reviewText": "The speed and smoothness of this rope is impressive for the price. The digital counter helps track sets easily. The length adjustment is straightforward and it does not tangle.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-18",
+      "helpfulCount": 284
+    },
+    {
+      "reviewerName": "Bart van der Berg",
+      "rating": 4,
+      "title": "Good quality training rope",
+      "reviewText": "Solid rope that spins smoothly. The counter is handy though it occasionally misses a rep in double-under attempts. For regular single-under cardio training it is perfect.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-06",
+      "helpfulCount": 179
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Foam Roller 60cm",
   "description": "High-density EVA foam roller for myofascial release and muscle recovery. Grid texture for targeted massage.",
-  "price": 18.99,
+  "price": 1599,
   "stock": 130,
   "category": "Sports & Outdoors",
   "mainImageUrl": "https://picsum.photos/seed/foamroller/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/foamroller-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "RecoverFit" },
-    { "key": "Length", "value": "60 cm" },
-    { "key": "Material", "value": "High-Density EVA Foam" },
-    { "key": "Surface Texture", "value": "Grid Massage Pattern" },
-    { "key": "Firmness", "value": "Medium-Firm" },
-    { "key": "Use Case", "value": "Myofascial Release and Recovery" },
-    { "key": "Water Resistant", "value": "Yes" },
-    { "key": "Portable", "value": "Yes" },
-    { "key": "Max Load", "value": "150 kg" },
-    { "key": "Weight", "value": "780 grams" }
+    {
+      "key": "Brand",
+      "value": "RecoverFit"
+    },
+    {
+      "key": "Length",
+      "value": "60 cm"
+    },
+    {
+      "key": "Material",
+      "value": "High-Density EVA Foam"
+    },
+    {
+      "key": "Surface Texture",
+      "value": "Grid Massage Pattern"
+    },
+    {
+      "key": "Firmness",
+      "value": "Medium-Firm"
+    },
+    {
+      "key": "Use Case",
+      "value": "Myofascial Release and Recovery"
+    },
+    {
+      "key": "Water Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Portable",
+      "value": "Yes"
+    },
+    {
+      "key": "Max Load",
+      "value": "150 kg"
+    },
+    {
+      "key": "Weight",
+      "value": "780 grams"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09FR60EVA" },
-    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (3,119 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#7 in Sports & Outdoors > Foam Rollers" },
-    { "key": "Date First Available", "value": "June 21, 2024" },
-    { "key": "Manufacturer", "value": "RecoverFit Mobility, Minneapolis, Minnesota 55401" },
-    { "key": "Item Weight", "value": "780 grams" },
-    { "key": "Product Dimensions", "value": "60 x 14 x 14 cm" },
-    { "key": "Water Resistant", "value": "Yes" },
-    { "key": "Item Model Number", "value": "RF-FR60" },
-    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09FR60EVA"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.5 out of 5 stars (3,119 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#7 in Sports & Outdoors > Foam Rollers"
+    },
+    {
+      "key": "Date First Available",
+      "value": "June 21, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "RecoverFit Mobility, Minneapolis, Minnesota 55401"
+    },
+    {
+      "key": "Item Weight",
+      "value": "780 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "60 x 14 x 14 cm"
+    },
+    {
+      "key": "Water Resistant",
+      "value": "Yes"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "RF-FR60"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 year manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "David Nguyen", "rating": 5, "title": "Great for recovery sessions", "reviewText": "Firm enough to be effective without feeling unbearable. The textured surface works well on calves, quads, and upper back. I use it almost daily after workouts.", "verifiedPurchase": true, "reviewDate": "2024-11-14", "helpfulCount": 302 },
-    { "reviewerName": "Pooja Sharma", "rating": 4, "title": "Good quality roller", "reviewText": "Well made and supportive. The 60 cm length is versatile and the roller keeps its shape. A solid choice for stretching and muscle recovery.", "verifiedPurchase": true, "reviewDate": "2024-09-30", "helpfulCount": 197 },
-    { "reviewerName": "Jake Collins", "rating": 5, "title": "Excellent value foam roller", "reviewText": "Feels durable and performs just as well as more expensive rollers I have tried. The grid pattern adds a bit more pressure where needed. Highly recommended for home mobility work.", "verifiedPurchase": true, "reviewDate": "2024-08-20", "helpfulCount": 141 }
+    {
+      "reviewerName": "David Nguyen",
+      "rating": 5,
+      "title": "Great for recovery sessions",
+      "reviewText": "Firm enough to be effective without feeling unbearable. The textured surface works well on calves, quads, and upper back. I use it almost daily after workouts.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-14",
+      "helpfulCount": 302
+    },
+    {
+      "reviewerName": "Pooja Sharma",
+      "rating": 4,
+      "title": "Good quality roller",
+      "reviewText": "Well made and supportive. The 60 cm length is versatile and the roller keeps its shape. A solid choice for stretching and muscle recovery.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-30",
+      "helpfulCount": 197
+    },
+    {
+      "reviewerName": "Jake Collins",
+      "rating": 5,
+      "title": "Excellent value foam roller",
+      "reviewText": "Feels durable and performs just as well as more expensive rollers I have tried. The grid pattern adds a bit more pressure where needed. Highly recommended for home mobility work.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-20",
+      "helpfulCount": 141
+    }
   ]
 }

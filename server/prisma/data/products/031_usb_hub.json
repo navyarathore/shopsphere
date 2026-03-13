@@ -1,7 +1,7 @@
 {
   "name": "7-in-1 USB-C Hub",
   "description": "Slim aluminum USB-C hub with 4K HDMI, 2x USB-A 3.0, 1x USB-C PD 100W, SD/microSD card readers.",
-  "price": 34.99,
+  "price": 2899,
   "stock": 90,
   "category": "Electronics",
   "mainImageUrl": "https://picsum.photos/seed/usbhub/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/usbhub-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "NexPort" },
-    { "key": "Ports", "value": "7-in-1" },
-    { "key": "HDMI Output", "value": "4K@30Hz" },
-    { "key": "USB-A Ports", "value": "2x USB-A 3.0 (5Gbps)" },
-    { "key": "USB-C PD", "value": "100W Pass-Through Charging" },
-    { "key": "Card Readers", "value": "SD and MicroSD" },
-    { "key": "Connection", "value": "USB-C" },
-    { "key": "Material", "value": "Aluminium Alloy" },
-    { "key": "OS Compatibility", "value": "Windows, macOS, ChromeOS" },
-    { "key": "Cable Length", "value": "15 cm" }
+    {
+      "key": "Brand",
+      "value": "NexPort"
+    },
+    {
+      "key": "Ports",
+      "value": "7-in-1"
+    },
+    {
+      "key": "HDMI Output",
+      "value": "4K@30Hz"
+    },
+    {
+      "key": "USB-A Ports",
+      "value": "2x USB-A 3.0 (5Gbps)"
+    },
+    {
+      "key": "USB-C PD",
+      "value": "100W Pass-Through Charging"
+    },
+    {
+      "key": "Card Readers",
+      "value": "SD and MicroSD"
+    },
+    {
+      "key": "Connection",
+      "value": "USB-C"
+    },
+    {
+      "key": "Material",
+      "value": "Aluminium Alloy"
+    },
+    {
+      "key": "OS Compatibility",
+      "value": "Windows, macOS, ChromeOS"
+    },
+    {
+      "key": "Cable Length",
+      "value": "15 cm"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09HUBC7IN" },
-    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (3,901 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#5 in Electronics > USB Hubs" },
-    { "key": "Date First Available", "value": "April 2, 2024" },
-    { "key": "Manufacturer", "value": "NexPort Tech, San Francisco, California 94102" },
-    { "key": "Item Weight", "value": "120 grams" },
-    { "key": "Product Dimensions", "value": "11 x 4 x 1.2 cm" },
-    { "key": "Hot-Swap Supported", "value": "Yes" },
-    { "key": "Item Model Number", "value": "NP-7C1" },
-    { "key": "Warranty", "value": "18 months manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09HUBC7IN"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.4 out of 5 stars (3,901 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#5 in Electronics > USB Hubs"
+    },
+    {
+      "key": "Date First Available",
+      "value": "April 2, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "NexPort Tech, San Francisco, California 94102"
+    },
+    {
+      "key": "Item Weight",
+      "value": "120 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "11 x 4 x 1.2 cm"
+    },
+    {
+      "key": "Hot-Swap Supported",
+      "value": "Yes"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "NP-7C1"
+    },
+    {
+      "key": "Warranty",
+      "value": "18 months manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Chloe Martin", "rating": 5, "title": "Compact and capable hub", "reviewText": "This slim hub has transformed my minimal desk setup. 4K HDMI, fast USB-A ports, and 100W PD all working simultaneously without heat issues. Build quality feels premium.", "verifiedPurchase": true, "reviewDate": "2024-11-08", "helpfulCount": 488 },
-    { "reviewerName": "James Park", "rating": 4, "title": "Great MacBook companion", "reviewText": "Does everything I need from one cable. 4K output is sharp, card readers work instantly, and charging pass-through is fast. Only minor issue is the cable is a bit short.", "verifiedPurchase": true, "reviewDate": "2024-10-14", "helpfulCount": 323 },
-    { "reviewerName": "Leila Farouk", "rating": 5, "title": "Excellent build quality", "reviewText": "The aluminium shell feels solid and runs cool. All ports work as expected. The SD card speeds are noticeably faster than my previous plastic hub. Very happy with this purchase.", "verifiedPurchase": true, "reviewDate": "2024-09-01", "helpfulCount": 211 }
+    {
+      "reviewerName": "Chloe Martin",
+      "rating": 5,
+      "title": "Compact and capable hub",
+      "reviewText": "This slim hub has transformed my minimal desk setup. 4K HDMI, fast USB-A ports, and 100W PD all working simultaneously without heat issues. Build quality feels premium.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-08",
+      "helpfulCount": 488
+    },
+    {
+      "reviewerName": "James Park",
+      "rating": 4,
+      "title": "Great MacBook companion",
+      "reviewText": "Does everything I need from one cable. 4K output is sharp, card readers work instantly, and charging pass-through is fast. Only minor issue is the cable is a bit short.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-14",
+      "helpfulCount": 323
+    },
+    {
+      "reviewerName": "Leila Farouk",
+      "rating": 5,
+      "title": "Excellent build quality",
+      "reviewText": "The aluminium shell feels solid and runs cool. All ports work as expected. The SD card speeds are noticeably faster than my previous plastic hub. Very happy with this purchase.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-01",
+      "helpfulCount": 211
+    }
   ]
 }

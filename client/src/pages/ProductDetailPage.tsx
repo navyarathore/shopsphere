@@ -115,7 +115,7 @@ export default function ProductDetailPage() {
             <p className="text-sm text-gray-500 mb-4">{product.category_name}</p>
 
             <p className="text-3xl font-bold text-gray-900 mb-4">
-              ${Number(product.price).toFixed(2)}
+              ₹{Number(product.price).toFixed(2)}
             </p>
 
             <p

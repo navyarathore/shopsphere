@@ -1,7 +1,7 @@
 {
   "name": "Cold Brew Coffee Maker 1L",
   "description": "Simple immersion cold brew maker with a fine mesh filter and airtight glass carafe. No electricity needed.",
-  "price": 27.99,
+  "price": 2399,
   "stock": 70,
   "category": "Home & Kitchen",
   "mainImageUrl": "https://picsum.photos/seed/coldbrew/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/coldbrew-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "BrewEase" },
-    { "key": "Capacity", "value": "1 Liter" },
-    { "key": "Material", "value": "Borosilicate Glass" },
-    { "key": "Filter Type", "value": "Fine Mesh Stainless Steel" },
-    { "key": "Lid Type", "value": "Airtight Silicone Seal" },
-    { "key": "Dishwasher Safe", "value": "Yes" },
-    { "key": "BPA Free", "value": "Yes" },
-    { "key": "Brewing Method", "value": "Immersion Cold Brew" },
-    { "key": "Weight", "value": "620 grams" },
-    { "key": "Colour", "value": "Clear / Black" }
+    {
+      "key": "Brand",
+      "value": "BrewEase"
+    },
+    {
+      "key": "Capacity",
+      "value": "1 Liter"
+    },
+    {
+      "key": "Material",
+      "value": "Borosilicate Glass"
+    },
+    {
+      "key": "Filter Type",
+      "value": "Fine Mesh Stainless Steel"
+    },
+    {
+      "key": "Lid Type",
+      "value": "Airtight Silicone Seal"
+    },
+    {
+      "key": "Dishwasher Safe",
+      "value": "Yes"
+    },
+    {
+      "key": "BPA Free",
+      "value": "Yes"
+    },
+    {
+      "key": "Brewing Method",
+      "value": "Immersion Cold Brew"
+    },
+    {
+      "key": "Weight",
+      "value": "620 grams"
+    },
+    {
+      "key": "Colour",
+      "value": "Clear / Black"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09CBRW1L" },
-    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (1,672 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#9 in Home & Kitchen > Coffee Makers" },
-    { "key": "Date First Available", "value": "April 2, 2024" },
-    { "key": "Manufacturer", "value": "BrewEase Kitchenware, Portland, Oregon 97205" },
-    { "key": "Item Weight", "value": "620 grams" },
-    { "key": "Product Dimensions", "value": "12 x 12 x 28 cm" },
-    { "key": "Dishwasher Safe", "value": "Yes" },
-    { "key": "Item Model Number", "value": "BE-CB1000" },
-    { "key": "Warranty", "value": "1 year manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09CBRW1L"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.5 out of 5 stars (1,672 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#9 in Home & Kitchen > Coffee Makers"
+    },
+    {
+      "key": "Date First Available",
+      "value": "April 2, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "BrewEase Kitchenware, Portland, Oregon 97205"
+    },
+    {
+      "key": "Item Weight",
+      "value": "620 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "12 x 12 x 28 cm"
+    },
+    {
+      "key": "Dishwasher Safe",
+      "value": "Yes"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "BE-CB1000"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 year manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Jared Kim", "rating": 5, "title": "Makes smooth cold brew every time", "reviewText": "Very simple to use and the filter keeps grounds out of the final drink. The glass feels sturdy and the size is perfect for a few days of coffee. Easy to clean and store in the fridge.", "verifiedPurchase": true, "reviewDate": "2024-11-08", "helpfulCount": 372 },
-    { "reviewerName": "Maya Lopez", "rating": 5, "title": "Great for daily use", "reviewText": "I use this almost every week. The coffee comes out smooth and less acidic than hot brew. The carafe pours cleanly and the mesh filter is fine enough to do a great job. Highly satisfied.", "verifiedPurchase": true, "reviewDate": "2024-09-21", "helpfulCount": 248 },
-    { "reviewerName": "Steven Clark", "rating": 4, "title": "Simple and effective", "reviewText": "Does exactly what it promises. Build quality is good and the capacity is ideal for home use. I just wish the handle were a bit larger, but that is a small complaint.", "verifiedPurchase": true, "reviewDate": "2024-08-11", "helpfulCount": 154 }
+    {
+      "reviewerName": "Jared Kim",
+      "rating": 5,
+      "title": "Makes smooth cold brew every time",
+      "reviewText": "Very simple to use and the filter keeps grounds out of the final drink. The glass feels sturdy and the size is perfect for a few days of coffee. Easy to clean and store in the fridge.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-08",
+      "helpfulCount": 372
+    },
+    {
+      "reviewerName": "Maya Lopez",
+      "rating": 5,
+      "title": "Great for daily use",
+      "reviewText": "I use this almost every week. The coffee comes out smooth and less acidic than hot brew. The carafe pours cleanly and the mesh filter is fine enough to do a great job. Highly satisfied.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-21",
+      "helpfulCount": 248
+    },
+    {
+      "reviewerName": "Steven Clark",
+      "rating": 4,
+      "title": "Simple and effective",
+      "reviewText": "Does exactly what it promises. Build quality is good and the capacity is ideal for home use. I just wish the handle were a bit larger, but that is a small complaint.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-11",
+      "helpfulCount": 154
+    }
   ]
 }

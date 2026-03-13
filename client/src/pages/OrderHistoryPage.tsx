@@ -62,7 +62,7 @@ export default function OrderHistoryPage() {
               </div>
               <div className="sm:text-right flex-shrink-0">
                 <p className="font-bold text-gray-900 text-lg">
-                  ${Number(order.total_amount).toFixed(2)}
+                  ₹{Number(order.total_amount).toFixed(2)}
                 </p>
                 <Link
                   to={`/order-confirmation/${order.id}`}

@@ -1,7 +1,7 @@
 {
   "name": "Samsung Galaxy S25 Ultra",
   "description": "Samsung's ultimate flagship — a 6.9-inch Dynamic AMOLED 2X display, Snapdragon 8 Elite processor, a 200 MP main camera with 100× Space Zoom, and the redesigned integrated S Pen. Built for power users who demand the best of Android without compromise.",
-  "price": 1299.99,
+  "price": 109999,
   "stock": 60,
   "category": "Mobiles",
   "mainImageUrl": "https://picsum.photos/seed/s25ultra/600/600",
@@ -10,39 +10,154 @@
     "https://picsum.photos/seed/s25ultra-3/600/600"
   ],
   "specifications": [
-    { "key": "Display", "value": "6.9-inch Dynamic AMOLED 2X, 1–120 Hz, 3088 × 1440 px, 2600 nits peak" },
-    { "key": "Processor", "value": "Snapdragon 8 Elite for Galaxy" },
-    { "key": "RAM", "value": "12 GB LPDDR5X" },
-    { "key": "Storage", "value": "256 GB / 512 GB / 1 TB UFS 4.0" },
-    { "key": "Rear Cameras", "value": "200 MP main (f/1.7) + 12 MP ultrawide + 10 MP telephoto 3× + 50 MP telephoto 5× (100× Space Zoom)" },
-    { "key": "Front Camera", "value": "12 MP, f/2.2" },
-    { "key": "Battery", "value": "5000 mAh, 45W wired, 15W wireless, 4.5W reverse wireless" },
-    { "key": "OS", "value": "Android 15 with One UI 7, 7 years of OS updates" },
-    { "key": "Connectivity", "value": "5G, Wi-Fi 7, Bluetooth 5.4, NFC, UWB" },
-    { "key": "Stylus", "value": "Integrated S Pen (2nd generation, BLE-free, 2.8 ms latency)" },
-    { "key": "Build", "value": "Corning Gorilla Armor 2 glass, titanium frame" },
-    { "key": "Dimensions", "value": "162.8 × 77.6 × 8.2 mm" },
-    { "key": "Weight", "value": "218 g" },
-    { "key": "Water Resistance", "value": "IP68 (6 m for 30 min)" },
-    { "key": "Colours Available", "value": "Titanium Silverblue, Titanium Black, Titanium Whitesilver, Titanium Gray" }
+    {
+      "key": "Display",
+      "value": "6.9-inch Dynamic AMOLED 2X, 1–120 Hz, 3088 × 1440 px, 2600 nits peak"
+    },
+    {
+      "key": "Processor",
+      "value": "Snapdragon 8 Elite for Galaxy"
+    },
+    {
+      "key": "RAM",
+      "value": "12 GB LPDDR5X"
+    },
+    {
+      "key": "Storage",
+      "value": "256 GB / 512 GB / 1 TB UFS 4.0"
+    },
+    {
+      "key": "Rear Cameras",
+      "value": "200 MP main (f/1.7) + 12 MP ultrawide + 10 MP telephoto 3× + 50 MP telephoto 5× (100× Space Zoom)"
+    },
+    {
+      "key": "Front Camera",
+      "value": "12 MP, f/2.2"
+    },
+    {
+      "key": "Battery",
+      "value": "5000 mAh, 45W wired, 15W wireless, 4.5W reverse wireless"
+    },
+    {
+      "key": "OS",
+      "value": "Android 15 with One UI 7, 7 years of OS updates"
+    },
+    {
+      "key": "Connectivity",
+      "value": "5G, Wi-Fi 7, Bluetooth 5.4, NFC, UWB"
+    },
+    {
+      "key": "Stylus",
+      "value": "Integrated S Pen (2nd generation, BLE-free, 2.8 ms latency)"
+    },
+    {
+      "key": "Build",
+      "value": "Corning Gorilla Armor 2 glass, titanium frame"
+    },
+    {
+      "key": "Dimensions",
+      "value": "162.8 × 77.6 × 8.2 mm"
+    },
+    {
+      "key": "Weight",
+      "value": "218 g"
+    },
+    {
+      "key": "Water Resistance",
+      "value": "IP68 (6 m for 30 min)"
+    },
+    {
+      "key": "Colours Available",
+      "value": "Titanium Silverblue, Titanium Black, Titanium Whitesilver, Titanium Gray"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B0CXS25U01" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (4,512 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#2 in Smartphones" },
-    { "key": "Date First Available", "value": "March 13, 2026" },
-    { "key": "Manufacturer", "value": "Samsung Electronics Co., Ltd., 129 Samsung-ro, Yeongtong-gu, Suwon-si, Korea" },
-    { "key": "Item Weight", "value": "218 g" },
-    { "key": "Product Dimensions", "value": "162.8 × 77.6 × 8.2 mm" },
-    { "key": "Warranty", "value": "1-year limited manufacturer warranty" },
-    { "key": "SIM", "value": "Nano-SIM + eSIM" },
-    { "key": "In the Box", "value": "Galaxy S25 Ultra, USB-C cable, S Pen, ejection pin, documentation" }
+    {
+      "key": "ASIN",
+      "value": "B0CXS25U01"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars (4,512 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#2 in Smartphones"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 13, 2026"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "Samsung Electronics Co., Ltd., 129 Samsung-ro, Yeongtong-gu, Suwon-si, Korea"
+    },
+    {
+      "key": "Item Weight",
+      "value": "218 g"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "162.8 × 77.6 × 8.2 mm"
+    },
+    {
+      "key": "Warranty",
+      "value": "1-year limited manufacturer warranty"
+    },
+    {
+      "key": "SIM",
+      "value": "Nano-SIM + eSIM"
+    },
+    {
+      "key": "In the Box",
+      "value": "Galaxy S25 Ultra, USB-C cable, S Pen, ejection pin, documentation"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Daniel K.", "rating": 5, "title": "The absolute best phone money can buy", "reviewText": "Three years as a Note-series fan and the S25 Ultra continues the legacy brilliantly. The 200 MP sensor captures insane detail and the 100× zoom shots are actually usable. S Pen feels more responsive than ever. This phone does everything.", "verifiedPurchase": true, "reviewDate": "2026-02-20", "helpfulCount": 892 },
-    { "reviewerName": "Lisa H.", "rating": 5, "title": "S Pen is still a game-changer", "reviewText": "I take handwritten notes all day in meetings and the zero-latency S Pen on this screen is unmatched. The display is the best I've seen on any mobile device — vibrant, sharp, and perfectly regulated at any brightness level.", "verifiedPurchase": true, "reviewDate": "2026-03-02", "helpfulCount": 613 },
-    { "reviewerName": "Tom R.", "rating": 4, "title": "Beast of a phone with one caveat", "reviewText": "Snapdragon 8 Elite absolutely screams. Gaming, video editing, 8K shooting — it handles everything without a sweat. The only caveat is the price: at $1,299 it's a significant investment. If you can afford it though, there's nothing better on Android.", "verifiedPurchase": true, "reviewDate": "2026-02-28", "helpfulCount": 478 },
-    { "reviewerName": "Nina P.", "rating": 5, "title": "Zoom camera is legitimately impressive", "reviewText": "I photographed a football match from the stands and the 50× zoom shots looked like I had a press-pass on the pitch. Truly remarkable hardware. One UI 7 is also the most polished Samsung software has ever been.", "verifiedPurchase": true, "reviewDate": "2026-02-14", "helpfulCount": 357 },
-    { "reviewerName": "Carlos M.", "rating": 5, "title": "Worth every penny", "reviewText": "I debated this purchase for two months given the price. After three weeks of daily use I have zero regrets. The display, performance, camera, and S Pen integration make this the most productive phone I've ever owned.", "verifiedPurchase": true, "reviewDate": "2026-03-09", "helpfulCount": 299 }
+    {
+      "reviewerName": "Daniel K.",
+      "rating": 5,
+      "title": "The absolute best phone money can buy",
+      "reviewText": "Three years as a Note-series fan and the S25 Ultra continues the legacy brilliantly. The 200 MP sensor captures insane detail and the 100× zoom shots are actually usable. S Pen feels more responsive than ever. This phone does everything.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-20",
+      "helpfulCount": 892
+    },
+    {
+      "reviewerName": "Lisa H.",
+      "rating": 5,
+      "title": "S Pen is still a game-changer",
+      "reviewText": "I take handwritten notes all day in meetings and the zero-latency S Pen on this screen is unmatched. The display is the best I've seen on any mobile device — vibrant, sharp, and perfectly regulated at any brightness level.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-02",
+      "helpfulCount": 613
+    },
+    {
+      "reviewerName": "Tom R.",
+      "rating": 4,
+      "title": "Beast of a phone with one caveat",
+      "reviewText": "Snapdragon 8 Elite absolutely screams. Gaming, video editing, 8K shooting — it handles everything without a sweat. The only caveat is the price: at $1,299 it's a significant investment. If you can afford it though, there's nothing better on Android.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-28",
+      "helpfulCount": 478
+    },
+    {
+      "reviewerName": "Nina P.",
+      "rating": 5,
+      "title": "Zoom camera is legitimately impressive",
+      "reviewText": "I photographed a football match from the stands and the 50× zoom shots looked like I had a press-pass on the pitch. Truly remarkable hardware. One UI 7 is also the most polished Samsung software has ever been.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-14",
+      "helpfulCount": 357
+    },
+    {
+      "reviewerName": "Carlos M.",
+      "rating": 5,
+      "title": "Worth every penny",
+      "reviewText": "I debated this purchase for two months given the price. After three weeks of daily use I have zero regrets. The display, performance, camera, and S Pen integration make this the most productive phone I've ever owned.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-09",
+      "helpfulCount": 299
+    }
   ]
 }

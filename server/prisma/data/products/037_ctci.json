@@ -1,7 +1,7 @@
 {
   "name": "Cracking the Coding Interview",
   "description": "Gayle Laakmann McDowell's comprehensive guide with 189 programming interview questions and detailed solutions.",
-  "price": 44.99,
+  "price": 3799,
   "stock": 75,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/ctci/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/ctci-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "Gayle Laakmann McDowell" },
-    { "key": "Publisher", "value": "CareerCup" },
-    { "key": "Edition", "value": "6th Edition" },
-    { "key": "Language", "value": "English" },
-    { "key": "Pages", "value": "696" },
-    { "key": "ISBN-13", "value": "978-0984782857" },
-    { "key": "Format", "value": "Paperback" },
-    { "key": "Genre", "value": "Computer Science, Interview Preparation" },
-    { "key": "Reading Level", "value": "Advanced" },
-    { "key": "Publication Year", "value": "2015" }
+    {
+      "key": "Author",
+      "value": "Gayle Laakmann McDowell"
+    },
+    {
+      "key": "Publisher",
+      "value": "CareerCup"
+    },
+    {
+      "key": "Edition",
+      "value": "6th Edition"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Pages",
+      "value": "696"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-0984782857"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Genre",
+      "value": "Computer Science, Interview Preparation"
+    },
+    {
+      "key": "Reading Level",
+      "value": "Advanced"
+    },
+    {
+      "key": "Publication Year",
+      "value": "2015"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B00ZRMV7EG" },
-    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (12,456 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#1 in Books > Programming Interviews" },
-    { "key": "Date First Available", "value": "July 1, 2015" },
-    { "key": "Manufacturer", "value": "CareerCup" },
-    { "key": "Item Weight", "value": "980 grams" },
-    { "key": "Product Dimensions", "value": "17.8 x 3.3 x 25.4 cm" },
-    { "key": "Country of Origin", "value": "United States" },
-    { "key": "Suitable For", "value": "Software engineers, CS graduates" },
-    { "key": "Warranty", "value": "Not applicable" }
+    {
+      "key": "ASIN",
+      "value": "B00ZRMV7EG"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.7 out of 5 stars (12,456 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#1 in Books > Programming Interviews"
+    },
+    {
+      "key": "Date First Available",
+      "value": "July 1, 2015"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "CareerCup"
+    },
+    {
+      "key": "Item Weight",
+      "value": "980 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "17.8 x 3.3 x 25.4 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "United States"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Software engineers, CS graduates"
+    },
+    {
+      "key": "Warranty",
+      "value": "Not applicable"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Alex Kim", "rating": 5, "title": "The gold standard for coding interviews", "reviewText": "This book has everything you need to prepare for FAANG-level coding interviews. The explanations are thorough and the breadth of problems covered is impressive. I used it for three months before landing my current job.", "verifiedPurchase": true, "reviewDate": "2024-11-01", "helpfulCount": 1876 },
-    { "reviewerName": "Divya Nair", "rating": 5, "title": "Essential interview prep resource", "reviewText": "Systematically covers data structures, algorithms, system design, and behavioural questions. The big-O complexity explanations alone are worth the price. A must-own for anyone in software.", "verifiedPurchase": true, "reviewDate": "2024-08-17", "helpfulCount": 1234 },
-    { "reviewerName": "Ryan O'Brien", "rating": 4, "title": "Comprehensive but very dense", "reviewText": "Incredible depth of content. Some solutions could be explained more clearly but the sheer number of quality problems makes it indispensable for interview prep. Takes time but pays off.", "verifiedPurchase": true, "reviewDate": "2024-07-03", "helpfulCount": 892 }
+    {
+      "reviewerName": "Alex Kim",
+      "rating": 5,
+      "title": "The gold standard for coding interviews",
+      "reviewText": "This book has everything you need to prepare for FAANG-level coding interviews. The explanations are thorough and the breadth of problems covered is impressive. I used it for three months before landing my current job.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-01",
+      "helpfulCount": 1876
+    },
+    {
+      "reviewerName": "Divya Nair",
+      "rating": 5,
+      "title": "Essential interview prep resource",
+      "reviewText": "Systematically covers data structures, algorithms, system design, and behavioural questions. The big-O complexity explanations alone are worth the price. A must-own for anyone in software.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-17",
+      "helpfulCount": 1234
+    },
+    {
+      "reviewerName": "Ryan O'Brien",
+      "rating": 4,
+      "title": "Comprehensive but very dense",
+      "reviewText": "Incredible depth of content. Some solutions could be explained more clearly but the sheer number of quality problems makes it indispensable for interview prep. Takes time but pays off.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-07-03",
+      "helpfulCount": 892
+    }
   ]
 }

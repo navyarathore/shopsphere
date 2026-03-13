@@ -318,7 +318,7 @@ function GiftCardVisual({ card, selectedAmount, onSelectAmount, onAdd }: GiftCar
           className="absolute bottom-4 right-5 text-sm font-extrabold px-3 py-1 rounded-full shadow"
           style={{ background: card.accentColor, color: card.gradientFrom }}
         >
-          ${selectedAmount}
+          ₹{selectedAmount}
         </div>
       </div>
 
@@ -334,7 +334,7 @@ function GiftCardVisual({ card, selectedAmount, onSelectAmount, onAdd }: GiftCar
                 : 'bg-white border-gray-200 text-gray-600 hover:border-amber-400'
             }`}
           >
-            ${amt}
+            ₹{amt}
           </button>
         ))}
       </div>
@@ -344,7 +344,7 @@ function GiftCardVisual({ card, selectedAmount, onSelectAmount, onAdd }: GiftCar
         onClick={onAdd}
         className="w-full bg-amber-400 hover:bg-amber-300 active:scale-95 text-gray-900 font-extrabold text-sm py-2.5 rounded-full transition-all shadow hover:shadow-md"
       >
-        🎁 Add to Cart — ${selectedAmount}
+        🎁 Add to Cart — ₹{selectedAmount}
       </button>
     </div>
   )
@@ -370,7 +370,7 @@ function OccasionSection({ occasion }: { occasion: Occasion }) {
       main_image_url: '',
       category_name: 'Gift Cards',
       stock: 99,
-      description: `${card.tagline} — $${amount} gift card`,
+      description: `${card.tagline} — ₹${amount} gift card`,
     } as never)
     setAddedIds((prev) => new Set(prev).add(card.id))
     setTimeout(() => setAddedIds((prev) => { const s = new Set(prev); s.delete(card.id); return s }), 1800)

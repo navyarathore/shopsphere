@@ -1,7 +1,7 @@
 {
   "name": "Stainless Steel Cookware Set 10-Piece",
   "description": "Tri-ply stainless steel pots and pans set compatible with all cooktops including induction. Oven safe to 260°C.",
-  "price": 129.99,
+  "price": 10999,
   "stock": 30,
   "category": "Home & Kitchen",
   "mainImageUrl": "https://picsum.photos/seed/cookware/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/cookware-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "KitchenCraft Pro" },
-    { "key": "Material", "value": "Tri-ply Stainless Steel" },
-    { "key": "Piece Count", "value": "10 Pieces" },
-    { "key": "Cooktop Compatibility", "value": "Gas, Electric, Ceramic, Induction" },
-    { "key": "Oven Safe", "value": "Up to 260°C" },
-    { "key": "Dishwasher Safe", "value": "Yes" },
-    { "key": "Handle Type", "value": "Riveted Stay-Cool Handles" },
-    { "key": "Finish", "value": "Brushed Stainless Steel" },
-    { "key": "Lid Material", "value": "Tempered Glass" },
-    { "key": "Weight", "value": "8.4 kg" }
+    {
+      "key": "Brand",
+      "value": "KitchenCraft Pro"
+    },
+    {
+      "key": "Material",
+      "value": "Tri-ply Stainless Steel"
+    },
+    {
+      "key": "Piece Count",
+      "value": "10 Pieces"
+    },
+    {
+      "key": "Cooktop Compatibility",
+      "value": "Gas, Electric, Ceramic, Induction"
+    },
+    {
+      "key": "Oven Safe",
+      "value": "Up to 260°C"
+    },
+    {
+      "key": "Dishwasher Safe",
+      "value": "Yes"
+    },
+    {
+      "key": "Handle Type",
+      "value": "Riveted Stay-Cool Handles"
+    },
+    {
+      "key": "Finish",
+      "value": "Brushed Stainless Steel"
+    },
+    {
+      "key": "Lid Material",
+      "value": "Tempered Glass"
+    },
+    {
+      "key": "Weight",
+      "value": "8.4 kg"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09CKWR10P" },
-    { "key": "Customer Reviews", "value": "4.6 out of 5 stars (2,184 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#12 in Home & Kitchen > Cookware Sets" },
-    { "key": "Date First Available", "value": "March 11, 2024" },
-    { "key": "Manufacturer", "value": "KitchenCraft Pro, Chicago, Illinois 60607" },
-    { "key": "Item Weight", "value": "8.4 kg" },
-    { "key": "Product Dimensions", "value": "56 x 34 x 24 cm" },
-    { "key": "Dishwasher Safe", "value": "Yes" },
-    { "key": "Item Model Number", "value": "KCP-SS10" },
-    { "key": "Warranty", "value": "5 years manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09CKWR10P"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.6 out of 5 stars (2,184 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#12 in Home & Kitchen > Cookware Sets"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 11, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "KitchenCraft Pro, Chicago, Illinois 60607"
+    },
+    {
+      "key": "Item Weight",
+      "value": "8.4 kg"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "56 x 34 x 24 cm"
+    },
+    {
+      "key": "Dishwasher Safe",
+      "value": "Yes"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "KCP-SS10"
+    },
+    {
+      "key": "Warranty",
+      "value": "5 years manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Neha Kapoor", "rating": 5, "title": "Excellent quality cookware set", "reviewText": "This set looks premium and cooks evenly on my induction stove. The pans heat quickly, the handles stay comfortable, and cleanup is easier than expected. A strong upgrade from my old non-stick set.", "verifiedPurchase": true, "reviewDate": "2024-11-19", "helpfulCount": 486 },
-    { "reviewerName": "Brian Foster", "rating": 5, "title": "Worth the investment", "reviewText": "Solid construction, good weight, and excellent performance across all pieces. I especially like the even heating and oven-safe design. Feels like a set that will last for years.", "verifiedPurchase": true, "reviewDate": "2024-10-02", "helpfulCount": 329 },
-    { "reviewerName": "Amelia Ross", "rating": 4, "title": "Very good set with minor drawbacks", "reviewText": "Great cookware overall. The stainless finish is beautiful and cooking results are excellent. Food can stick if you are not used to stainless steel, but once you learn the technique it works really well.", "verifiedPurchase": true, "reviewDate": "2024-08-26", "helpfulCount": 211 }
+    {
+      "reviewerName": "Neha Kapoor",
+      "rating": 5,
+      "title": "Excellent quality cookware set",
+      "reviewText": "This set looks premium and cooks evenly on my induction stove. The pans heat quickly, the handles stay comfortable, and cleanup is easier than expected. A strong upgrade from my old non-stick set.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-19",
+      "helpfulCount": 486
+    },
+    {
+      "reviewerName": "Brian Foster",
+      "rating": 5,
+      "title": "Worth the investment",
+      "reviewText": "Solid construction, good weight, and excellent performance across all pieces. I especially like the even heating and oven-safe design. Feels like a set that will last for years.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-02",
+      "helpfulCount": 329
+    },
+    {
+      "reviewerName": "Amelia Ross",
+      "rating": 4,
+      "title": "Very good set with minor drawbacks",
+      "reviewText": "Great cookware overall. The stainless finish is beautiful and cooking results are excellent. Food can stick if you are not used to stainless steel, but once you learn the technique it works really well.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-26",
+      "helpfulCount": 211
+    }
   ]
 }

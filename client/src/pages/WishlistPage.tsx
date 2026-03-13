@@ -87,7 +87,7 @@ export default function WishlistPage() {
                 )}
 
                 <p className="text-lg font-bold text-gray-900 mt-auto mb-3">
-                  ${item.price.toFixed(2)}
+                  ₹{item.price.toFixed(2)}
                 </p>
 
                 <p className={`text-xs mb-3 ${item.stock > 0 ? 'text-green-600' : 'text-red-500'}`}>

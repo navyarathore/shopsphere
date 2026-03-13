@@ -90,15 +90,11 @@ export default function OrderConfirmationPage() {
                     {item.name}
                   </p>
                   <p className="text-xs text-gray-500">
-                    Qty: {item.quantity} × $
-                    {Number(item.price_at_purchase).toFixed(2)}
+                    Qty: {item.quantity} × ₹{Number(item.price_at_purchase).toFixed(2)}
                   </p>
                 </div>
                 <p className="text-sm font-semibold text-gray-800 flex-shrink-0">
-                  $
-                  {(
-                    Number(item.price_at_purchase) * item.quantity
-                  ).toFixed(2)}
+                  ₹{(Number(item.price_at_purchase) * item.quantity).toFixed(2)}
                 </p>
               </li>
             ))}
@@ -106,7 +102,7 @@ export default function OrderConfirmationPage() {
 
           <div className="border-t border-gray-200 mt-3 pt-3 flex justify-between font-bold text-gray-900">
             <span>Order Total</span>
-            <span>${Number(order.total_amount).toFixed(2)}</span>
+            <span>₹{Number(order.total_amount).toFixed(2)}</span>
           </div>
         </div>
 

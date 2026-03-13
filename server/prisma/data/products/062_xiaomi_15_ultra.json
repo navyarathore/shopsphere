@@ -1,7 +1,7 @@
 {
   "name": "Xiaomi 15 Ultra",
   "description": "Xiaomi's ultimate flagship combines a Leica Summilux quad-camera system headlined by a 200 MP 1-inch main sensor, Snapdragon 8 Elite, a stunning 6.73-inch OLED display, and 90W wireless charging — all in a titanium-framed body. The most camera-centric Android flagship available today.",
-  "price": 1099.00,
+  "price": 89999,
   "stock": 40,
   "category": "Mobiles",
   "mainImageUrl": "https://picsum.photos/seed/xiaomi15ultra/600/600",
@@ -10,39 +10,154 @@
     "https://picsum.photos/seed/xiaomi15ultra-3/600/600"
   ],
   "specifications": [
-    { "key": "Display", "value": "6.73-inch OLED, 1–120 Hz LTPO, 3200 × 1440 px, 3000 nits peak" },
-    { "key": "Processor", "value": "Snapdragon 8 Elite" },
-    { "key": "RAM", "value": "16 GB LPDDR5X" },
-    { "key": "Storage", "value": "256 GB / 512 GB / 1 TB UFS 4.0" },
-    { "key": "Rear Cameras", "value": "200 MP 1\" main Leica Summilux (f/1.63) + 50 MP ultrawide (f/1.8) + 50 MP periscope telephoto 3× + 50 MP telephoto 5×" },
-    { "key": "Front Camera", "value": "32 MP, f/2.0" },
-    { "key": "Battery", "value": "5500 mAh, 90W HyperCharge wired, 90W wireless, 10W reverse wireless" },
-    { "key": "OS", "value": "HyperOS 2 (Android 15), 4 years OS + 5 years security updates" },
-    { "key": "Connectivity", "value": "5G, Wi-Fi 7, Bluetooth 5.4, NFC, UWB, IR blaster" },
-    { "key": "Build", "value": "Micro-curved OLED with Xiaomi Dragon Crystal glass, titanium frame, eco-leather back" },
-    { "key": "Dimensions", "value": "161.3 × 75.3 × 9.5 mm" },
-    { "key": "Weight", "value": "227 g" },
-    { "key": "Water Resistance", "value": "IP68 (6 m for 30 min)" },
-    { "key": "Colours Available", "value": "Black, White, Titanium" },
-    { "key": "Charging Port", "value": "USB-C 3.2 Gen 2" }
+    {
+      "key": "Display",
+      "value": "6.73-inch OLED, 1–120 Hz LTPO, 3200 × 1440 px, 3000 nits peak"
+    },
+    {
+      "key": "Processor",
+      "value": "Snapdragon 8 Elite"
+    },
+    {
+      "key": "RAM",
+      "value": "16 GB LPDDR5X"
+    },
+    {
+      "key": "Storage",
+      "value": "256 GB / 512 GB / 1 TB UFS 4.0"
+    },
+    {
+      "key": "Rear Cameras",
+      "value": "200 MP 1\" main Leica Summilux (f/1.63) + 50 MP ultrawide (f/1.8) + 50 MP periscope telephoto 3× + 50 MP telephoto 5×"
+    },
+    {
+      "key": "Front Camera",
+      "value": "32 MP, f/2.0"
+    },
+    {
+      "key": "Battery",
+      "value": "5500 mAh, 90W HyperCharge wired, 90W wireless, 10W reverse wireless"
+    },
+    {
+      "key": "OS",
+      "value": "HyperOS 2 (Android 15), 4 years OS + 5 years security updates"
+    },
+    {
+      "key": "Connectivity",
+      "value": "5G, Wi-Fi 7, Bluetooth 5.4, NFC, UWB, IR blaster"
+    },
+    {
+      "key": "Build",
+      "value": "Micro-curved OLED with Xiaomi Dragon Crystal glass, titanium frame, eco-leather back"
+    },
+    {
+      "key": "Dimensions",
+      "value": "161.3 × 75.3 × 9.5 mm"
+    },
+    {
+      "key": "Weight",
+      "value": "227 g"
+    },
+    {
+      "key": "Water Resistance",
+      "value": "IP68 (6 m for 30 min)"
+    },
+    {
+      "key": "Colours Available",
+      "value": "Black, White, Titanium"
+    },
+    {
+      "key": "Charging Port",
+      "value": "USB-C 3.2 Gen 2"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B0CX15ULT1" },
-    { "key": "Customer Reviews", "value": "4.8 out of 5 stars (1,943 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#3 in Smartphones" },
-    { "key": "Date First Available", "value": "March 13, 2026" },
-    { "key": "Manufacturer", "value": "Xiaomi Corporation, No. 68 Qinghe Middle Street, Haidian District, Beijing, China" },
-    { "key": "Item Weight", "value": "227 g" },
-    { "key": "Product Dimensions", "value": "161.3 × 75.3 × 9.5 mm" },
-    { "key": "Warranty", "value": "1-year limited manufacturer warranty" },
-    { "key": "SIM", "value": "Nano-SIM + eSIM" },
-    { "key": "In the Box", "value": "Xiaomi 15 Ultra, 90W HyperCharge adapter, USB-C cable, protective case, SIM tool" }
+    {
+      "key": "ASIN",
+      "value": "B0CX15ULT1"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.8 out of 5 stars (1,943 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#3 in Smartphones"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 13, 2026"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "Xiaomi Corporation, No. 68 Qinghe Middle Street, Haidian District, Beijing, China"
+    },
+    {
+      "key": "Item Weight",
+      "value": "227 g"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "161.3 × 75.3 × 9.5 mm"
+    },
+    {
+      "key": "Warranty",
+      "value": "1-year limited manufacturer warranty"
+    },
+    {
+      "key": "SIM",
+      "value": "Nano-SIM + eSIM"
+    },
+    {
+      "key": "In the Box",
+      "value": "Xiaomi 15 Ultra, 90W HyperCharge adapter, USB-C cable, protective case, SIM tool"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Arjun S.", "rating": 5, "title": "The best mobile camera system in existence", "reviewText": "I've been a hobbyist photographer for 10 years and the Leica quad-camera system on this phone has me leaving my mirrorless at home. The 1-inch sensor in low light is extraordinary. 90W wireless charging is magic.", "verifiedPurchase": true, "reviewDate": "2026-02-21", "helpfulCount": 764 },
-    { "reviewerName": "Hana K.", "rating": 5, "title": "Absolutely stunning photographs", "reviewText": "The Leica colour science gives photos a film-like quality that no other phone can replicate. The 5× telephoto is tack-sharp even in difficult lighting. This is the phone for anyone who takes photography seriously.", "verifiedPurchase": true, "reviewDate": "2026-03-01", "helpfulCount": 592 },
-    { "reviewerName": "Marcus T.", "rating": 4, "title": "Incredible hardware, HyperOS learning curve", "reviewText": "The hardware is objectively the best available in 2026. HyperOS 2 takes a few days to get used to if you're coming from stock Android or iOS, but once you know where everything is it's actually very capable. Don't let the UI put you off.", "verifiedPurchase": true, "reviewDate": "2026-02-16", "helpfulCount": 418 },
-    { "reviewerName": "Sonja R.", "rating": 5, "title": "90W wireless charging changed my life", "reviewText": "I charge this wirelessly in under an hour. The concept of slow wireless charging is dead. Combined with the 5500 mAh battery, I have never once run out of charge on this phone. Plus, the camera is genuinely extraordinary.", "verifiedPurchase": true, "reviewDate": "2026-03-07", "helpfulCount": 326 },
-    { "reviewerName": "Patrick H.", "rating": 4, "title": "Heavy but worth it", "reviewText": "At 227 g it's the heaviest phone I've owned. After a few days you barely notice. What you do notice is the insane camera system producing stunning results in every scenario — night mode, portraits, macro, landscapes. A true camera phone.", "verifiedPurchase": true, "reviewDate": "2026-02-26", "helpfulCount": 247 }
+    {
+      "reviewerName": "Arjun S.",
+      "rating": 5,
+      "title": "The best mobile camera system in existence",
+      "reviewText": "I've been a hobbyist photographer for 10 years and the Leica quad-camera system on this phone has me leaving my mirrorless at home. The 1-inch sensor in low light is extraordinary. 90W wireless charging is magic.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-21",
+      "helpfulCount": 764
+    },
+    {
+      "reviewerName": "Hana K.",
+      "rating": 5,
+      "title": "Absolutely stunning photographs",
+      "reviewText": "The Leica colour science gives photos a film-like quality that no other phone can replicate. The 5× telephoto is tack-sharp even in difficult lighting. This is the phone for anyone who takes photography seriously.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-01",
+      "helpfulCount": 592
+    },
+    {
+      "reviewerName": "Marcus T.",
+      "rating": 4,
+      "title": "Incredible hardware, HyperOS learning curve",
+      "reviewText": "The hardware is objectively the best available in 2026. HyperOS 2 takes a few days to get used to if you're coming from stock Android or iOS, but once you know where everything is it's actually very capable. Don't let the UI put you off.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-16",
+      "helpfulCount": 418
+    },
+    {
+      "reviewerName": "Sonja R.",
+      "rating": 5,
+      "title": "90W wireless charging changed my life",
+      "reviewText": "I charge this wirelessly in under an hour. The concept of slow wireless charging is dead. Combined with the 5500 mAh battery, I have never once run out of charge on this phone. Plus, the camera is genuinely extraordinary.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-07",
+      "helpfulCount": 326
+    },
+    {
+      "reviewerName": "Patrick H.",
+      "rating": 4,
+      "title": "Heavy but worth it",
+      "reviewText": "At 227 g it's the heaviest phone I've owned. After a few days you barely notice. What you do notice is the insane camera system producing stunning results in every scenario — night mode, portraits, macro, landscapes. A true camera phone.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-26",
+      "helpfulCount": 247
+    }
   ]
 }

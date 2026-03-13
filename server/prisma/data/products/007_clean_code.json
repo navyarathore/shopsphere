@@ -1,7 +1,7 @@
 {
   "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
   "description": "Robert C. Martin's guide to writing readable, maintainable, and testable code. Essential for every developer.",
-  "price": 34.99,
+  "price": 2899,
   "stock": 120,
   "category": "Books",
   "mainImageUrl": "https://picsum.photos/seed/cleancode/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/cleancode-3/600/600"
   ],
   "specifications": [
-    { "key": "Author", "value": "Robert C. Martin" },
-    { "key": "Publisher", "value": "Prentice Hall" },
-    { "key": "Language", "value": "English" },
-    { "key": "Format", "value": "Paperback" },
-    { "key": "Pages", "value": "464" },
-    { "key": "ISBN-10", "value": "0132350882" },
-    { "key": "ISBN-13", "value": "978-0132350884" },
-    { "key": "Dimensions", "value": "17.8 x 3 x 23.4 cm" },
-    { "key": "Publication Date", "value": "August 1, 2008" },
-    { "key": "Genre", "value": "Software Engineering" }
+    {
+      "key": "Author",
+      "value": "Robert C. Martin"
+    },
+    {
+      "key": "Publisher",
+      "value": "Prentice Hall"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Pages",
+      "value": "464"
+    },
+    {
+      "key": "ISBN-10",
+      "value": "0132350882"
+    },
+    {
+      "key": "ISBN-13",
+      "value": "978-0132350884"
+    },
+    {
+      "key": "Dimensions",
+      "value": "17.8 x 3 x 23.4 cm"
+    },
+    {
+      "key": "Publication Date",
+      "value": "August 1, 2008"
+    },
+    {
+      "key": "Genre",
+      "value": "Software Engineering"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B00MHTAEG0" },
-    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (9,214 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#4 in Books > Programming" },
-    { "key": "Date First Available", "value": "August 1, 2008" },
-    { "key": "Publisher", "value": "Prentice Hall" },
-    { "key": "Language", "value": "English" },
-    { "key": "Item Weight", "value": "780 grams" },
-    { "key": "Product Dimensions", "value": "17.8 x 3 x 23.4 cm" },
-    { "key": "Country of Origin", "value": "United States" },
-    { "key": "Edition", "value": "1st Edition" }
+    {
+      "key": "ASIN",
+      "value": "B00MHTAEG0"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.7 out of 5 stars (9,214 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#4 in Books > Programming"
+    },
+    {
+      "key": "Date First Available",
+      "value": "August 1, 2008"
+    },
+    {
+      "key": "Publisher",
+      "value": "Prentice Hall"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    },
+    {
+      "key": "Item Weight",
+      "value": "780 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "17.8 x 3 x 23.4 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "United States"
+    },
+    {
+      "key": "Edition",
+      "value": "1st Edition"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Priya N.", "rating": 5, "title": "A must-read for every developer", "reviewText": "This book changed how I write software. The examples are practical, the explanations are clear, and the principles are timeless. I started refactoring old code at work after reading just a few chapters. One of the most valuable programming books I own.", "verifiedPurchase": true, "reviewDate": "2024-11-04", "helpfulCount": 812 },
-    { "reviewerName": "Daniel Brooks", "rating": 5, "title": "Timeless engineering advice", "reviewText": "Even though some code samples are in Java, the lessons apply across languages. Naming, functions, testing, and refactoring are explained in a way that makes you immediately rethink your habits. Excellent book for both juniors and seniors.", "verifiedPurchase": true, "reviewDate": "2024-10-12", "helpfulCount": 563 },
-    { "reviewerName": "Samantha Lee", "rating": 4, "title": "Dense but worth the effort", "reviewText": "Some chapters feel heavy if you are new to software engineering, but the content is outstanding. I found the sections on code smells and refactoring especially useful. Definitely worth reading slowly and revisiting often.", "verifiedPurchase": true, "reviewDate": "2024-09-07", "helpfulCount": 344 }
+    {
+      "reviewerName": "Priya N.",
+      "rating": 5,
+      "title": "A must-read for every developer",
+      "reviewText": "This book changed how I write software. The examples are practical, the explanations are clear, and the principles are timeless. I started refactoring old code at work after reading just a few chapters. One of the most valuable programming books I own.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-04",
+      "helpfulCount": 812
+    },
+    {
+      "reviewerName": "Daniel Brooks",
+      "rating": 5,
+      "title": "Timeless engineering advice",
+      "reviewText": "Even though some code samples are in Java, the lessons apply across languages. Naming, functions, testing, and refactoring are explained in a way that makes you immediately rethink your habits. Excellent book for both juniors and seniors.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-12",
+      "helpfulCount": 563
+    },
+    {
+      "reviewerName": "Samantha Lee",
+      "rating": 4,
+      "title": "Dense but worth the effort",
+      "reviewText": "Some chapters feel heavy if you are new to software engineering, but the content is outstanding. I found the sections on code smells and refactoring especially useful. Definitely worth reading slowly and revisiting often.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-07",
+      "helpfulCount": 344
+    }
   ]
 }

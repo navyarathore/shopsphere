@@ -1,7 +1,7 @@
 {
   "name": "Smart LED Desk Lamp",
   "description": "Touch-controlled desk lamp with 5 colour temperatures, USB-A charging port, auto-dimming, and eye-care mode.",
-  "price": 29.99,
+  "price": 2499,
   "stock": 80,
   "category": "Electronics",
   "mainImageUrl": "https://picsum.photos/seed/desklamp/600/600",
@@ -10,39 +10,154 @@
     "https://picsum.photos/seed/desklamp-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "LuminaTech" },
-    { "key": "Model", "value": "LT-DL500" },
-    { "key": "LED Type", "value": "SMD LED" },
-    { "key": "Color Temperature Range", "value": "3000K - 6500K (5 Levels)" },
-    { "key": "Brightness Levels", "value": "Stepless Dimming" },
-    { "key": "Power Consumption", "value": "12W" },
-    { "key": "Lumens", "value": "600 lm" },
-    { "key": "CRI (Color Rendering Index)", "value": ">90" },
-    { "key": "Control Type", "value": "Touch Controls" },
-    { "key": "Special Features", "value": "Auto-dimming, Eye-care Mode, Memory Function" },
-    { "key": "USB Charging Port", "value": "USB-A 5V/1A" },
-    { "key": "Adjustability", "value": "Multi-angle Arm" },
-    { "key": "Power Input", "value": "12V DC Adapter" },
-    { "key": "LED Lifespan", "value": "50,000 Hours" },
-    { "key": "Colour", "value": "Silver/White" }
+    {
+      "key": "Brand",
+      "value": "LuminaTech"
+    },
+    {
+      "key": "Model",
+      "value": "LT-DL500"
+    },
+    {
+      "key": "LED Type",
+      "value": "SMD LED"
+    },
+    {
+      "key": "Color Temperature Range",
+      "value": "3000K - 6500K (5 Levels)"
+    },
+    {
+      "key": "Brightness Levels",
+      "value": "Stepless Dimming"
+    },
+    {
+      "key": "Power Consumption",
+      "value": "12W"
+    },
+    {
+      "key": "Lumens",
+      "value": "600 lm"
+    },
+    {
+      "key": "CRI (Color Rendering Index)",
+      "value": ">90"
+    },
+    {
+      "key": "Control Type",
+      "value": "Touch Controls"
+    },
+    {
+      "key": "Special Features",
+      "value": "Auto-dimming, Eye-care Mode, Memory Function"
+    },
+    {
+      "key": "USB Charging Port",
+      "value": "USB-A 5V/1A"
+    },
+    {
+      "key": "Adjustability",
+      "value": "Multi-angle Arm"
+    },
+    {
+      "key": "Power Input",
+      "value": "12V DC Adapter"
+    },
+    {
+      "key": "LED Lifespan",
+      "value": "50,000 Hours"
+    },
+    {
+      "key": "Colour",
+      "value": "Silver/White"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09DL5678X" },
-    { "key": "Customer Reviews", "value": "4.5 out of 5 stars (1,567 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#7 in Home & Kitchen > Desk Lamps" },
-    { "key": "Date First Available", "value": "May 18, 2024" },
-    { "key": "Manufacturer", "value": "LuminaTech Solutions, 147 Bright Avenue, Seattle, Washington 98101" },
-    { "key": "Item Weight", "value": "680 grams" },
-    { "key": "Product Dimensions", "value": "45 x 15 x 40 cm (extended)" },
-    { "key": "Batteries", "value": "Not required (AC adapter included)" },
-    { "key": "Item Model Number", "value": "LT-DL500" },
-    { "key": "Warranty", "value": "2 years manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09DL5678X"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.5 out of 5 stars (1,567 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#7 in Home & Kitchen > Desk Lamps"
+    },
+    {
+      "key": "Date First Available",
+      "value": "May 18, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "LuminaTech Solutions, 147 Bright Avenue, Seattle, Washington 98101"
+    },
+    {
+      "key": "Item Weight",
+      "value": "680 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "45 x 15 x 40 cm (extended)"
+    },
+    {
+      "key": "Batteries",
+      "value": "Not required (AC adapter included)"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "LT-DL500"
+    },
+    {
+      "key": "Warranty",
+      "value": "2 years manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Nathan Harris", "rating": 5, "title": "Perfect desk lamp", "reviewText": "This lamp is exactly what I needed for my home office. The 5 color temperatures let me adjust based on time of day. Auto-dimming works well and the USB charging port is super convenient. Build quality feels premium and the touch controls are responsive. Highly recommend!", "verifiedPurchase": true, "reviewDate": "2024-10-20", "helpfulCount": 456 },
-    { "reviewerName": "Jessica Taylor", "rating": 5, "title": "Eye-care mode is a game changer", "reviewText": "Love this lamp! The eye-care mode really reduces strain during long work sessions. Being able to adjust color temperature and brightness with touch controls is so convenient. The USB port is perfect for charging my phone. Sleek design looks great on my desk too.", "verifiedPurchase": true, "reviewDate": "2024-09-08", "helpfulCount": 387 },
-    { "reviewerName": "Brian Clark", "rating": 4, "title": "Great lamp with useful features", "reviewText": "Very happy with this lamp. Adjustable color temperature is useful for different tasks. The dimming feature works smoothly. USB port is a nice addition. Only wish the arm had more flexibility for positioning. But overall, excellent value for a smart desk lamp.", "verifiedPurchase": true, "reviewDate": "2024-11-15", "helpfulCount": 298 },
-    { "reviewerName": "Michelle Davis", "rating": 5, "title": "Excellent for reading and work", "reviewText": "This lamp has transformed my workspace. The different lighting modes are perfect - cool white for work, warm for evening reading. Touch controls are intuitive and the auto-dimming actually works well. Sturdy base and good build quality. Worth the investment!", "verifiedPurchase": true, "reviewDate": "2024-08-17", "helpfulCount": 267 },
-    { "reviewerName": "Andrew Moore", "rating": 5, "title": "Best desk lamp I've owned", "reviewText": "Simple, functional, and well-designed. The 5 color temperature settings cover all my needs. Eye-care mode genuinely helps reduce fatigue. USB charging port is convenient for keeping my devices topped up. The lamp is stable and the touch controls are reliable. Great product!", "verifiedPurchase": true, "reviewDate": "2024-12-02", "helpfulCount": 234 }
+    {
+      "reviewerName": "Nathan Harris",
+      "rating": 5,
+      "title": "Perfect desk lamp",
+      "reviewText": "This lamp is exactly what I needed for my home office. The 5 color temperatures let me adjust based on time of day. Auto-dimming works well and the USB charging port is super convenient. Build quality feels premium and the touch controls are responsive. Highly recommend!",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-10-20",
+      "helpfulCount": 456
+    },
+    {
+      "reviewerName": "Jessica Taylor",
+      "rating": 5,
+      "title": "Eye-care mode is a game changer",
+      "reviewText": "Love this lamp! The eye-care mode really reduces strain during long work sessions. Being able to adjust color temperature and brightness with touch controls is so convenient. The USB port is perfect for charging my phone. Sleek design looks great on my desk too.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-08",
+      "helpfulCount": 387
+    },
+    {
+      "reviewerName": "Brian Clark",
+      "rating": 4,
+      "title": "Great lamp with useful features",
+      "reviewText": "Very happy with this lamp. Adjustable color temperature is useful for different tasks. The dimming feature works smoothly. USB port is a nice addition. Only wish the arm had more flexibility for positioning. But overall, excellent value for a smart desk lamp.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-15",
+      "helpfulCount": 298
+    },
+    {
+      "reviewerName": "Michelle Davis",
+      "rating": 5,
+      "title": "Excellent for reading and work",
+      "reviewText": "This lamp has transformed my workspace. The different lighting modes are perfect - cool white for work, warm for evening reading. Touch controls are intuitive and the auto-dimming actually works well. Sturdy base and good build quality. Worth the investment!",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-17",
+      "helpfulCount": 267
+    },
+    {
+      "reviewerName": "Andrew Moore",
+      "rating": 5,
+      "title": "Best desk lamp I've owned",
+      "reviewText": "Simple, functional, and well-designed. The 5 color temperature settings cover all my needs. Eye-care mode genuinely helps reduce fatigue. USB charging port is convenient for keeping my devices topped up. The lamp is stable and the touch controls are reliable. Great product!",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-12-02",
+      "helpfulCount": 234
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Men's Running Shorts",
   "description": "Lightweight 5-inch inseam running shorts with built-in liner, back zip pocket, and reflective trim.",
-  "price": 22.99,
+  "price": 1899,
   "stock": 110,
   "category": "Clothing",
   "mainImageUrl": "https://picsum.photos/seed/runningshorts/600/600",
@@ -10,32 +10,116 @@
     "https://picsum.photos/seed/runningshorts-3/600/600"
   ],
   "specifications": [
-    { "key": "Brand", "value": "SwiftRun" },
-    { "key": "Material", "value": "Lightweight Polyester" },
-    { "key": "Inseam", "value": "5 Inches" },
-    { "key": "Liner", "value": "Built-in Liner" },
-    { "key": "Pocket", "value": "Rear Zip Pocket" },
-    { "key": "Waistband", "value": "Elastic with Drawcord" },
-    { "key": "Reflective Trim", "value": "Yes" },
-    { "key": "Breathability", "value": "High" },
-    { "key": "Care Instructions", "value": "Machine Washable" },
-    { "key": "Weight", "value": "180 grams" }
+    {
+      "key": "Brand",
+      "value": "SwiftRun"
+    },
+    {
+      "key": "Material",
+      "value": "Lightweight Polyester"
+    },
+    {
+      "key": "Inseam",
+      "value": "5 Inches"
+    },
+    {
+      "key": "Liner",
+      "value": "Built-in Liner"
+    },
+    {
+      "key": "Pocket",
+      "value": "Rear Zip Pocket"
+    },
+    {
+      "key": "Waistband",
+      "value": "Elastic with Drawcord"
+    },
+    {
+      "key": "Reflective Trim",
+      "value": "Yes"
+    },
+    {
+      "key": "Breathability",
+      "value": "High"
+    },
+    {
+      "key": "Care Instructions",
+      "value": "Machine Washable"
+    },
+    {
+      "key": "Weight",
+      "value": "180 grams"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B09RUNSHRT" },
-    { "key": "Customer Reviews", "value": "4.4 out of 5 stars (2,986 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#11 in Clothing > Men's Running Apparel" },
-    { "key": "Date First Available", "value": "April 11, 2024" },
-    { "key": "Manufacturer", "value": "SwiftRun Sportswear, Austin, Texas 78703" },
-    { "key": "Item Weight", "value": "180 grams" },
-    { "key": "Product Dimensions", "value": "24 x 18 x 2 cm" },
-    { "key": "Country of Origin", "value": "Indonesia" },
-    { "key": "Item Model Number", "value": "SR-SHORT5" },
-    { "key": "Warranty", "value": "30-day manufacturer warranty" }
+    {
+      "key": "ASIN",
+      "value": "B09RUNSHRT"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.4 out of 5 stars (2,986 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#11 in Clothing > Men's Running Apparel"
+    },
+    {
+      "key": "Date First Available",
+      "value": "April 11, 2024"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "SwiftRun Sportswear, Austin, Texas 78703"
+    },
+    {
+      "key": "Item Weight",
+      "value": "180 grams"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "24 x 18 x 2 cm"
+    },
+    {
+      "key": "Country of Origin",
+      "value": "Indonesia"
+    },
+    {
+      "key": "Item Model Number",
+      "value": "SR-SHORT5"
+    },
+    {
+      "key": "Warranty",
+      "value": "30-day manufacturer warranty"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Tyler Brooks", "rating": 5, "title": "Light and perfect for running", "reviewText": "These shorts are breathable and comfortable even on longer runs. The liner feels supportive without being restrictive, and the zip pocket is handy for a key or card.", "verifiedPurchase": true, "reviewDate": "2024-11-09", "helpfulCount": 291 },
-    { "reviewerName": "Karan Malhotra", "rating": 4, "title": "Great shorts for training", "reviewText": "Very lightweight and they dry quickly after sweaty workouts. Fit is athletic and the waistband stays secure. I would buy another pair.", "verifiedPurchase": true, "reviewDate": "2024-09-19", "helpfulCount": 198 },
-    { "reviewerName": "Ethan Cole", "rating": 5, "title": "Excellent value running shorts", "reviewText": "Comfortable, simple, and functional. Reflective trim is a nice touch and the fabric moves well. Exactly what I wanted for daily runs.", "verifiedPurchase": true, "reviewDate": "2024-08-07", "helpfulCount": 132 }
+    {
+      "reviewerName": "Tyler Brooks",
+      "rating": 5,
+      "title": "Light and perfect for running",
+      "reviewText": "These shorts are breathable and comfortable even on longer runs. The liner feels supportive without being restrictive, and the zip pocket is handy for a key or card.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-11-09",
+      "helpfulCount": 291
+    },
+    {
+      "reviewerName": "Karan Malhotra",
+      "rating": 4,
+      "title": "Great shorts for training",
+      "reviewText": "Very lightweight and they dry quickly after sweaty workouts. Fit is athletic and the waistband stays secure. I would buy another pair.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-09-19",
+      "helpfulCount": 198
+    },
+    {
+      "reviewerName": "Ethan Cole",
+      "rating": 5,
+      "title": "Excellent value running shorts",
+      "reviewText": "Comfortable, simple, and functional. Reflective trim is a nice touch and the fabric moves well. Exactly what I wanted for daily runs.",
+      "verifiedPurchase": true,
+      "reviewDate": "2024-08-07",
+      "helpfulCount": 132
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "LEGO Technic Bugatti Chiron (42083)",
   "description": "Build an icon. The LEGO Technic Bugatti Chiron set faithfully recreates the legendary 1500 hp hypercar in stunning detail — from the distinctive horseshoe grille and distinctive blue-and-black two-tone finish to a functional W16 engine with moving pistons, working steering, and an 8-speed gearbox. A showpiece for collectors and a dream build for enthusiasts aged 16+.",
-  "price": 349.99,
+  "price": 28999,
   "stock": 35,
   "category": "Toys & Games",
   "mainImageUrl": "https://picsum.photos/seed/legobugatti/600/600",
@@ -10,34 +10,134 @@
     "https://picsum.photos/seed/legobugatti-3/600/600"
   ],
   "specifications": [
-    { "key": "Set Number", "value": "42083" },
-    { "key": "Piece Count", "value": "3,599 pieces" },
-    { "key": "Recommended Age", "value": "16+" },
-    { "key": "Dimensions (built)", "value": "13 cm high × 56 cm long × 24 cm wide" },
-    { "key": "Theme", "value": "LEGO Technic" },
-    { "key": "Movable Parts", "value": "W16 engine with moving pistons, 8-speed gearbox, working steering, openable doors, hood & rear spoiler" },
-    { "key": "Scale", "value": "Approx. 1:8" },
-    { "key": "Difficulty Level", "value": "Advanced" },
-    { "key": "Colour", "value": "Blue & Black (Atlantic Blue)" },
-    { "key": "Packaging", "value": "Collector box with booklet" }
+    {
+      "key": "Set Number",
+      "value": "42083"
+    },
+    {
+      "key": "Piece Count",
+      "value": "3,599 pieces"
+    },
+    {
+      "key": "Recommended Age",
+      "value": "16+"
+    },
+    {
+      "key": "Dimensions (built)",
+      "value": "13 cm high × 56 cm long × 24 cm wide"
+    },
+    {
+      "key": "Theme",
+      "value": "LEGO Technic"
+    },
+    {
+      "key": "Movable Parts",
+      "value": "W16 engine with moving pistons, 8-speed gearbox, working steering, openable doors, hood & rear spoiler"
+    },
+    {
+      "key": "Scale",
+      "value": "Approx. 1:8"
+    },
+    {
+      "key": "Difficulty Level",
+      "value": "Advanced"
+    },
+    {
+      "key": "Colour",
+      "value": "Blue & Black (Atlantic Blue)"
+    },
+    {
+      "key": "Packaging",
+      "value": "Collector box with booklet"
+    }
   ],
   "additionalInfo": [
-    { "key": "ASIN", "value": "B079WQHWLG" },
-    { "key": "Customer Reviews", "value": "4.9 out of 5 stars (6,812 ratings)" },
-    { "key": "Best Sellers Rank", "value": "#1 in LEGO Technic Sets" },
-    { "key": "Date First Available", "value": "March 13, 2026" },
-    { "key": "Manufacturer", "value": "LEGO Group, Aastvej 1, DK-7190 Billund, Denmark" },
-    { "key": "Item Weight", "value": "3.82 kg" },
-    { "key": "Product Dimensions", "value": "54 × 37 × 14 cm (box)" },
-    { "key": "Warranty", "value": "LEGO satisfaction guarantee" },
-    { "key": "Batteries Required", "value": "No" },
-    { "key": "In the Box", "value": "3,599 LEGO pieces, numbered bags, illustrated build guide" }
+    {
+      "key": "ASIN",
+      "value": "B079WQHWLG"
+    },
+    {
+      "key": "Customer Reviews",
+      "value": "4.9 out of 5 stars (6,812 ratings)"
+    },
+    {
+      "key": "Best Sellers Rank",
+      "value": "#1 in LEGO Technic Sets"
+    },
+    {
+      "key": "Date First Available",
+      "value": "March 13, 2026"
+    },
+    {
+      "key": "Manufacturer",
+      "value": "LEGO Group, Aastvej 1, DK-7190 Billund, Denmark"
+    },
+    {
+      "key": "Item Weight",
+      "value": "3.82 kg"
+    },
+    {
+      "key": "Product Dimensions",
+      "value": "54 × 37 × 14 cm (box)"
+    },
+    {
+      "key": "Warranty",
+      "value": "LEGO satisfaction guarantee"
+    },
+    {
+      "key": "Batteries Required",
+      "value": "No"
+    },
+    {
+      "key": "In the Box",
+      "value": "3,599 LEGO pieces, numbered bags, illustrated build guide"
+    }
   ],
   "reviews": [
-    { "reviewerName": "Richard B.", "rating": 5, "title": "The pinnacle of LEGO Technic", "reviewText": "Took me three weekends to complete and every single moment was enjoyable. The finished model is absolutely jaw-dropping — it sits on my desk and everyone who walks in the room immediately wants to know what it is. The gearbox mechanism is engineering genius.", "verifiedPurchase": true, "reviewDate": "2026-02-20", "helpfulCount": 1024 },
-    { "reviewerName": "Anna K.", "rating": 5, "title": "Perfect gift for a car-loving adult", "reviewText": "Bought this for my partner who is a huge Bugatti fan. He spent three evenings building it and was smiling the entire time. The level of detail is extraordinary — the W16 engine alone is worth the price.", "verifiedPurchase": true, "reviewDate": "2026-01-30", "helpfulCount": 743 },
-    { "reviewerName": "Joe T.", "rating": 5, "title": "Best LEGO set I've ever built", "reviewText": "I've built over 40 Technic sets and this is the crown jewel. The complexity is satisfying rather than frustrating, and the end result is a centrepiece-quality model. Highly recommend to any serious LEGO fan.", "verifiedPurchase": true, "reviewDate": "2026-02-14", "helpfulCount": 589 },
-    { "reviewerName": "Lucas F.", "rating": 4, "title": "Incredible model, steep price", "reviewText": "There is no question this deserves 5 stars for quality, engineering, and the building experience. I docked one star purely for the price point — it's a lot to spend. That said, for what you get it's probably justified.", "verifiedPurchase": true, "reviewDate": "2026-03-01", "helpfulCount": 412 },
-    { "reviewerName": "Sofia M.", "rating": 5, "title": "A masterpiece of a toy", "reviewText": "My teenage son and I built this together over two weekends. It brought us closer and the finished car is stunning. The moving pistons in the W16 engine mesmerised us both. An unforgettable build.", "verifiedPurchase": true, "reviewDate": "2026-02-26", "helpfulCount": 667 }
+    {
+      "reviewerName": "Richard B.",
+      "rating": 5,
+      "title": "The pinnacle of LEGO Technic",
+      "reviewText": "Took me three weekends to complete and every single moment was enjoyable. The finished model is absolutely jaw-dropping — it sits on my desk and everyone who walks in the room immediately wants to know what it is. The gearbox mechanism is engineering genius.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-20",
+      "helpfulCount": 1024
+    },
+    {
+      "reviewerName": "Anna K.",
+      "rating": 5,
+      "title": "Perfect gift for a car-loving adult",
+      "reviewText": "Bought this for my partner who is a huge Bugatti fan. He spent three evenings building it and was smiling the entire time. The level of detail is extraordinary — the W16 engine alone is worth the price.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-01-30",
+      "helpfulCount": 743
+    },
+    {
+      "reviewerName": "Joe T.",
+      "rating": 5,
+      "title": "Best LEGO set I've ever built",
+      "reviewText": "I've built over 40 Technic sets and this is the crown jewel. The complexity is satisfying rather than frustrating, and the end result is a centrepiece-quality model. Highly recommend to any serious LEGO fan.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-14",
+      "helpfulCount": 589
+    },
+    {
+      "reviewerName": "Lucas F.",
+      "rating": 4,
+      "title": "Incredible model, steep price",
+      "reviewText": "There is no question this deserves 5 stars for quality, engineering, and the building experience. I docked one star purely for the price point — it's a lot to spend. That said, for what you get it's probably justified.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-03-01",
+      "helpfulCount": 412
+    },
+    {
+      "reviewerName": "Sofia M.",
+      "rating": 5,
+      "title": "A masterpiece of a toy",
+      "reviewText": "My teenage son and I built this together over two weekends. It brought us closer and the finished car is stunning. The moving pistons in the W16 engine mesmerised us both. An unforgettable build.",
+      "verifiedPurchase": true,
+      "reviewDate": "2026-02-26",
+      "helpfulCount": 667
+    }
   ]
 }
