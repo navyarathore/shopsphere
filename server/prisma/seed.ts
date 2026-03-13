@@ -46,11 +46,24 @@ async function main() {
     } = data;
 
     const existing = await prisma.product.findFirst({ where: { name } });
+
     if (existing) {
-      process.stdout.write(`  ⏭  ${name} (skipped – already exists)\n`);
+      // ── Already exists → update only scalar fields (avoids duplicate nested rows) ──
+      await prisma.product.update({
+        where: { id: existing.id },
+        data: {
+          description,
+          price,
+          stock,
+          mainImageUrl,
+          category: { connect: { name: category } },
+        },
+      });
+      process.stdout.write(`  ↻  ${name} (updated)\n`);
       continue;
     }
 
+    // ── New product → create with all nested relations ────────────────────────────
     await prisma.product.create({
       data: {
         name,
@@ -95,7 +108,7 @@ async function main() {
       },
     });
 
-    process.stdout.write(`  ✓ ${name}\n`);
+    process.stdout.write(`  ✓  ${name} (created)\n`);
   }
 
   console.log('\n✅ Seed completed successfully!');
