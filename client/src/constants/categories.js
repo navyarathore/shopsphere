@@ -4,10 +4,11 @@ export const AVAILABLE_CATEGORY_NAMES = [
   'Clothing',
   'Home & Kitchen',
   'Sports & Outdoors',
+  'Fresh',
 ]
 
 export const CATEGORY_NAV_ITEMS = [
-  { label: 'Fresh', query: 'Fresh', icon: '🥦', hasProducts: false },
+  { label: 'Fresh', query: 'Fresh', icon: '🥦', hasProducts: true },
   { label: 'Bestsellers', query: 'Bestsellers', icon: '🏆', hasProducts: false },
   { label: 'Mobiles', query: 'Mobiles', icon: '📱', hasProducts: false },
   { label: 'Customer Service', query: 'Customer Service', icon: '🎧', hasProducts: false },

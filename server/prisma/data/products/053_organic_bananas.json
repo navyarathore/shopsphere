@@ -1,0 +1,41 @@
+{
+  "name": "Organic Bananas (Bunch)",
+  "description": "Certified organic bananas grown without synthetic pesticides or fertilisers. Naturally sweet, energy-packed, and perfectly ripened for eating fresh, blending into smoothies, or baking.",
+  "price": 1.49,
+  "stock": 300,
+  "category": "Fresh",
+  "mainImageUrl": "https://picsum.photos/seed/bananas/600/600",
+  "images": [
+    "https://picsum.photos/seed/bananas-2/600/600",
+    "https://picsum.photos/seed/bananas-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Type", "value": "Cavendish Banana" },
+    { "key": "Certification", "value": "USDA Certified Organic" },
+    { "key": "Average Bunch Weight", "value": "700 g – 900 g (5–7 bananas)" },
+    { "key": "Origin", "value": "Ecuador" },
+    { "key": "Ripeness at Delivery", "value": "Yellow / Ready to Eat" },
+    { "key": "Shelf Life", "value": "3–5 days at room temperature" },
+    { "key": "Storage", "value": "Room temperature; keep away from direct sunlight" },
+    { "key": "Calories per 100 g", "value": "89 kcal" },
+    { "key": "Sugar Content", "value": "12 g per 100 g" },
+    { "key": "Non-GMO", "value": "Yes" }
+  ],
+  "additionalInfo": [
+    { "key": "Best Use", "value": "Eating fresh, smoothies, baking, oatmeal topping" },
+    { "key": "Allergen Info", "value": "None" },
+    { "key": "Packaging", "value": "Loose bunch, compostable sticker label" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Sold By", "value": "ShopSphere Fresh" },
+    { "key": "Item Weight", "value": "Approx. 800 g per bunch" },
+    { "key": "Country of Origin", "value": "Ecuador" },
+    { "key": "Recyclable Packaging", "value": "Yes" }
+  ],
+  "reviews": [
+    { "reviewerName": "Laura T.", "rating": 5, "title": "Perfect sweetness every time", "reviewText": "These bananas arrive at just the right ripeness and taste noticeably sweeter than the conventional ones I used to buy. Highly recommend going organic for bananas!", "verifiedPurchase": true, "reviewDate": "2026-02-10", "helpfulCount": 134 },
+    { "reviewerName": "Chris P.", "rating": 5, "title": "Great for smoothies", "reviewText": "I buy these every week for my morning smoothies. Consistent quality, delivered fresh, and the organic certification gives me peace of mind.", "verifiedPurchase": true, "reviewDate": "2026-01-28", "helpfulCount": 89 },
+    { "reviewerName": "Anita K.", "rating": 4, "title": "Good quality, slightly pricier", "reviewText": "A little more expensive than supermarket bananas but the quality and taste justify the cost. Will keep ordering.", "verifiedPurchase": true, "reviewDate": "2026-02-20", "helpfulCount": 57 },
+    { "reviewerName": "James O.", "rating": 5, "title": "Kids love them", "reviewText": "My kids refuse to eat any other bananas now. They can definitely taste the difference between these and the regular ones from the store.", "verifiedPurchase": true, "reviewDate": "2026-03-01", "helpfulCount": 212 },
+    { "reviewerName": "Michelle R.", "rating": 4, "title": "Reliable and fresh", "reviewText": "Arrived well-packed and in perfect condition. The bunch was a good size. Docked one star only because two bananas were slightly bruised, but the rest were flawless.", "verifiedPurchase": true, "reviewDate": "2026-02-15", "helpfulCount": 43 }
+  ]
+}

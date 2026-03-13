@@ -1,0 +1,41 @@
+{
+  "name": "Organic Baby Spinach (5 oz)",
+  "description": "Tender, triple-washed organic baby spinach leaves ready to eat straight from the bag. Rich in iron, vitamins A and C, and antioxidants. Perfect for salads, smoothies, sautés, and pasta dishes.",
+  "price": 3.99,
+  "stock": 180,
+  "category": "Fresh",
+  "mainImageUrl": "https://picsum.photos/seed/spinach/600/600",
+  "images": [
+    "https://picsum.photos/seed/spinach-2/600/600",
+    "https://picsum.photos/seed/spinach-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Net Weight", "value": "5 oz (142 g)" },
+    { "key": "Certification", "value": "USDA Certified Organic" },
+    { "key": "Variety", "value": "Baby Spinach (Spinacia oleracea)" },
+    { "key": "Origin", "value": "California, USA" },
+    { "key": "Washing", "value": "Triple-washed, ready to eat" },
+    { "key": "Shelf Life", "value": "5–7 days refrigerated" },
+    { "key": "Storage", "value": "Keep refrigerated at 35–40 °F" },
+    { "key": "Calories per serving (2 cups / 60 g)", "value": "15 kcal" },
+    { "key": "Iron per serving", "value": "6% Daily Value" },
+    { "key": "Non-GMO", "value": "Yes" }
+  ],
+  "additionalInfo": [
+    { "key": "Best Use", "value": "Salads, smoothies, omelets, pasta, sandwiches" },
+    { "key": "Allergen Info", "value": "None" },
+    { "key": "Packaging", "value": "Resealable clamshell container" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Sold By", "value": "ShopSphere Fresh" },
+    { "key": "Country of Origin", "value": "USA" },
+    { "key": "Recyclable Packaging", "value": "Yes" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars" }
+  ],
+  "reviews": [
+    { "reviewerName": "Sophie G.", "rating": 5, "title": "Freshest spinach I've ever ordered online", "reviewText": "Arrived cold and crisp with no wilting. The leaves are small, tender, and incredibly flavourful. Will make this a weekly staple.", "verifiedPurchase": true, "reviewDate": "2026-02-22", "helpfulCount": 198 },
+    { "reviewerName": "Nathan B.", "rating": 5, "title": "Smoothie game changer", "reviewText": "I throw two big handfuls into my morning smoothie every day. No bitterness, blends perfectly, and I love knowing it's organic.", "verifiedPurchase": true, "reviewDate": "2026-01-31", "helpfulCount": 144 },
+    { "reviewerName": "Priya S.", "rating": 4, "title": "Great quality, decent shelf life", "reviewText": "Very fresh on arrival. Lasted about 6 days in the fridge, which is what I expected. The resealable bag helps a lot.", "verifiedPurchase": true, "reviewDate": "2026-02-14", "helpfulCount": 76 },
+    { "reviewerName": "Tom H.", "rating": 5, "title": "Perfect for quick weeknight dinners", "reviewText": "I wilt these into pasta, add them to omelets, and use them in salads. So convenient having a clean, ready-to-use bag.", "verifiedPurchase": true, "reviewDate": "2026-03-05", "helpfulCount": 102 },
+    { "reviewerName": "Carla M.", "rating": 4, "title": "Good but a little pricey per oz", "reviewText": "Top quality spinach. I'd give it 5 stars but I do think the price per ounce is a bit high compared to in-store organic options. That said, the convenience makes it worth it for me.", "verifiedPurchase": true, "reviewDate": "2026-02-08", "helpfulCount": 55 }
+  ]
+}
