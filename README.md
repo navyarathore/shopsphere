@@ -6,6 +6,22 @@ A full-stack e-commerce web application built with React + TypeScript, Node.js/E
 
 ---
 
+## Table of Contents
+
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Features](#features)
+- [Auth Flow](#auth-flow)
+- [Database Schema](#database-schema)
+- [Project Structure](#project-structure)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Environment Variables](#environment-variables)
+- [Deployment](#deployment)
+
+---
+
 ## Screenshots
 
 **Signup** — Create a new account with email and password.
@@ -35,22 +51,6 @@ A full-stack e-commerce web application built with React + TypeScript, Node.js/E
 **Order History** — View past orders and their details.
 
 ![Order History](docs/screenshots/order-history.png)
-
----
-
-## Table of Contents
-
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Auth Flow](#auth-flow)
-- [Database Schema](#database-schema)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [Deployment](#deployment)
 
 ---
 
