@@ -1,0 +1,48 @@
+{
+  "name": "Google Pixel 9 Pro",
+  "description": "Google's flagship smartphone featuring a 6.3-inch LTPO OLED display, the powerful Tensor G4 chip, and a pro-grade triple camera system with 50 MP main, 48 MP ultrawide, and 48 MP telephoto lenses. Backed by 7 years of OS and security updates, it delivers pure Android 15 with exclusive AI-powered features.",
+  "price": 999.00,
+  "stock": 75,
+  "category": "Mobiles",
+  "mainImageUrl": "https://picsum.photos/seed/pixel9pro/600/600",
+  "images": [
+    "https://picsum.photos/seed/pixel9pro-2/600/600",
+    "https://picsum.photos/seed/pixel9pro-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Display", "value": "6.3-inch LTPO OLED, 1–120 Hz, 2992 × 1344 px, 1600 nits" },
+    { "key": "Processor", "value": "Google Tensor G4" },
+    { "key": "RAM", "value": "16 GB LPDDR5X" },
+    { "key": "Storage", "value": "128 GB / 256 GB / 512 GB / 1 TB UFS 3.1" },
+    { "key": "Rear Cameras", "value": "50 MP main (f/1.68) + 48 MP ultrawide (f/1.7) + 48 MP telephoto 5× (f/2.8)" },
+    { "key": "Front Camera", "value": "10.5 MP, f/2.2, autofocus" },
+    { "key": "Battery", "value": "4700 mAh, 27W wired, 21W wireless, reverse wireless charging" },
+    { "key": "OS", "value": "Android 15 (7 years of updates guaranteed)" },
+    { "key": "Connectivity", "value": "5G, Wi-Fi 7, Bluetooth 5.3, NFC, UWB" },
+    { "key": "Build", "value": "Corning Gorilla Glass Victus 2 front & back, polished titanium frame" },
+    { "key": "Dimensions", "value": "152.8 × 72.0 × 8.5 mm" },
+    { "key": "Weight", "value": "199 g" },
+    { "key": "Water Resistance", "value": "IP68 (6 m for 30 min)" },
+    { "key": "Colours Available", "value": "Obsidian, Porcelain, Hazel, Wintergreen" },
+    { "key": "Charging Port", "value": "USB-C 3.2 Gen 2" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B0CX9PX001" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (3,214 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#4 in Smartphones" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "Google LLC, 1600 Amphitheatre Pkwy, Mountain View, CA 94043" },
+    { "key": "Item Weight", "value": "199 g" },
+    { "key": "Product Dimensions", "value": "152.8 × 72.0 × 8.5 mm" },
+    { "key": "Warranty", "value": "1-year limited manufacturer warranty" },
+    { "key": "SIM", "value": "Nano-SIM + eSIM (dual SIM)" },
+    { "key": "In the Box", "value": "Pixel 9 Pro, USB-C cable (1 m), SIM tool, Quick Start Guide" }
+  ],
+  "reviews": [
+    { "reviewerName": "Alex W.", "rating": 5, "title": "The best Android phone I've ever used", "reviewText": "Switched from Samsung and I'm not looking back. The camera is extraordinary — lowlight photos look like they were taken on a DSLR. Android 15 is buttery smooth on the Tensor G4, and the 7-year update promise gives me serious peace of mind. Battery comfortably lasts all day.", "verifiedPurchase": true, "reviewDate": "2026-02-18", "helpfulCount": 548 },
+    { "reviewerName": "Priya T.", "rating": 5, "title": "Call Screen and AI features are genuinely useful", "reviewText": "I was sceptical about the AI features, but Call Screen alone has saved me from countless spam calls. The camera magic eraser and photo unblur are witchcraft. Highly recommend to anyone on Android.", "verifiedPurchase": true, "reviewDate": "2026-02-25", "helpfulCount": 412 },
+    { "reviewerName": "Jake M.", "rating": 4, "title": "Outstanding camera, average battery life", "reviewText": "The camera system is class-leading for this size. Portrait and astrophotography modes are stunning. My one gripe is that battery life is only 'good', not 'great' — I usually need a top-up by evening on heavy-use days. Still a 9/10 phone.", "verifiedPurchase": true, "reviewDate": "2026-03-01", "helpfulCount": 287 },
+    { "reviewerName": "Sarah L.", "rating": 5, "title": "Fast, clean, and beautiful", "reviewText": "The Porcelain colour is gorgeous. It feels premium without being ostentatious. Pure Android with no bloatware is a dream after years of manufacturer skins. Face unlock is instant.", "verifiedPurchase": true, "reviewDate": "2026-03-06", "helpfulCount": 193 },
+    { "reviewerName": "Omar F.", "rating": 4, "title": "Almost perfect flagship", "reviewText": "Exceptional build quality and a camera that makes food, landscape, and portrait photos look editorial. Docking one star because 27W charging feels slow in 2026 when competitors are hitting 100W+. But if you don't care about speed charging, this phone is a dream.", "verifiedPurchase": true, "reviewDate": "2026-02-10", "helpfulCount": 341 }
+  ]
+}

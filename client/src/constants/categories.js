@@ -5,12 +5,13 @@ export const AVAILABLE_CATEGORY_NAMES = [
   'Home & Kitchen',
   'Sports & Outdoors',
   'Fresh',
+  'Mobiles',
 ]
 
 export const CATEGORY_NAV_ITEMS = [
   { label: 'Fresh', query: 'Fresh', icon: '🥦', hasProducts: true },
   { label: 'Bestsellers', query: 'Bestsellers', icon: '🏆', hasProducts: false },
-  { label: 'Mobiles', query: 'Mobiles', icon: '📱', hasProducts: false },
+  { label: 'Mobiles', query: 'Mobiles', icon: '📱', hasProducts: true },
   { label: 'Customer Service', query: 'Customer Service', icon: '🎧', hasProducts: false },
 //   { label: "Today's Deals", query: "Today's Deals", icon: '🏷️', hasProducts: false },
   { label: 'Electronics', query: 'Electronics', icon: '💻', hasProducts: true },

@@ -1,0 +1,48 @@
+{
+  "name": "Apple iPhone 16",
+  "description": "The standard iPhone reimagined with the new A18 chip, Camera Control button, and a 48 MP Fusion camera system. Featuring a 6.1-inch Super Retina XDR display, Apple Intelligence integration, and the longest battery life ever in a standard iPhone. Runs iOS 18.",
+  "price": 799.00,
+  "stock": 90,
+  "category": "Mobiles",
+  "mainImageUrl": "https://picsum.photos/seed/iphone16/600/600",
+  "images": [
+    "https://picsum.photos/seed/iphone16-2/600/600",
+    "https://picsum.photos/seed/iphone16-3/600/600"
+  ],
+  "specifications": [
+    { "key": "Display", "value": "6.1-inch Super Retina XDR OLED, 60 Hz, 2556 × 1179 px, 2000 nits peak" },
+    { "key": "Processor", "value": "Apple A18 (3 nm)" },
+    { "key": "RAM", "value": "8 GB" },
+    { "key": "Storage", "value": "128 GB / 256 GB / 512 GB" },
+    { "key": "Rear Cameras", "value": "48 MP main Fusion (f/1.6) + 12 MP ultrawide (f/2.2) with autofocus" },
+    { "key": "Front Camera", "value": "12 MP TrueDepth, f/1.9, autofocus" },
+    { "key": "Battery", "value": "3561 mAh, 25W MagSafe, 15W Qi2, 4.5W reverse MagSafe" },
+    { "key": "OS", "value": "iOS 18 (Apple Intelligence ready)" },
+    { "key": "Connectivity", "value": "5G, Wi-Fi 7, Bluetooth 5.3, NFC, UWB, Thread" },
+    { "key": "Camera Control", "value": "Dedicated capacitive Camera Control button" },
+    { "key": "Build", "value": "Ceramic Shield front, textured matte glass back, aluminium frame" },
+    { "key": "Dimensions", "value": "147.6 × 71.6 × 7.80 mm" },
+    { "key": "Weight", "value": "170 g" },
+    { "key": "Water Resistance", "value": "IP68 (6 m for 30 min)" },
+    { "key": "Colours Available", "value": "Black, White, Pink, Teal, Ultramarine" }
+  ],
+  "additionalInfo": [
+    { "key": "ASIN", "value": "B0CX16AP01" },
+    { "key": "Customer Reviews", "value": "4.7 out of 5 stars (5,891 ratings)" },
+    { "key": "Best Sellers Rank", "value": "#1 in Smartphones" },
+    { "key": "Date First Available", "value": "March 13, 2026" },
+    { "key": "Manufacturer", "value": "Apple Inc., One Apple Park Way, Cupertino, CA 95014" },
+    { "key": "Item Weight", "value": "170 g" },
+    { "key": "Product Dimensions", "value": "147.6 × 71.6 × 7.80 mm" },
+    { "key": "Warranty", "value": "1-year limited manufacturer warranty (AppleCare+ available)" },
+    { "key": "SIM", "value": "eSIM only (USA); Nano-SIM + eSIM (international)" },
+    { "key": "In the Box", "value": "iPhone 16, USB-C cable (1 m), documentation" }
+  ],
+  "reviews": [
+    { "reviewerName": "Emma S.", "rating": 5, "title": "The best non-Pro iPhone Apple has made", "reviewText": "The A18 chip is blazing fast, the camera now focuses in ultrawide (a first for the standard model!), and the Camera Control button is genuinely useful once you practise. Battery life is noticeably better than my old iPhone 13. Very happy.", "verifiedPurchase": true, "reviewDate": "2026-02-22", "helpfulCount": 723 },
+    { "reviewerName": "Ben C.", "rating": 5, "title": "Smooth and reliable, as expected", "reviewText": "iOS 18 is polished and the A18 handles everything without a hint of lag. Face ID is instant, the screen looks beautiful, and it fits perfectly in one hand. Apple Intelligence features are genuinely helpful for summarising notifications.", "verifiedPurchase": true, "reviewDate": "2026-03-04", "helpfulCount": 511 },
+    { "reviewerName": "Grace P.", "rating": 4, "title": "Great phone, missing the telephoto", "reviewText": "Coming from an iPhone 14 Pro, I miss the dedicated telephoto lens. Otherwise this is a stellar upgrade — faster, lighter, much better battery. For most people this is the perfect iPhone.", "verifiedPurchase": true, "reviewDate": "2026-02-17", "helpfulCount": 388 },
+    { "reviewerName": "Raj N.", "rating": 5, "title": "Incredible value for money", "reviewText": "At $799 this is genuinely good value for a flagship phone. Performance is Pro-class thanks to the A18, and the camera improvements over iPhone 15 are meaningful. The Teal colour is stunning in person.", "verifiedPurchase": true, "reviewDate": "2026-03-07", "helpfulCount": 462 },
+    { "reviewerName": "Claire O.", "rating": 4, "title": "Camera Control takes getting used to", "reviewText": "I accidentally launched the camera constantly in the first week by swiping the Camera Control button. After a couple of weeks it feels natural. The photos this phone produces are outstanding — skin tones look especially natural.", "verifiedPurchase": true, "reviewDate": "2026-02-12", "helpfulCount": 217 }
+  ]
+}
