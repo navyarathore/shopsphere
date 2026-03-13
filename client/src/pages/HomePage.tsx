@@ -6,6 +6,7 @@ import HeroBanner from '../components/home/HeroBanner'
 import CategoryShowcase from '../components/home/CategoryShowcase'
 import ProductRow from '../components/home/ProductRow'
 import { AVAILABLE_CATEGORY_NAMES, CATEGORY_NAV_ITEMS } from '../constants/categories'
+import BestsellerPage from './BestsellerPage'
 import type { Product } from '../types'
 
 interface MidBannerProps {
@@ -109,6 +110,11 @@ export default function HomePage() {
 
   // Row accent colours cycling
   const ACCENTS = ['#febd69', '#4286f4', '#38ef7d', '#a044ff', '#f66']
+
+  // ── Bestsellers ─────────────────────────────────────────────────────────
+  if (categoryFilter === 'Bestsellers') {
+    return <BestsellerPage />
+  }
 
   // ── Search / filter mode ─────────────────────────────────────────────────
   if (searchQuery || categoryFilter) {

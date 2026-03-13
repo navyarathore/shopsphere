@@ -12,7 +12,7 @@ export const AVAILABLE_CATEGORY_NAMES: string[] = [
 
 export const CATEGORY_NAV_ITEMS: Array<{ label: string; query: string; icon: string; hasProducts: boolean }> = [
   { label: 'Fresh', query: 'Fresh', icon: '🥦', hasProducts: true },
-  { label: 'Bestsellers', query: 'Bestsellers', icon: '🏆', hasProducts: false },
+  { label: 'Bestsellers', query: 'Bestsellers', icon: '🏆', hasProducts: true },
   { label: 'Mobiles', query: 'Mobiles', icon: '📱', hasProducts: true },
   { label: 'Customer Service', query: 'Customer Service', icon: '🎧', hasProducts: false },
   { label: 'Electronics', query: 'Electronics', icon: '💻', hasProducts: true },
