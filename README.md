@@ -8,20 +8,33 @@ A full-stack e-commerce web application built with React + TypeScript, Node.js/E
 
 ## Screenshots
 
-<table>
-<tr>
-  <td><img src="docs/screenshots/signup.png" alt="Cart" width="400"/></td>
-  <td><img src="docs/screenshots/homepage.png" alt="Order History" width="400"/></td>
-</tr>
-<tr>
-  <td><img src="docs/screenshots/product-detail.png" alt="Homepage" width="400"/></td>
-  <td><img src="docs/screenshots/cart.png" alt="Product Detail" width="400"/></td>
-</tr>
-<tr>
-  <td><img src="docs/screenshots/checkout.png" alt="Cart" width="400"/></td>
-  <td><img src="docs/screenshots/order-history.png" alt="Order History" width="400"/></td>
-</tr>
-</table>
+**Signup** — Create a new account with email and password.
+
+![Signup](docs/screenshots/signup.png)
+
+**Homepage** — Browse featured products, categories, and bestsellers.
+
+![Homepage](docs/screenshots/homepage.png)
+
+**Wishlist** — Add products in wishlist for future purchase.
+
+![Signup](docs/screenshots/wishlist.png)
+
+**Product Detail** — View product info, images, and add to cart or wishlist.
+
+![Product Detail](docs/screenshots/product-detail.png)
+
+**Cart** — Review selected items, adjust quantities, and proceed to checkout.
+
+![Cart](docs/screenshots/cart.png)
+
+**Checkout** — Enter shipping address and place an order.
+
+![Checkout](docs/screenshots/checkout.png)
+
+**Order History** — View past orders and their details.
+
+![Order History](docs/screenshots/order-history.png)
 
 ---
 
