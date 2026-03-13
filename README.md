@@ -36,6 +36,10 @@ A full-stack e-commerce web application built with React + TypeScript, Node.js/E
 
 ![Signup](docs/screenshots/wishlist.png)
 
+**category Product** — View product listings across multiple categories.
+
+![Product Detail](docs/screenshots/product-listing.png)
+
 **Product Detail** — View product info, images, and add to cart or wishlist.
 
 ![Product Detail](docs/screenshots/product-detail.png)
