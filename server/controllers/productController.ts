@@ -33,19 +33,28 @@ export const getProducts = async (req: Request, res: Response, next: NextFunctio
         mainImageUrl: true,
         categoryId: true,
         category: { select: { name: true } },
+        reviews: { select: { rating: true } },
       },
     })
 
     // Flatten category name to match the existing API shape
-    const result = products.map((p) => ({
-      id: p.id,
-      name: p.name,
-      price: p.price,
-      stock: p.stock,
-      main_image_url: p.mainImageUrl,
-      category_id: p.categoryId,
-      category_name: p.category.name,
-    }))
+    const result = products.map((p) => {
+      const ratings = p.reviews.map((r) => r.rating)
+      const avg_rating = ratings.length
+        ? Math.round((ratings.reduce((a, b) => a + b, 0) / ratings.length) * 10) / 10
+        : null
+      return {
+        id: p.id,
+        name: p.name,
+        price: p.price,
+        stock: p.stock,
+        main_image_url: p.mainImageUrl,
+        category_id: p.categoryId,
+        category_name: p.category.name,
+        avg_rating,
+        review_count: ratings.length,
+      }
+    })
 
     res.json(result)
   } catch (err) {

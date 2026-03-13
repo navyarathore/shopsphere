@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import api from '../services/api'
 import ProductGrid from '../components/product/ProductGrid'
+import FilterSortPanel, { DEFAULT_FILTERS, type FilterState } from '../components/product/FilterSortPanel'
 import HeroBanner from '../components/home/HeroBanner'
 import CategoryShowcase from '../components/home/CategoryShowcase'
 import ProductRow from '../components/home/ProductRow'
@@ -73,6 +74,16 @@ export default function HomePage() {
   const [filterLoading, setFilterLoading] = useState(false)
   const [filterError, setFilterError] = useState<string | null>(null)
 
+  // Sort & filter panel state
+  const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS)
+  const [sidebarOpen, setSidebarOpen] = useState(false)
+
+  // Reset panel filters whenever the search/category query changes
+  useEffect(() => {
+    setFilters(DEFAULT_FILTERS)
+    setSidebarOpen(false)
+  }, [searchQuery, categoryFilter])
+
   // Fetch ALL products once on mount (for category sections)
   useEffect(() => {
     api.get('/api/products')
@@ -106,6 +117,54 @@ export default function HomePage() {
     return map
   }, [allProducts])
 
+  // Apply sort + filters to the raw listing products
+  const processedProducts = useMemo(() => {
+    const raw = showAllProducts ? allProducts : filteredProducts
+
+    // 1. filter – price range
+    let out = raw.filter((p) => {
+      const price = Number(p.price)
+      switch (filters.priceRange) {
+        case 'under_500':   return price < 500
+        case '500_1000':    return price >= 500 && price <= 1000
+        case '1000_2000':   return price > 1000 && price <= 2000
+        case '2000_3000':   return price > 2000 && price <= 3000
+        case 'over_3000':   return price > 3000
+        default:            return true
+      }
+    })
+
+    // 2. filter – minimum rating
+    if (filters.minRating > 0) {
+      out = out.filter((p) => p.avg_rating !== null && p.avg_rating >= filters.minRating)
+    }
+
+    // 3. filter – in-stock only
+    if (filters.inStockOnly) {
+      out = out.filter((p) => p.stock > 0)
+    }
+
+    // 4. sort
+    switch (filters.sort) {
+      case 'price_asc':
+        out = [...out].sort((a, b) => Number(a.price) - Number(b.price))
+        break
+      case 'price_desc':
+        out = [...out].sort((a, b) => Number(b.price) - Number(a.price))
+        break
+      case 'rating_desc':
+        out = [...out].sort((a, b) => (b.avg_rating ?? 0) - (a.avg_rating ?? 0))
+        break
+      case 'name_asc':
+        out = [...out].sort((a, b) => a.name.localeCompare(b.name))
+        break
+      default:
+        break  // 'featured' = original server order
+    }
+
+    return out
+  }, [showAllProducts, allProducts, filteredProducts, filters])
+
   const categoryNames = useMemo(() => Object.keys(categoryMap), [categoryMap])
   const isUnavailableCategory = useMemo(
     () => Boolean(categoryFilter) && categoryFilter !== 'All' && !AVAILABLE_CATEGORY_NAMES.includes(categoryFilter),
@@ -132,11 +191,11 @@ export default function HomePage() {
 
   // ── Search / filter mode ─────────────────────────────────────────────────
   if (searchQuery || categoryFilter) {
-    const gridProducts = showAllProducts ? allProducts : filteredProducts
     const gridLoading = showAllProducts ? loading : filterLoading
 
     return (
       <div className="max-w-[1500px] mx-auto px-3 sm:px-6 py-6">
+        {/* Breadcrumb / query bar */}
         <div className="mb-4 flex items-center gap-3 flex-wrap">
           {searchQuery && (
             <span className="text-gray-700 text-sm">
@@ -154,16 +213,72 @@ export default function HomePage() {
           >
             ✕ Clear filters
           </button>
+
+          {/* Mobile sidebar toggle */}
+          <button
+            onClick={() => setSidebarOpen((o) => !o)}
+            className="ml-auto flex items-center gap-1.5 lg:hidden text-sm font-semibold border border-gray-300 rounded-full px-3 py-1 hover:border-amazon-orange hover:text-amazon-orange transition-colors"
+          >
+            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M3 4h18M7 8h10M10 12h4" />
+            </svg>
+            {sidebarOpen ? 'Hide Filters' : 'Filters & Sort'}
+          </button>
         </div>
-        <ProductGrid
-          products={gridProducts}
-          loading={gridLoading}
-          error={filterError}
-          emptyTitle={isUnavailableCategory ? 'No products available' : 'No products found'}
-          emptyMessage={isUnavailableCategory
-            ? `We don't have any products in ${categoryFilter} yet.`
-            : 'Try adjusting your search or filter.'}
-        />
+
+        <div className="flex gap-6 items-start">
+          {/* ── Sidebar ─────────────────────────────────────────────────── */}
+          <div className={`flex-shrink-0 w-56 ${sidebarOpen ? 'block' : 'hidden'} lg:block`}>
+            <FilterSortPanel
+              filters={filters}
+              onChange={setFilters}
+              totalCount={processedProducts.length}
+            />
+          </div>
+
+          {/* ── Product grid ─────────────────────────────────────────────── */}
+          <div className="flex-1 min-w-0">
+            {/* Active filter chips */}
+            {(filters.priceRange || filters.minRating > 0 || filters.inStockOnly) && (
+              <div className="flex flex-wrap gap-2 mb-3">
+                {filters.priceRange && (
+                  <span className="inline-flex items-center gap-1 text-xs bg-amber-100 text-amber-800 font-medium px-2.5 py-1 rounded-full">
+                    {{
+                      under_500: 'Under ₹500',
+                      '500_1000': '₹500–₹1,000',
+                      '1000_2000': '₹1,000–₹2,000',
+                      '2000_3000': '₹2,000–₹3,000',
+                      over_3000: 'Over ₹3,000',
+                    }[filters.priceRange]}
+                    <button onClick={() => setFilters((f) => ({ ...f, priceRange: '' }))} className="ml-0.5 hover:text-amber-600">✕</button>
+                  </span>
+                )}
+                {filters.minRating > 0 && (
+                  <span className="inline-flex items-center gap-1 text-xs bg-amber-100 text-amber-800 font-medium px-2.5 py-1 rounded-full">
+                    {filters.minRating}★ & up
+                    <button onClick={() => setFilters((f) => ({ ...f, minRating: 0 }))} className="ml-0.5 hover:text-amber-600">✕</button>
+                  </span>
+                )}
+                {filters.inStockOnly && (
+                  <span className="inline-flex items-center gap-1 text-xs bg-amber-100 text-amber-800 font-medium px-2.5 py-1 rounded-full">
+                    In Stock Only
+                    <button onClick={() => setFilters((f) => ({ ...f, inStockOnly: false }))} className="ml-0.5 hover:text-amber-600">✕</button>
+                  </span>
+                )}
+              </div>
+            )}
+
+            <ProductGrid
+              products={processedProducts}
+              loading={gridLoading}
+              error={filterError}
+              emptyTitle={isUnavailableCategory ? 'No products available' : 'No products found'}
+              emptyMessage={isUnavailableCategory
+                ? `We don't have any products in ${categoryFilter} yet.`
+                : 'Try adjusting your search or filter.'}
+            />
+          </div>
+        </div>
       </div>
     )
   }

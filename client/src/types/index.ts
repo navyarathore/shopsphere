@@ -23,6 +23,8 @@ export interface Product {
   main_image_url: string
   category_id: number
   category_name: string
+  avg_rating: number | null
+  review_count: number
 }
 
 export interface ProductImage {
