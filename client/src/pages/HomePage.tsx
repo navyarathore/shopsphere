@@ -7,6 +7,8 @@ import CategoryShowcase from '../components/home/CategoryShowcase'
 import ProductRow from '../components/home/ProductRow'
 import { AVAILABLE_CATEGORY_NAMES, CATEGORY_NAV_ITEMS } from '../constants/categories'
 import BestsellerPage from './BestsellerPage'
+import CustomerServicePage from './CustomerServicePage'
+import GiftCardsPage from './GiftCardsPage'
 import type { Product } from '../types'
 
 interface MidBannerProps {
@@ -116,6 +118,16 @@ export default function HomePage() {
   // ── Bestsellers ─────────────────────────────────────────────────────────
   if (categoryFilter === 'Bestsellers') {
     return <BestsellerPage />
+  }
+
+  // ── Customer Service ────────────────────────────────────────────────────
+  if (categoryFilter === 'Customer Service') {
+    return <CustomerServicePage />
+  }
+
+  // ── Gift Cards ───────────────────────────────────────────────────────────
+  if (categoryFilter === 'Gift Cards') {
+    return <GiftCardsPage />
   }
 
   // ── Search / filter mode ─────────────────────────────────────────────────
